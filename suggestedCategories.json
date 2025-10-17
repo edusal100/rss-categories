@@ -1,4 +1,4 @@
-{ "version": "1.0.2", "categories": { "Tech": [
+{ "version": "1.0.3", "categories": { "Tech": [
       { "name": "Wired", "url": "https://www.wired.com/feed/rss", "icon": "monitor" },
       { "name": "Mashable", "url": "https://mashable.com/feeds/rss/all", "icon": "zap" },
       { "name": "Xataka", "url": "https://www.xataka.com/feedburner.xml", "icon": "cpu" },
@@ -131,7 +131,14 @@
       { "name": "Filmibeat", "url": "https://www.filmibeat.com/rss/feeds/filmibeat-fb.xml", "icon": "film" },
       { "name": "Boxoffice", "url": "https://www.boxofficepro.com/feed/", "icon": "film" },
       { "name": "Film Threat", "url": "https://www.filmthreat.com/feed/", "icon": "film" },
-      { "name": "Sensacine", "url": "https://www.sensacine.com/rss/noticias.xml", "icon": "film" }
+      { "name": "Sensacine", "url": "https://www.sensacine.com/rss/noticias.xml", "icon": "film" },
+      { "name": "Lwlies", "url": "https://lwlies.com/feed.rss", "icon": "film" },
+      { "name": "Screen Crush", "url": "https://screencrush.com/feed/", "icon": "film" },
+      { "name": "DailyEntertainment", "url": "https://www.dailyentertainmentworld.com/blog-feed.xml", "icon": "film" },
+      { "name": "Film daily", "url": "https://filmdaily.co/feed/", "icon": "film" },
+      { "name": "We got this covered", "url": "https://wegotthiscovered.com/feed/", "icon": "film" },
+      { "name": "ScreenDaily", "url": "https://www.screendaily.com/45202.rss", "icon": "film" },
+      { "name": "Movie Maker", "url": "https://www.moviemaker.com/feed/", "icon": "film" }
     ], "News": [
       { "name": "Diario RED", "url": "https://www.diario.red/rss/actualidad/", "icon": "radio" },
       { "name": "Sin Embargo", "url": "https://www.sinembargo.mx/feed/", "icon": "radio" },
@@ -162,7 +169,15 @@
       { "name": "Buzzfeed Celebrity", "url": "https://www.buzzfeed.com/celebrity.xml", "icon": "star" },
       { "name": "Us Weekly", "url": "https://www.usmagazine.com/feed/", "icon": "users" },
       { "name": "Deadline", "url": "https://deadline.com/feed/", "icon": "film" },
-      { "name": "Vanity Fair Hollywood", "url": "http://www.vanityfair.com/rss/", "icon": "star" }
+      { "name": "Vanity Fair Hollywood", "url": "http://www.vanityfair.com/rss/", "icon": "star" },
+      { "name": "NPR Culture", "url": "https://feeds.npr.org/1008/rss.xml", "icon": "star" },
+      { "name": "The honey POP", "url": "https://thehoneypop.com/feed/", "icon": "star" },
+      { "name": "TMZ", "url": "https://rss.feedspot.com/celebrity_gossip_rss_feeds/", "icon": "star" },
+      { "name": "Holliwood Life", "url": "https://hollywoodlife.com/feed/", "icon": "star" },
+      { "name": "Buzzfeed", "url": "https://www.buzzfeed.com/mx/celebrity.xml", "icon": "star" },
+      { "name": "DeadLine", "url": "https://deadline.com/feed/", "icon": "star" },
+      { "name": "US Weekly", "url": "https://www.usmagazine.com/feed/", "icon": "star" },
+      { "name": "Yahoo Celeb", "url": "https://www.yahoo.com/celebrity/rss", "icon": "star" }
     ], "LifeStyle": [
       { "name": "Goop", "url": "https://goop.com/feed/", "icon": "heart" },
       { "name": "Lifestyle Magazine", "url": "https://lmgfl.com/feed/", "icon": "heart" }
