@@ -1,4 +1,4 @@
-{ "version": "1.0.1", "categories": { "Tech": [
+{ "version": "1.0.2", "categories": { "Tech": [
       { "name": "Wired", "url": "https://www.wired.com/feed/rss", "icon": "monitor" },
       { "name": "Mashable", "url": "https://mashable.com/feeds/rss/all", "icon": "zap" },
       { "name": "Xataka", "url": "https://www.xataka.com/feedburner.xml", "icon": "cpu" },
@@ -32,7 +32,7 @@
       { "name": "Slashgear", "url": "https://www.slashgear.com/feed/", "icon": "cpu" },
       { "name": "Trusted Reviews", "url": "https://www.trustedreviews.com/feed", "icon": "cpu" },
       { "name": "Mac Rumors", "url": "https://feeds.macrumors.com/MacRumors-All", "icon": "cpu" },
-      { "name": "Tech Hive", "url": "https://www.techhive.com/feed", "icon": "cpu" },
+      { "name": "Tech Hive", "url": "https://www.techhive.com/feed", "icon": "cpu" }
     ], "Mobile": [
       { "name": "Droid Life", "url": "https://www.droid-life.com/feed/", "icon": "smartphone" },
       { "name": "Android Central", "url": "https://www.androidcentral.com/rss.xml", "icon": "smartphone" },
@@ -51,7 +51,7 @@
       { "name": "Pocketnow", "url": "https://pocketnow.com/feed/", "icon": "smartphone" },
       { "name": "GeekWire Mobile", "url": "https://www.geekwire.com/mobile-news/feed/", "icon": "smartphone" },
       { "name": "CNET Mobile", "url": "https://www.cnet.com/rss/news/", "icon": "smartphone" },
-      { "name": "Mobile Syrup", "url": "https://mobilesyrup.com/feed/", "icon": "smartphone" },
+      { "name": "Mobile Syrup", "url": "https://mobilesyrup.com/feed/", "icon": "smartphone" }
     ], "Games": [
       { "name": "Kotaku", "url": "https://kotaku.com/rss", "icon": "target" },
       { "name": "GameSpot", "url": "https://www.gamespot.com/feeds/mashup", "icon": "disc" },
@@ -88,7 +88,7 @@
       { "name": "LevelUp", "url": "https://thisislevelup.net/feed/", "icon": "play" },
       { "name": "Nintendo Life", "url": "https://www.nintendolife.com/feeds/latest", "icon": "play" },
       { "name": "Push Square", "url": "https://www.pushsquare.com/feeds/latest", "icon": "play" },
-      { "name": "Xbox Wire", "url": "https://news.xbox.com/en-us/feed/", "icon": "play" },
+      { "name": "Xbox Wire", "url": "https://news.xbox.com/en-us/feed/", "icon": "play" }
     ], "Sports": [
       { "name": "Marca Fútbol", "url": "https://e00-marca.uecdn.es/rss/portada.xml", "icon": "award" },
       { "name": "Nacion", "url": "https://www.nacionfutbol.com.mx/rss/GoogleNews.xml", "icon": "circle" },
@@ -113,7 +113,7 @@
       { "name": "BBC Sports", "url": "https://feeds.bbci.co.uk/sport/rss.xml", "icon": "award" },
       { "name": "DW Sports", "url": "https://rss.dw.com/rdf/rss-en-sports", "icon": "award" },
       { "name": "Page Six", "url": "https://pagesix.com/sports/feed/", "icon": "award" },
-      { "name": "La Gazzeta dello Sport", "url": "https://www.gazzetta.it/dynamic-feed/rss/section/last.xml", "icon": "award" },
+      { "name": "La Gazzeta dello Sport", "url": "https://www.gazzetta.it/dynamic-feed/rss/section/last.xml", "icon": "award" }
     ], "Movies": [
       { "name": "Espinof", "url": "https://www.espinof.com/index.xml", "icon": "film" },
       { "name": "ScreenRant", "url": "https://screenrant.com/feed/", "icon": "video" },
