@@ -1,215 +1,216 @@
-const suggestedCategories = {
-  Tech: [
-    { url: "https://www.wired.com/feed/rss", name: "Wired", icon: "monitor" },
-    { url: "https://mashable.com/feeds/rss/all", name: "Mashable", icon: "zap" },
-    { url: "https://www.xataka.com/feedburner.xml", name: "Xataka", icon: "cpu" },
-    { url: "https://gizmodo.com/rss", name: "Gizmodo", icon: "smartphone" },
-    { url: "https://www.engadget.com/rss/", name: "Engadget", icon: "hard-drive" },
-    { url: "https://www.zdnet.com/news/rss.xml", name: "ZDNet", icon: "server" },
-    { url: "https://techcrunch.com/feed/", name: "TechCrunch", icon: "cloud" },
-    { url: "https://www.cnet.com/rss/news/", name: "CNET", icon: "wifi" },
-    { url: "http://feeds.feedburner.com/venturebeat/SZYF", name: "VentureBeat", icon: "database" },
-    { url: "https://www.digitaltrends.com/feed/", name: "Digital Trends", icon: "hard-drive" },
-    { url: "https://feeds.arstechnica.com/arstechnica/technology-lab", name: "Ars Technica", icon: "layers" },
-    { url: "http://www.macworld.com/index.rss", name: "Macworld", icon: "command" },
-    { url: "https://appleinsider.com/rss/news/", name: "AppleInsider", icon: "smartphone" },
-    { url: "https://feeds.feedburner.com/thenextweb", name: "The Next Web", icon: "globe" },
-    { url: "https://bgr.com/tech/feed/", name: "BGR", icon: "radio" },
-    { url: "https://readwrite.com/feed/?x=1", name: "ReadWrite", icon: "cpu" },
-    { url: "https://www.theverge.com/rss/full.xml", name: "The Verge", icon: "triangle"},
-    { url: "https://www.vox.com/rss/technology/index.xml", name: "Vox", icon: "chevron-down"},
-    { url: "https://es.wired.com/feed/rss", name: "Wired ES", icon: "monitor" },
-    { url: "https://www.muycomputer.com/feed/", name: "MuyComputer", icon: "cpu" },
-    { url: "http://feeds.feedburner.com/actualidadiphone", name: "Actualidad iPhone", icon: "smartphone" },
-    { url: "https://elchapuzasinformatico.com/feed/", name: "El Chapuzas Informático", icon: "cpu" },
-    { url: "https://www.geekno.com/feed/atom", name: "Geekno", icon: "cpu" },
-    { url: "https://vulcanpost.com/feed/", name: "Vulcan Post", icon: "cpu" },
-    { url: "https://www.xda-developers.com/feed/", name: "XDA Developers", icon: "cpu" },
-    { url: "https://www.technologyreview.com/topic/artificial-intelligence/feed/", name: "MIT AI", icon: "cpu" },
-    { url: "https://lifehacker.com/feed/rss", name: "Lifehacker", icon: "life-buoy" },
-  ],
-  Mobile: [
-    { url: "https://www.droid-life.com/feed/", name: "Droid Life", icon: "smartphone" },
-    { url: "https://www.androidcentral.com/rss.xml", name: "Android Central", icon: "smartphone" },
-    { url: "https://www.gsmarena.com/rss-news-reviews.php3", name: "GSMArena", icon: "smartphone" },
-    { url: "https://9to5mac.com/search/iphone/feed/rss2/", name: "9to5Mac", icon: "cpu" },
-    { url: "https://www.androidauthority.com/feed/", name: "Android Authority", icon: "smartphone" },
-    { url: "https://www.phonearena.com/feed", name: "PhoneArena", icon: "smartphone" },
-    { url: "https://www.androidpolice.com/feed/", name: "Android Police", icon: "smartphone" },
-    { url: "https://www.droidviews.com/feed/", name: "Droid Views", icon: "smartphone" },
-    { url: "https://fossbytes.com/feed/?x=1", name: "Fossbytes", icon: "smartphone" },
-    { url: "https://www.cnet.com/rss/news/", name: "CNET Mobile", icon: "smartphone" },
-    { url: "https://www.knowyourmobile.com/feed/", name: "Know Your Mobile", icon: "smartphone" },
-    { url: "https://www.techjuice.pk/category/mobile/feed/", name: "TechJuice", icon: "smartphone" },
-    { url: "https://www.mobigyaan.com/feed", name: "MobiGyaan", icon: "smartphone" },
-    { url: "https://www.nextpit.com/feed/main.xml", name: "NextPit", icon: "smartphone" },
-    { url: "https://pocketnow.com/feed/", name: "Pocketnow", icon: "smartphone" },
-    { url: "https://www.geekwire.com/mobile-news/feed/", name: "GeekWire", icon: "smartphone" },
-  ],
-  Games: [
-    { url: "https://kotaku.com/rss", name: "Kotaku", icon: "target" },
-    { url: "https://www.gamespot.com/feeds/mashup", name: "GameSpot", icon: "disc" },
-    { url: "https://www.polygon.com/rss/index.xml", name: "Polygon", icon: "triangle" },
-    { url: "https://www.ign.com/rss/v2/articles/feed", name: "IGN", icon: "crosshair" },
-    { url: "https://www.destructoid.com/feed/", name: "Destructoid", icon: "shield" },
-    { url: "https://www.digitalfoundry.net/feed", name: "Digital Foundry", icon: "cpu" },
-    { url: "https://blog.playstation.com/feed/", name: "PlayStation Blog", icon: "play" },
-    { url: "https://www.eurogamer.net/feed", name: "Eurogamer", icon: "cpu" },
-    { url: "https://mynintendonews.com/feed/", name: "My Nintendo News", icon: "cpu" },
-    { url: "https://www.3djuegos.lat/feedburner.xml", name: "3DJuegos", icon: "cpu" },
-    { url: "https://www.vidaextra.com/index.xml", name: "VidaExtra", icon: "cpu" },
-    { url: "https://vandal.elespanol.com/xml.cgi", name: "Vandal", icon: "play"},
-    { url: "https://www.hobbyconsolas.com/rss", name: "Hobby Consolas", icon: "play"},
-    { url: "gamesindustry.biz", name: "GameBiz", icon: "play"},
-    { url: "https://www.vg247.com/feed/", name: "VG247", icon: "file-text" },
-    { url: "https://www.gematsu.com/feed", name: "Gematsu", icon: "play-circle" },
-    { url: "https://news.xbox.com/en-us/feed/", name: "Xbox Wire", icon: "cpu" },
-    { url: "https://www.pcgamer.com/rss/", name: "PC Gamer", icon: "monitor" },
-    { url: "https://www.pcgamesn.com/mainrss.xml", name: "PCGamesN", icon: "monitor" },
-    { url: "https://www.pushsquare.com/feeds/latest", name: "Push Square", icon: "square" },
-    { url: "https://www.gamepur.com/feed", name: "GamePur", icon: "video" },
-    { url: "https://www.pocketgamer.com/index.rss", name: "Pocket Gamer", icon: "smartphone" },
-    { url: "https://www.siliconera.com/feed/", name: "Siliconera", icon: "globe" },
-    { url: "https://www.gamedeveloper.com/rss.xml", name: "Game Developer", icon: "code" },
-    { url: "https://www.gamingonlinux.com/article_rss.php", name: "Gaming on Linux", icon: "terminal" },
-    { url: "https://gamerant.com/feed/", name: "GameRant", icon: "zap" },
-    { url: "https://www.gamesradar.com/rss.xml", name: "GamesRadar", icon: "play" },
-  ],
-  Sports: [
-    { url: "https://sempremilan.com/feed", name: "Sempre Milan", icon: "dribbble" },
-    { url: "https://e00-marca.uecdn.es/rss/portada.xml", name: "Marca Fútbol", icon: "award" },
-    { url: "https://www.nacionfutbol.com.mx/rss/GoogleNews.xml", name: "Nacion", icon: "circle"},
-    { url: "https://www.cbssports.com/rss/headlines/", name: "CBS Sports", icon: "award" },
-    { url: "https://api.foxsports.com/v2/content/optimized-rss?partnerKey=MB0Wehpmuj2lUhuRhQaafhBjAJqaPU244mlTDK1i&size=30", name: "Fox Sports", icon: "award" },
-    { url: "https://www.sportingnews.com/us/rss", name: "Sporting News", icon: "award" },
-    { url: "https://www.sportingnews.com/us-es/rss", name: "Sporting News ES", icon: "award" },
-    { url: "https://www.sbnation.com/rss/index.xml", name: "SB Nation", icon: "award" },
-    { url: "https://www.thescore.com/nfl/news.rss", name: "The Score NFL", icon: "award" },
-    { url: "https://www.espn.com/espn/rss/news", name: "ESPN", icon: "award" },
-    { url: "https://sportsweez.com/feed/", name: "Sports Weez", icon: "award" },
-    { url: "https://sportsbrackets.net/feed/", name: "Sports Brackets", icon: "award" },
-    { url: "https://www.sport.es/es/rss/last-news/news.xml", name: "Sport", icon: "award" },
-    { url: "https://www.soyfiera.com/feed", name: "Soy Fiera", icon: "award" }
-  ],
-  Movies: [
-    { url: "https://www.espinof.com/index.xml", name: "Espinof", icon: "film" },
-    { url: "https://screenrant.com/feed/", name: "ScreenRant", icon: "video" },
-    { url: "https://collider.com/feed/", name: "Collider", icon: "camera" },
-    { url: "https://www.cinemablend.com/rss/topic/reviews/movies", name: "CinemaBlend", icon: "tv" },
-    { url: "https://www.comingsoon.net/feed", name: "ComingSoon", icon: "film" },
-    { url: "https://screencrush.com/feed/", name: "ScreenCrush", icon: "film" },
-    { url: "https://www.indiewire.com/feed/", name: "IndieWire", icon: "film" },
-    { url: "https://www.hollywoodreporter.com/taxonomy/term/6/0/feed", name: "Hollywood Reporter", icon: "film" },
-    { url: "https://rss.onebauer.media/api/feed-aggregator?hostname=https://www.empireonline.com", name: "Empire Online", icon: "film" },
-    { url: "https://www.joblo.com/feed/", name: "JoBlo", icon: "film" },
-    { url: "https://www.filmfare.com/feeds/feeds.xml", name: "Filmfare", icon: "film" },
-    { url: "https://www.filmcompanion.in/feed/", name: "Film Companion", icon: "film" },
-    { url: "https://www.flickeringmyth.com/feed/", name: "Flickering Myth", icon: "film" },
-    { url: "https://www.filmibeat.com/rss/feeds/filmibeat-fb.xml", name: "Filmibeat", icon: "film" },
-    { url: "https://www.boxofficepro.com/feed/", name: "Boxoffice", icon: "film" },
-    { url: "https://www.filmthreat.com/feed/", name: "Film Threat", icon: "film" },
-    { url: "https://www.sensacine.com/rss/noticias.xml", name: "Sensacine", icon: "film" }
-  ],
-  News: [
-    { url: "https://www.diario.red/rss/actualidad/", name: "Diario RED", icon: "radio"},
-    { url: "https://www.sinembargo.mx/feed/", name: "Sin Embargo", icon: "radio" },
-    { url: "https://feeds.npr.org/1001/rss.xml", name: "NPR", icon: "radio" },
-    { url: "http://feeds.bbci.co.uk/news/world/rss.xml", name: "BBC News", icon: "globe" },
-    { url: "https://www.cnbc.com/id/100727362/device/rss/rss.html", name: "CNBC", icon: "globe" },
-    { url: "http://abcnews.go.com/abcnews/internationalheadlines", name: "ABC News", icon: "globe" },
-    { url: "http://feeds.foxnews.com/foxnews/latest", name: "Fox News", icon: "globe" },
-    { url: "https://www.cbsnews.com/latest/rss/world", name: "CBS News", icon: "globe" },
-    { url: "http://www.cbc.ca/cmlink/rss-world", name: "CBC News", icon: "globe" },
-    { ulr: "https://www.france24.com/en/rss", name: "France 24", icon: "globe" },
-    { url: "https://www.buzzfeed.com/world.xml", name: "Buzzfeed World", icon: "globe" },
-    { url: "https://www.nytimes.com/svc/collections/v1/publish/https://www.nytimes.com/section/world/rss.xml", name: "New York Times World", icon: "globe" },
-    { url: "https://feeds.washingtonpost.com/rss/world", name: "Washington Post World", icon: "globe" },
-    { url: "https://www.yahoo.com/news/rss/world/", name: "Yahoo News World", icon: "globe" },
-    { url: "http://www.smh.com.au/rssheadlines/world/article/rss.xml", name: "Sydney Morning Herald World", icon: "globe" },
-    { url: "https://www.latimes.com/world/rss2.0.xml", name: "Los Angeles Times World", icon: "globe" },
-    { url: "https://www.seattletimes.com/nation-world/world/feed/", name: "Seattle Times World", icon: "globe" },
-    { url: "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms", name: "Times of India World", icon: "globe" },
-    { url: "https://www.vox.com/rss/world-politics/index.xml", name: "Vox World Politics", icon: "globe" },
-    { url: "https://www.scmp.com/rss/91/feed", name: "South China", icon: "sun"},
-    { url: "https://www.alternet.org/feeds/feed.rss", name: "Alternet", icon: "sun" },
-    { url: "https://prospect.org/blogs-and-newsletters/tap/index.rss", name: "The American Prospect", icon: "sun" }
-  ],
-  PopCulture: [
-    { url: "https://www.eonline.com/syndication/feeds/rssfeeds/topstories.xml", name: "E! Online", icon: "star" },
-    { url: "https://feeds.distribution.dotdashmeredith.com/v3/rss/4780ef1e-1952-43da-abd9-3b7c690f1f72", name: "People", icon: "users" },
-    { url: "https://hollywoodlife.com/feed/", name: "Hollywood Life", icon: "film" },
-    { url: "https://www.buzzfeed.com/celebrity.xml", name: "Buzzfeed Celebrity", icon: "star" },
-    { url: "https://www.usmagazine.com/feed/", name: "Us Weekly", icon: "users" },
-    { url: "https://deadline.com/feed/", name: "Deadline", icon: "film" },
-    { url: "http://www.vanityfair.com/rss/", name: "Vanity Fair Hollywood", icon: "star" }
-  ],
-  LifeStyle: [ 
-    { url: "https://goop.com/feed/", name: "Goop", icon: "heart" },
-    { url: "https://lmgfl.com/feed/", name: "Lifestyle Magazine", icon: "heart" },
-  ],
-  Fashion: [
-    { url: "https://juliaberolzheimer.com/feed/", name: "Julia Berolzheimer", icon: "shopping-bag" },
-    { url: "https://www.elle.com/rss/all.xml/", name: "Elle", icon: "shopping-bag" },
-    { url: "https://putthison.com/feed/", name: "Put This On", icon: "shopping-bag" },
-    { url: "https://agoodoutfit.com/feed/", name: "A Good Outfit", icon: "shopping-bag" }
-  ],
-  Science: [
-    { url: "https://www.sciencenews.org/feed", name: "Science News", icon: "flag" },
-    { url: "https://www.nasa.gov/rss/dyn/breaking_news.rss", name: "NASA", icon: "compass" }
-  ],
-  Music: [
-    { url: "https://pitchfork.com/rss/news/", name: "Pitchfork", icon: "music" },
-    { url: "https://earmilk.com/feed/", name: "Earmilk", icon: "headphones" },
-    { url: "http://www.allmusic.com/rss", name: "AllMusic", icon: "volume-2" }
-  ],
-  Food: [
-    { url: "https://therecipecritic.com/feed/", name: "Recipe Critic", icon: "coffee" },
-    { url: "http://pinchofyum.com/feed", name: "Pinch of Yum", icon: "pie-chart" },
-    { url: "http://feeds.feedburner.com/smittenkitchen", name: "Smitten Kitchen", icon: "shopping-bag" }
-  ],
-  Travel: [
-    { url: "https://www.nomadicmatt.com/feed/", name: "Nomadic Matt", icon: "map" },
-    { url: "http://theblondeabroad.com/feed", name: "Blonde Abroad", icon: "compass" }
-  ],
-  Comics: [
-    { url: "https://xkcd.com/rss.xml", name: "XKCD", icon: "pen-tool" },
-    { url: "https://www.comicsbeat.com/feed/", name: "Comics Beat", icon: "book-open" }
-  ],
-  Programming: [
-    { url: "https://stackoverflow.blog/feed/", name: "Stack Overflow Blog", icon: "code" },
-    { url: "https://dev.to/feed", name: "DEV Community", icon: "code" },
-    { url: "https://www.freecodecamp.org/news/rss/", name: "freeCodeCamp", icon: "code" },
-    { ulr: "https://developers.googleblog.com/feeds/posts/default", name: "Google Developers Blog", icon: "code" },
-    { url: "http://syndication.thedailywtf.com/TheDailyWtf", name: "The Daily WTF", icon: "code" },
-    { url: "http://www.thecrazyprogrammer.com/feed", name: "Crazy Programmer", icon: "code" },
-    { url: "https://www.sitepoint.com/feed/", name: "SitePoint", icon: "hash" },
-    { url: "https://css-tricks.com/feed/", name: "CSS-Tricks", icon: "layout" },
-    { url: "https://developer.apple.com/news/rss/news.rss", name: "Apple Developer News", icon: "cpu" },
-    { url: "https://smashinghub.com/feed", name: "Smashing Hub", icon: "cpu" },
-  ],
-  Art: [
-    { url: "https://www.thisiscolossal.com/feed/", name: "Colossal", icon: "image" },
-    { url: "https://www.artnews.com/feed/", name: "Art News", icon: "eye" },
-    { url: "https://www.booooooom.com/feed/", name: "Booooooom", icon: "feather" }
-  ],
-  Anime: [
-    { url: "https://www.animenewsnetwork.com/all/rss.xml?ann-edition=us", name: "Anime News Network", icon: "tv" },
-    { url: "https://honeysanime.com/feed/", name: "Honey's Anime", icon: "star" }
-  ],
-  Automobile: [
-    { url: "http://www.autoblog.com/rss.xml", name: "Autoblog", icon: "truck" },
-    { url: "http://feeds.feedburner.com/Speedhunters", name: "Speedhunters", icon: "trending-up" },
-    { url: "https://www.carexpert.com.au/feed", name: "Car Expert", icon: "tool" }
-  ],
-  Gardening: [
-    { url: "https://www.finegardening.com/feed", name: "Fine Gardening", icon: "sun" },
-    { url: "https://www.penick.net/digging/?feed=rss2", name: "Digging", icon: "sunset" },
-    { url: "https://plantcaretoday.com/feed", name: "Plant Care Today", icon: "droplet" }
-  ],
-  Pets: [
-    { url: "https://feeds.feedburner.com/gopetfriendly", name: "Go Pet Friendly", icon: "github" },
-    { url: "https://www.dogingtonpost.com/feed/", name: "Dogington Post", icon: "heart" }
-  ]
-};
-
-export default suggestedCategories;
+{
+  "version": "1.0.0",
+  "categories": {
+    "Tech": [
+      { "url": "https://www.wired.com/feed/rss", "name": "Wired", "icon": "monitor" },
+      { "url": "https://mashable.com/feeds/rss/all", "name": "Mashable", "icon": "zap" },
+      { "url": "https://www.xataka.com/feedburner.xml", "name": "Xataka", "icon": "cpu" },
+      { "url": "https://gizmodo.com/rss", "name": "Gizmodo", "icon": "smartphone" },
+      { "url": "https://www.engadget.com/rss/", "name": "Engadget", "icon": "hard-drive" },
+      { "url": "https://www.zdnet.com/news/rss.xml", "name": "ZDNet", "icon": "server" },
+      { "url": "https://techcrunch.com/feed/", "name": "TechCrunch", "icon": "cloud" },
+      { "url": "https://www.cnet.com/rss/news/", "name": "CNET", "icon": "wifi" },
+      { "url": "http://feeds.feedburner.com/venturebeat/SZYF", "name": "VentureBeat", "icon": "database" },
+      { "url": "https://www.digitaltrends.com/feed/", "name": "Digital Trends", "icon": "hard-drive" },
+      { "url": "https://feeds.arstechnica.com/arstechnica/technology-lab", "name": "Ars Technica", "icon": "layers" },
+      { "url": "http://www.macworld.com/index.rss", "name": "Macworld", "icon": "command" },
+      { "url": "https://appleinsider.com/rss/news/", "name": "AppleInsider", "icon": "smartphone" },
+      { "url": "https://feeds.feedburner.com/thenextweb", "name": "The Next Web", "icon": "globe" },
+      { "url": "https://bgr.com/tech/feed/", "name": "BGR", "icon": "radio" },
+      { "url": "https://readwrite.com/feed/?x=1", "name": "ReadWrite", "icon": "cpu" },
+      { "url": "https://www.theverge.com/rss/full.xml", "name": "The Verge", "icon": "triangle" },
+      { "url": "https://www.vox.com/rss/technology/index.xml", "name": "Vox", "icon": "chevron-down" },
+      { "url": "https://es.wired.com/feed/rss", "name": "Wired ES", "icon": "monitor" },
+      { "url": "https://www.muycomputer.com/feed/", "name": "MuyComputer", "icon": "cpu" },
+      { "url": "http://feeds.feedburner.com/actualidadiphone", "name": "Actualidad iPhone", "icon": "smartphone" },
+      { "url": "https://elchapuzasinformatico.com/feed/", "name": "El Chapuzas Informático", "icon": "cpu" },
+      { "url": "https://www.geekno.com/feed/atom", "name": "Geekno", "icon": "cpu" },
+      { "url": "https://vulcanpost.com/feed/", "name": "Vulcan Post", "icon": "cpu" },
+      { "url": "https://www.xda-developers.com/feed/", "name": "XDA Developers", "icon": "cpu" },
+      { "url": "https://www.technologyreview.com/topic/artificial-intelligence/feed/", "name": "MIT AI", "icon": "cpu" },
+      { "url": "https://lifehacker.com/feed/rss", "name": "Lifehacker", "icon": "life-buoy" }
+    ],
+    "Mobile": [
+      { "url": "https://www.droid-life.com/feed/", "name": "Droid Life", "icon": "smartphone" },
+      { "url": "https://www.androidcentral.com/rss.xml", "name": "Android Central", "icon": "smartphone" },
+      { "url": "https://www.gsmarena.com/rss-news-reviews.php3", "name": "GSMArena", "icon": "smartphone" },
+      { "url": "https://9to5mac.com/search/iphone/feed/rss2/", "name": "9to5Mac", "icon": "cpu" },
+      { "url": "https://www.androidauthority.com/feed/", "name": "Android Authority", "icon": "smartphone" },
+      { "url": "https://www.phonearena.com/feed", "name": "PhoneArena", "icon": "smartphone" },
+      { "url": "https://www.androidpolice.com/feed/", "name": "Android Police", "icon": "smartphone" },
+      { "url": "https://www.droidviews.com/feed/", "name": "Droid Views", "icon": "smartphone" },
+      { "url": "https://fossbytes.com/feed/?x=1", "name": "Fossbytes", "icon": "smartphone" },
+      { "url": "https://www.cnet.com/rss/news/", "name": "CNET Mobile", "icon": "smartphone" },
+      { "url": "https://www.knowyourmobile.com/feed/", "name": "Know Your Mobile", "icon": "smartphone" },
+      { "url": "https://www.techjuice.pk/category/mobile/feed/", "name": "TechJuice", "icon": "smartphone" },
+      { "url": "https://www.mobigyaan.com/feed", "name": "MobiGyaan", "icon": "smartphone" },
+      { "url": "https://www.nextpit.com/feed/main.xml", "name": "NextPit", "icon": "smartphone" },
+      { "url": "https://pocketnow.com/feed/", "name": "Pocketnow", "icon": "smartphone" },
+      { "url": "https://www.geekwire.com/mobile-news/feed/", "name": "GeekWire", "icon": "smartphone" }
+    ],
+    "Games": [
+      { "url": "https://kotaku.com/rss", "name": "Kotaku", "icon": "target" },
+      { "url": "https://www.gamespot.com/feeds/mashup", "name": "GameSpot", "icon": "disc" },
+      { "url": "https://www.polygon.com/rss/index.xml", "name": "Polygon", "icon": "triangle" },
+      { "url": "https://www.ign.com/rss/v2/articles/feed", "name": "IGN", "icon": "crosshair" },
+      { "url": "https://www.destructoid.com/feed/", "name": "Destructoid", "icon": "shield" },
+      { "url": "https://www.digitalfoundry.net/feed", "name": "Digital Foundry", "icon": "cpu" },
+      { "url": "https://blog.playstation.com/feed/", "name": "PlayStation Blog", "icon": "play" },
+      { "url": "https://www.eurogamer.net/feed", "name": "Eurogamer", "icon": "cpu" },
+      { "url": "https://mynintendonews.com/feed/", "name": "My Nintendo News", "icon": "cpu" },
+      { "url": "https://www.3djuegos.lat/feedburner.xml", "name": "3DJuegos", "icon": "cpu" },
+      { "url": "https://www.vidaextra.com/index.xml", "name": "VidaExtra", "icon": "cpu" },
+      { "url": "https://vandal.elespanol.com/xml.cgi", "name": "Vandal", "icon": "play" },
+      { "url": "https://www.hobbyconsolas.com/rss", "name": "Hobby Consolas", "icon": "play" },
+      { "url": "https://gamesindustry.biz", "name": "GameBiz", "icon": "play" },
+      { "url": "https://www.vg247.com/feed/", "name": "VG247", "icon": "file-text" },
+      { "url": "https://www.gematsu.com/feed", "name": "Gematsu", "icon": "play-circle" },
+      { "url": "https://news.xbox.com/en-us/feed/", "name": "Xbox Wire", "icon": "cpu" },
+      { "url": "https://www.pcgamer.com/rss/", "name": "PC Gamer", "icon": "monitor" },
+      { "url": "https://www.pcgamesn.com/mainrss.xml", "name": "PCGamesN", "icon": "monitor" },
+      { "url": "https://www.pushsquare.com/feeds/latest", "name": "Push Square", "icon": "square" },
+      { "url": "https://www.gamepur.com/feed", "name": "GamePur", "icon": "video" },
+      { "url": "https://www.pocketgamer.com/index.rss", "name": "Pocket Gamer", "icon": "smartphone" },
+      { "url": "https://www.siliconera.com/feed/", "name": "Siliconera", "icon": "globe" },
+      { "url": "https://www.gamedeveloper.com/rss.xml", "name": "Game Developer", "icon": "code" },
+      { "url": "https://www.gamingonlinux.com/article_rss.php", "name": "Gaming on Linux", "icon": "terminal" },
+      { "url": "https://gamerant.com/feed/", "name": "GameRant", "icon": "zap" },
+      { "url": "https://www.gamesradar.com/rss.xml", "name": "GamesRadar", "icon": "play" }
+    ],
+    "Sports": [
+      { "url": "https://sempremilan.com/feed", "name": "Sempre Milan", "icon": "dribbble" },
+      { "url": "https://e00-marca.uecdn.es/rss/portada.xml", "name": "Marca Fútbol", "icon": "award" },
+      { "url": "https://www.nacionfutbol.com.mx/rss/GoogleNews.xml", "name": "Nacion", "icon": "circle" },
+      { "url": "https://www.cbssports.com/rss/headlines/", "name": "CBS Sports", "icon": "award" },
+      { "url": "https://api.foxsports.com/v2/content/optimized-rss?partnerKey=MB0Wehpmuj2lUhuRhQaafhBjAJqaPU244mlTDK1i&size=30", "name": "Fox Sports", "icon": "award" },
+      { "url": "https://www.sportingnews.com/us/rss", "name": "Sporting News", "icon": "award" },
+      { "url": "https://www.sportingnews.com/us-es/rss", "name": "Sporting News ES", "icon": "award" },
+      { "url": "https://www.sbnation.com/rss/index.xml", "name": "SB Nation", "icon": "award" },
+      { "url": "https://www.thescore.com/nfl/news.rss", "name": "The Score NFL", "icon": "award" },
+      { "url": "https://www.espn.com/espn/rss/news", "name": "ESPN", "icon": "award" },
+      { "url": "https://sportsweez.com/feed/", "name": "Sports Weez", "icon": "award" },
+      { "url": "https://sportsbrackets.net/feed/", "name": "Sports Brackets", "icon": "award" },
+      { "url": "https://www.sport.es/es/rss/last-news/news.xml", "name": "Sport", "icon": "award" },
+      { "url": "https://www.soyfiera.com/feed", "name": "Soy Fiera", "icon": "award" }
+    ],
+    "Movies": [
+      { "url": "https://www.espinof.com/index.xml", "name": "Espinof", "icon": "film" },
+      { "url": "https://screenrant.com/feed/", "name": "ScreenRant", "icon": "video" },
+      { "url": "https://collider.com/feed/", "name": "Collider", "icon": "camera" },
+      { "url": "https://www.cinemablend.com/rss/topic/reviews/movies", "name": "CinemaBlend", "icon": "tv" },
+      { "url": "https://www.comingsoon.net/feed", "name": "ComingSoon", "icon": "film" },
+      { "url": "https://screencrush.com/feed/", "name": "ScreenCrush", "icon": "film" },
+      { "url": "https://www.indiewire.com/feed/", "name": "IndieWire", "icon": "film" },
+      { "url": "https://www.hollywoodreporter.com/taxonomy/term/6/0/feed", "name": "Hollywood Reporter", "icon": "film" },
+      { "url": "https://rss.onebauer.media/api/feed-aggregator?hostname=https://www.empireonline.com", "name": "Empire Online", "icon": "film" },
+      { "url": "https://www.joblo.com/feed/", "name": "JoBlo", "icon": "film" },
+      { "url": "https://www.filmfare.com/feeds/feeds.xml", "name": "Filmfare", "icon": "film" },
+      { "url": "https://www.filmcompanion.in/feed/", "name": "Film Companion", "icon": "film" },
+      { "url": "https://www.flickeringmyth.com/feed/", "name": "Flickering Myth", "icon": "film" },
+      { "url": "https://www.filmibeat.com/rss/feeds/filmibeat-fb.xml", "name": "Filmibeat", "icon": "film" },
+      { "url": "https://www.boxofficepro.com/feed/", "name": "Boxoffice", "icon": "film" },
+      { "url": "https://www.filmthreat.com/feed/", "name": "Film Threat", "icon": "film" },
+      { "url": "https://www.sensacine.com/rss/noticias.xml", "name": "Sensacine", "icon": "film" }
+    ],
+    "News": [
+      { "url": "https://www.diario.red/rss/actualidad/", "name": "Diario RED", "icon": "radio" },
+      { "url": "https://www.sinembargo.mx/feed/", "name": "Sin Embargo", "icon": "radio" },
+      { "url": "https://feeds.npr.org/1001/rss.xml", "name": "NPR", "icon": "radio" },
+      { "url": "http://feeds.bbci.co.uk/news/world/rss.xml", "name": "BBC News", "icon": "globe" },
+      { "url": "https://www.cnbc.com/id/100727362/device/rss/rss.html", "name": "CNBC", "icon": "globe" },
+      { "url": "http://abcnews.go.com/abcnews/internationalheadlines", "name": "ABC News", "icon": "globe" },
+      { "url": "http://feeds.foxnews.com/foxnews/latest", "name": "Fox News", "icon": "globe" },
+      { "url": "https://www.cbsnews.com/latest/rss/world", "name": "CBS News", "icon": "globe" },
+      { "url": "http://www.cbc.ca/cmlink/rss-world", "name": "CBC News", "icon": "globe" },
+      { "url": "https://www.france24.com/en/rss", "name": "France 24", "icon": "globe" },
+      { "url": "https://www.buzzfeed.com/world.xml", "name": "Buzzfeed World", "icon": "globe" },
+      { "url": "https://www.nytimes.com/svc/collections/v1/publish/https://www.nytimes.com/section/world/rss.xml", "name": "New York Times World", "icon": "globe" },
+      { "url": "https://feeds.washingtonpost.com/rss/world", "name": "Washington Post World", "icon": "globe" },
+      { "url": "https://www.yahoo.com/news/rss/world/", "name": "Yahoo News World", "icon": "globe" },
+      { "url": "http://www.smh.com.au/rssheadlines/world/article/rss.xml", "name": "Sydney Morning Herald World", "icon": "globe" },
+      { "url": "https://www.latimes.com/world/rss2.0.xml", "name": "Los Angeles Times World", "icon": "globe" },
+      { "url": "https://www.seattletimes.com/nation-world/world/feed/", "name": "Seattle Times World", "icon": "globe" },
+      { "url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms", "name": "Times of India World", "icon": "globe" },
+      { "url": "https://www.vox.com/rss/world-politics/index.xml", "name": "Vox World Politics", "icon": "globe" },
+      { "url": "https://www.scmp.com/rss/91/feed", "name": "South China", "icon": "sun" },
+      { "url": "https://www.alternet.org/feeds/feed.rss", "name": "Alternet", "icon": "sun" },
+      { "url": "https://prospect.org/blogs-and-newsletters/tap/index.rss", "name": "The American Prospect", "icon": "sun" }
+    ],
+    "PopCulture": [
+      { "url": "https://www.eonline.com/syndication/feeds/rssfeeds/topstories.xml", "name": "E! Online", "icon": "star" },
+      { "url": "https://feeds.distribution.dotdashmeredith.com/v3/rss/4780ef1e-1952-43da-abd9-3b7c690f1f72", "name": "People", "icon": "users" },
+      { "url": "https://hollywoodlife.com/feed/", "name": "Hollywood Life", "icon": "film" },
+      { "url": "https://www.buzzfeed.com/celebrity.xml", "name": "Buzzfeed Celebrity", "icon": "star" },
+      { "url": "https://www.usmagazine.com/feed/", "name": "Us Weekly", "icon": "users" },
+      { "url": "https://deadline.com/feed/", "name": "Deadline", "icon": "film" },
+      { "url": "http://www.vanityfair.com/rss/", "name": "Vanity Fair Hollywood", "icon": "star" }
+    ],
+    "LifeStyle": [
+      { "url": "https://goop.com/feed/", "name": "Goop", "icon": "heart" },
+      { "url": "https://lmgfl.com/feed/", "name": "Lifestyle Magazine", "icon": "heart" }
+    ],
+    "Fashion": [
+      { "url": "https://juliaberolzheimer.com/feed/", "name": "Julia Berolzheimer", "icon": "shopping-bag" },
+      { "url": "https://www.elle.com/rss/all.xml/", "name": "Elle", "icon": "shopping-bag" },
+      { "url": "https://putthison.com/feed/", "name": "Put This On", "icon": "shopping-bag" },
+      { "url": "https://agoodoutfit.com/feed/", "name": "A Good Outfit", "icon": "shopping-bag" }
+    ],
+    "Science": [
+      { "url": "https://www.sciencenews.org/feed", "name": "Science News", "icon": "flag" },
+      { "url": "https://www.nasa.gov/rss/dyn/breaking_news.rss", "name": "NASA", "icon": "compass" }
+    ],
+    "Music": [
+      { "url": "https://pitchfork.com/rss/news/", "name": "Pitchfork", "icon": "music" },
+      { "url": "https://earmilk.com/feed/", "name": "Earmilk", "icon": "headphones" },
+      { "url": "http://www.allmusic.com/rss", "name": "AllMusic", "icon": "volume-2" }
+    ],
+    "Food": [
+      { "url": "https://therecipecritic.com/feed/", "name": "Recipe Critic", "icon": "coffee" },
+      { "url": "http://pinchofyum.com/feed", "name": "Pinch of Yum", "icon": "pie-chart" },
+      { "url": "http://feeds.feedburner.com/smittenkitchen", "name": "Smitten Kitchen", "icon": "shopping-bag" }
+    ],
+    "Travel": [
+      { "url": "https://www.nomadicmatt.com/feed/", "name": "Nomadic Matt", "icon": "map" },
+      { "url": "http://theblondeabroad.com/feed", "name": "Blonde Abroad", "icon": "compass" }
+    ],
+    "Comics": [
+      { "url": "https://xkcd.com/rss.xml", "name": "XKCD", "icon": "pen-tool" },
+      { "url": "https://www.comicsbeat.com/feed/", "name": "Comics Beat", "icon": "book-open" }
+    ],
+    "Programming": [
+      { "url": "https://stackoverflow.blog/feed/", "name": "Stack Overflow Blog", "icon": "code" },
+      { "url": "https://dev.to/feed", "name": "DEV Community", "icon": "code" },
+      { "url": "https://www.freecodecamp.org/news/rss/", "name": "freeCodeCamp", "icon": "code" },
+      { "url": "https://developers.googleblog.com/feeds/posts/default", "name": "Google Developers Blog", "icon": "code" },
+      { "url": "http://syndication.thedailywtf.com/TheDailyWtf", "name": "The Daily WTF", "icon": "code" },
+      { "url": "http://www.thecrazyprogrammer.com/feed", "name": "Crazy Programmer", "icon": "code" },
+      { "url": "https://www.sitepoint.com/feed/", "name": "SitePoint", "icon": "hash" },
+      { "url": "https://css-tricks.com/feed/", "name": "CSS-Tricks", "icon": "layout" },
+      { "url": "https://developer.apple.com/news/rss/news.rss", "name": "Apple Developer News", "icon": "cpu" },
+      { "url": "https://smashinghub.com/feed", "name": "Smashing Hub", "icon": "cpu" }
+    ],
+    "Art": [
+      { "url": "https://www.thisiscolossal.com/feed/", "name": "Colossal", "icon": "image" },
+      { "url": "https://www.artnews.com/feed/", "name": "Art News", "icon": "eye" },
+      { "url": "https://www.booooooom.com/feed/", "name": "Booooooom", "icon": "feather" }
+    ],
+    "Anime": [
+      { "url": "https://www.animenewsnetwork.com/all/rss.xml?ann-edition=us", "name": "Anime News Network", "icon": "tv" },
+      { "url": "https://honeysanime.com/feed/", "name": "Honey's Anime", "icon": "star" }
+    ],
+    "Automobile": [
+      { "url": "http://www.autoblog.com/rss.xml", "name": "Autoblog", "icon": "truck" },
+      { "url": "http://feeds.feedburner.com/Speedhunters", "name": "Speedhunters", "icon": "trending-up" },
+      { "url": "https://www.carexpert.com.au/feed", "name": "Car Expert", "icon": "tool" }
+    ],
+    "Gardening": [
+      { "url": "https://www.finegardening.com/feed", "name": "Fine Gardening", "icon": "sun" },
+      { "url": "https://www.penick.net/digging/?feed=rss2", "name": "Digging", "icon": "sunset" },
+      { "url": "https://plantcaretoday.com/feed", "name": "Plant Care Today", "icon": "droplet" }
+    ],
+    "Pets": [
+      { "url": "https://feeds.feedburner.com/gopetfriendly", "name": "Go Pet Friendly", "icon": "github" },
+      { "url": "https://www.dogingtonpost.com/feed/", "name": "Dogington Post", "icon": "heart" }
+    ]
+  }
+}
