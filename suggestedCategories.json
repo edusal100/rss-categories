@@ -1,4 +1,4 @@
-{ "version": "1.0.3", "categories": { "Tech": [
+{ "version": "1.0.4", "categories": { "Tech": [
       { "name": "Wired", "url": "https://www.wired.com/feed/rss", "icon": "monitor" },
       { "name": "Mashable", "url": "https://mashable.com/feeds/rss/all", "icon": "zap" },
       { "name": "Xataka", "url": "https://www.xataka.com/feedburner.xml", "icon": "cpu" },
@@ -24,7 +24,6 @@
       { "name": "Vulcan Post", "url": "https://vulcanpost.com/feed/", "icon": "cpu" },
       { "name": "XDA Developers", "url": "https://www.xda-developers.com/feed/", "icon": "cpu" },
       { "name": "MIT AI", "url": "https://www.technologyreview.com/topic/artificial-intelligence/feed/", "icon": "cpu" },
-      { "name": "Lifehacker", "url": "https://lifehacker.com/feed/rss", "icon": "life-buoy" },
       { "name": "Geekwire", "url": "https://www.geekwire.com/feed/", "icon": "layers" },
       { "name": "Techradar", "url": "https://www.techradar.com/feeds.xml", "icon": "cpu" },
       { "name": "Silicon Republic", "url": "https://www.siliconrepublic.com/feed/", "icon": "cpu" },
