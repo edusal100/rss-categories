@@ -50,7 +50,6 @@
       { "name": "NextPit", "url": "https://www.nextpit.com/feed/main.xml", "icon": "smartphone" },
       { "name": "Pocketnow", "url": "https://pocketnow.com/feed/", "icon": "smartphone" },
       { "name": "GeekWire Mobile", "url": "https://www.geekwire.com/mobile-news/feed/", "icon": "smartphone" },
-      { "name": "CNET Mobile", "url": "https://www.cnet.com/rss/news/", "icon": "smartphone" },
       { "name": "Mobile Syrup", "url": "https://mobilesyrup.com/feed/", "icon": "smartphone" }
     ], "Games": [
       { "name": "Kotaku", "url": "https://kotaku.com/rss", "icon": "target" },
