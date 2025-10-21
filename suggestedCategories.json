@@ -1,4 +1,4 @@
-{ "version": "1.0.6", "categories": { "Tech": [
+{ "version": "1.0.7", "categories": { "Tech": [
       { "name": "Wired", "url": "https://www.wired.com/feed/rss", "icon": "monitor" },
       { "name": "Mashable", "url": "https://mashable.com/feeds/rss/all", "icon": "zap" },
       { "name": "Xataka", "url": "https://www.xataka.com/feedburner.xml", "icon": "cpu" },
@@ -85,7 +85,6 @@
       { "name": "TheXboxHub", "url": "https://www.thexboxhub.com/feed/", "icon": "play" },
       { "name": "LevelUp", "url": "https://thisislevelup.net/feed/", "icon": "play" },
       { "name": "Nintendo Life", "url": "https://www.nintendolife.com/feeds/latest", "icon": "play" },
-      { "name": "Push Square", "url": "https://www.pushsquare.com/feeds/latest", "icon": "play" },
       { "name": "Xbox Wire", "url": "https://news.xbox.com/en-us/feed/", "icon": "play" }
     ], "Sports": [
       { "name": "CBS Sports", "url": "https://www.cbssports.com/rss/headlines/", "icon": "award" },
