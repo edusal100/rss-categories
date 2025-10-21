@@ -1,4 +1,4 @@
-{ "version": "1.0.5", "categories": { "Tech": [
+{ "version": "1.0.6", "categories": { "Tech": [
       { "name": "Wired", "url": "https://www.wired.com/feed/rss", "icon": "monitor" },
       { "name": "Mashable", "url": "https://mashable.com/feeds/rss/all", "icon": "zap" },
       { "name": "Xataka", "url": "https://www.xataka.com/feedburner.xml", "icon": "cpu" },
@@ -134,7 +134,8 @@
       { "name": "Film daily", "url": "https://filmdaily.co/feed/", "icon": "film" },
       { "name": "We got this covered", "url": "https://wegotthiscovered.com/feed/", "icon": "film" },
       { "name": "ScreenDaily", "url": "https://www.screendaily.com/45202.rss", "icon": "film" },
-      { "name": "Movie Maker", "url": "https://www.moviemaker.com/feed/", "icon": "film" }
+      { "name": "Movie Maker", "url": "https://www.moviemaker.com/feed/", "icon": "film" },
+      { "name": "Slashfilm", "url": " https://www.slashfilm.com/feed/atom/", "icon": "tv" }
     ], "News": [
       { "name": "NPR", "url": "https://feeds.npr.org/1001/rss.xml", "icon": "radio" },
       { "name": "BBC News", "url": "http://feeds.bbci.co.uk/news/world/rss.xml", "icon": "globe" },
