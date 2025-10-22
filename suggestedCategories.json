@@ -1,4 +1,4 @@
-{ "version": "1.0.8", "categories": { "Tech": [
+{ "version": "1.0.9", "categories": { "Tech": [
       { "name": "Wired", "url": "https://www.wired.com/feed/rss", "icon": "monitor" },
       { "name": "Mashable", "url": "https://mashable.com/feeds/rss/all", "icon": "zap" },
       { "name": "Xataka", "url": "https://www.xataka.com/feedburner.xml", "icon": "cpu" },
