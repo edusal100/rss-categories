@@ -53,7 +53,7 @@
     ], "Games": [
       { "name": "Kotaku", "url": "https://kotaku.com/rss", "icon": "target" },
       { "name": "GameSpot", "url": "https://www.gamespot.com/feeds/mashup", "icon": "disc" },
-      { "name": "GameInformer", "url: "https://gameinformer.com/rss.xml", "icon": "cpu" },
+      { "name": "GameInformer", "url": "https://gameinformer.com/rss.xml", "icon": "cpu" },
       { "name": "Polygon", "url": "https://www.polygon.com/rss/index.xml", "icon": "triangle" },
       { "name": "IGN", "url": "https://www.ign.com/rss/v2/articles/feed", "icon": "crosshair" },
       { "name": "Destructoid", "url": "https://www.destructoid.com/feed/", "icon": "shield" },
