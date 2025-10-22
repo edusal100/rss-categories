@@ -1,4 +1,4 @@
-{ "version": "1.0.7", "categories": { "Tech": [
+{ "version": "1.0.8", "categories": { "Tech": [
       { "name": "Wired", "url": "https://www.wired.com/feed/rss", "icon": "monitor" },
       { "name": "Mashable", "url": "https://mashable.com/feeds/rss/all", "icon": "zap" },
       { "name": "Xataka", "url": "https://www.xataka.com/feedburner.xml", "icon": "cpu" },
@@ -53,6 +53,7 @@
     ], "Games": [
       { "name": "Kotaku", "url": "https://kotaku.com/rss", "icon": "target" },
       { "name": "GameSpot", "url": "https://www.gamespot.com/feeds/mashup", "icon": "disc" },
+      { "name": "GameInformer", "url: "https://gameinformer.com/rss.xml", "icon": "cpu" },
       { "name": "Polygon", "url": "https://www.polygon.com/rss/index.xml", "icon": "triangle" },
       { "name": "IGN", "url": "https://www.ign.com/rss/v2/articles/feed", "icon": "crosshair" },
       { "name": "Destructoid", "url": "https://www.destructoid.com/feed/", "icon": "shield" },
