@@ -1,5 +1,5 @@
 {
-  "version": "1.2.4",
+  "version": "1.2.5",
   "categories": {
     "Tech": [
       { "name": "Wired", "url": "https://www.wired.com/feed/rss", "icon": "cpu", "iconFamily": "Feather" },
@@ -200,8 +200,14 @@
       { "name": "A Good Outfit", "url": "https://agoodoutfit.com/feed/", "icon": "shopping-bag", "iconFamily": "Feather" }
     ],
     "Science": [
+      { "name": "Newscientist", "url": "https://www.newscientist.com/feed/home/?cmpid=RSS%7CNSNS-Home", "icon": "atom", "iconFamily": "MaterialCommunityIcons" },
+      { "name": "ScienceBlogs", "url": "https://scienceblogs.com/rss.xml", "icon": "atom", "iconFamily": "MaterialCommunityIcons" },
       { "name": "Science News", "url": "https://www.sciencenews.org/feed", "icon": "atom", "iconFamily": "MaterialCommunityIcons" },
-      { "name": "NASA", "url": "https://www.nasa.gov/rss/dyn/breaking_news.rss", "icon": "rocket", "iconFamily": "Feather" }
+      { "name": "NASA", "url": "https://www.nasa.gov/rss/dyn/breaking_news.rss", "icon": "rocket", "iconFamily": "Feather" },
+      { "name": "Space", "url": "https://www.space.com/feeds.xml", "icon": "rocket", "iconFamily": "Feather" },
+      { "name": "The Science Notes", "url": "https://thesciencenotes.com/feed/", "icon": "rocket", "iconFamily": "Feather" },
+      { "name": "Earth University", "url": "https://news.climate.columbia.edu/feed/", "icon": "rocket", "iconFamily": "Feather" },
+      { "name": "Live Science", "url": "https://www.livescience.com/feeds.xml", "icon": "rocket", "iconFamily": "Feather" }
     ],
     "Music": [
       { "name": "Pitchfork", "url": "https://pitchfork.com/rss/news/", "icon": "music", "iconFamily": "Feather" },
