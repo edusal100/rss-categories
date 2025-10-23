@@ -1,4 +1,4 @@
-{ "version": "1.0.9", "categories": { "Tech": [
+{ "version": "1.1.0", "categories": { "Tech": [
       { "name": "Wired", "url": "https://www.wired.com/feed/rss", "icon": "monitor" },
       { "name": "Mashable", "url": "https://mashable.com/feeds/rss/all", "icon": "zap" },
       { "name": "Xataka", "url": "https://www.xataka.com/feedburner.xml", "icon": "cpu" },
@@ -18,6 +18,7 @@
       { "name": "The Verge", "url": "https://www.theverge.com/rss/full.xml", "icon": "triangle" },
       { "name": "Recode", "url": "https://www.vox.com/rss/technology/index.xml", "icon": "chevron-down" },
       { "name": "Wired ES", "url": "https://es.wired.com/feed/rss", "icon": "monitor" },
+      { "name": "Thenewstack", "url": "https://thenewstack.io/feed/", "icon": "cpu" },
       { "name": "MuyComputer", "url": "https://www.muycomputer.com/feed/", "icon": "cpu" },
       { "name": "Actualidad iPhone", "url": "http://feeds.feedburner.com/actualidadiphone", "icon": "smartphone" },
       { "name": "Geekno", "url": "https://www.geekno.com/feed/atom", "icon": "cpu" },
@@ -114,6 +115,7 @@
       { "name": "Espinof", "url": "https://www.espinof.com/index.xml", "icon": "film" },
       { "name": "ScreenRant", "url": "https://screenrant.com/feed/", "icon": "video" },
       { "name": "Collider", "url": "https://collider.com/feed/", "icon": "camera" },
+      { "name": "Variety", "url": "https://variety.com/feed/", "icon": "tv" },
       { "name": "CinemaBlend", "url": "https://www.cinemablend.com/rss/topic/reviews/movies", "icon": "tv" },
       { "name": "ComingSoon", "url": "https://www.comingsoon.net/feed", "icon": "film" },
       { "name": "ScreenCrush", "url": "https://screencrush.com/feed/", "icon": "film" },
@@ -135,7 +137,7 @@
       { "name": "We got this covered", "url": "https://wegotthiscovered.com/feed/", "icon": "film" },
       { "name": "ScreenDaily", "url": "https://www.screendaily.com/45202.rss", "icon": "film" },
       { "name": "Movie Maker", "url": "https://www.moviemaker.com/feed/", "icon": "film" },
-      { "name": "Slashfilm", "url": " https://www.slashfilm.com/feed/atom/", "icon": "tv" }
+      { "name": "Slashfilm", "url": "https://www.slashfilm.com/feed/atom/", "icon": "tv" }
     ], "News": [
       { "name": "NPR", "url": "https://feeds.npr.org/1001/rss.xml", "icon": "radio" },
       { "name": "BBC News", "url": "http://feeds.bbci.co.uk/news/world/rss.xml", "icon": "globe" },
