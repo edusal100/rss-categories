@@ -1,5 +1,5 @@
 {
-  "version": "1.2.2",
+  "version": "1.2.3",
   "categories": {
     "Tech": [
       { "name": "Wired", "url": "https://www.wired.com/feed/rss", "icon": "cpu", "iconFamily": "Feather" },
@@ -22,21 +22,21 @@
       { "name": "Recode", "url": "https://www.vox.com/rss/technology/index.xml", "icon": "code", "iconFamily": "Octicons" },
       { "name": "Wired ES", "url": "https://es.wired.com/feed/rss", "icon": "monitor", "iconFamily": "Feather" },
       { "name": "MuyComputer", "url": "https://www.muycomputer.com/feed/", "icon": "desktop-classic", "iconFamily": "MaterialCommunityIcons" },
-      { "name": "Actualidad iPhone", "url": "http://feeds.feedburner.com/actualidadiphone", "icon": "smartphone-iphone", "iconFamily": "MaterialCommunityIcons" },
+      { "name": "Actualidad iPhone", "url": "http://feeds.feedburner.com/actualidadiphone", "icon": "smartphone", "iconFamily": "Feather" },
       { "name": "XDA Developers", "url": "https://www.xda-developers.com/feed/", "icon": "android", "iconFamily": "FontAwesome" },
       { "name": "MIT AI", "url": "https://www.technologyreview.com/topic/artificial-intelligence/feed/", "icon": "brain", "iconFamily": "MaterialCommunityIcons" },
       { "name": "Geekwire", "url": "https://www.geekwire.com/feed/", "icon": "glasses", "iconFamily": "MaterialCommunityIcons" },
       { "name": "TechRadar", "url": "https://www.techradar.com/feeds.xml", "icon": "radar-outline", "iconFamily": "Ionicons" },
       { "name": "Silicon Republic", "url": "https://www.siliconrepublic.com/feed/", "icon": "cpu", "iconFamily": "Feather" },
-      { "name": "The Register", "url": "https://www.theregister.com/headlines.atom", "icon": "newspaper", "iconFamily": "Feather" },
+      { "name": "The Register", "url": "https://www.theregister.com/headlines.atom", "icon": "newspaper", "iconFamily": "FontAwesome6" },
       { "name": "SlashGear", "url": "https://www.slashgear.com/feed/", "icon": "settings-outline", "iconFamily": "Ionicons" },
       { "name": "Trusted Reviews", "url": "https://www.trustedreviews.com/feed", "icon": "check-circle", "iconFamily": "FontAwesome" },
       { "name": "Mac Rumors", "url": "https://feeds.macrumors.com/MacRumors-All", "icon": "apple", "iconFamily": "AntDesign" },
-      { "name": "Tech Hive", "url": "https://www.techhive.com/feed", "icon": "hive-outline", "iconFamily": "MaterialCommunityIcons" }
+      { "name": "Tech Hive", "url": "https://www.techhive.com/feed", "icon": "hive", "iconFamily": "MaterialIcons" }
     ],
     "Mobile": [
       { "name": "Droid Life", "url": "https://www.droid-life.com/feed/", "icon": "android", "iconFamily": "FontAwesome" },
-      { "name": "Android Central", "url": "https://www.androidcentral.com/rss.xml", "icon": "android1", "iconFamily": "AntDesign" },
+      { "name": "Android Central", "url": "https://www.androidcentral.com/rss.xml", "icon": "android", "iconFamily": "FontAwesome5" },
       { "name": "GSMArena", "url": "https://www.gsmarena.com/rss-news-reviews.php3", "icon": "cellphone", "iconFamily": "MaterialCommunityIcons" },
       { "name": "9to5Mac", "url": "https://9to5mac.com/search/iphone/feed/rss2/", "icon": "logo-apple", "iconFamily": "Ionicons" },
       { "name": "Android Authority", "url": "https://www.androidauthority.com/feed/", "icon": "mobile", "iconFamily": "Entypo" },
@@ -51,17 +51,17 @@
       { "name": "NextPit", "url": "https://www.nextpit.com/feed/main.xml", "icon": "layers", "iconFamily": "Feather" },
       { "name": "Pocketnow", "url": "https://powersportnow.com/feed/", "icon": "pocket", "iconFamily": "Feather" },
       { "name": "GeekWire Mobile", "url": "https://www.geekwire.com/mobile-news/feed/", "icon": "rss-square", "iconFamily": "FontAwesome" },
-      { "name": "Mobile Syrup", "url": "https://mobilesyrup.com/feed/", "icon": "drop", "iconFamily": "MaterialCommunityIcons" }
+      { "name": "Mobile Syrup", "url": "https://mobilesyrup.com/feed/", "icon": "dropbox", "iconFamily": "MaterialCommunityIcons" }
     ],
     "Games": [
-      { "name": "Kotaku", "url": "https://kotaku.com/rss", "icon": "game-controller", "iconFamily": "MaterialCommunityIcons" },
+      { "name": "Kotaku", "url": "https://kotaku.com/rss", "icon": "game-controller", "iconFamily": "Entypo" },
       { "name": "GameSpot", "url": "https://www.gamespot.com/feeds/mashup", "icon": "disc", "iconFamily": "Feather" },
       { "name": "GameInformer", "url": "https://gameinformer.com/rss.xml", "icon": "cpu", "iconFamily": "Feather" },
       { "name": "Polygon", "url": "https://www.polygon.com/rss/index.xml", "icon": "triangle", "iconFamily": "Feather" },
-      { "name": "IGN", "url": "https://www.ign.com/rss/v2/articles/feed", "icon": "crosshair", "iconFamily": "AntDesign" },
+      { "name": "IGN", "url": "https://www.ign.com/rss/v2/articles/feed", "icon": "crosshair", "iconFamily": "Feather" },
       { "name": "Destructoid", "url": "https://www.destructoid.com/feed/", "icon": "shield", "iconFamily": "Entypo" },
       { "name": "Digital Foundry", "url": "https://www.digitalfoundry.net/feed", "icon": "cpu", "iconFamily": "Feather" },
-      { "name": "PlayStation Blog", "url": "https://blog.playstation.com/feed/", "icon": "controller-play", "iconFamily": "MaterialCommunityIcons" },
+      { "name": "PlayStation Blog", "url": "https://blog.playstation.com/feed/", "icon": "controller-play", "iconFamily": "Entypo" },
       { "name": "Eurogamer", "url": "https://www.eurogamer.net/feed", "icon": "cpu", "iconFamily": "Feather" },
       { "name": "My Nintendo News", "url": "https://mynintendonews.com/feed/", "icon": "nintendo-switch", "iconFamily": "MaterialCommunityIcons" },
       { "name": "3DJuegos", "url": "https://www.3djuegos.lat/feedburner.xml", "icon": "cpu", "iconFamily": "Feather" },
@@ -71,7 +71,7 @@
       { "name": "GameBiz", "url": "https://gamesindustry.biz", "icon": "play", "iconFamily": "Feather" },
       { "name": "VG247", "url": "https://www.vg247.com/feed/", "icon": "file-text", "iconFamily": "Feather" },
       { "name": "Gematsu", "url": "https://www.gematsu.com/feed", "icon": "play-circle", "iconFamily": "FontAwesome" },
-      { "name": "Xbox Wire", "url": "https://news.xbox.com/en-us/feed/", "icon": "xbox", "iconFamily": "FontAwesome" },
+      { "name": "Xbox Wire", "url": "https://news.xbox.com/en-us/feed/", "icon": "xbox", "iconFamily": "FontAwesome6" },
       { "name": "PC Gamer", "url": "https://www.pcgamer.com/rss/", "icon": "monitor", "iconFamily": "Feather" },
       { "name": "PCGamesN", "url": "https://www.pcgamesn.com/mainrss.xml", "icon": "monitor", "iconFamily": "Feather" },
       { "name": "Push Square", "url": "https://www.pushsquare.com/feeds/latest", "icon": "square", "iconFamily": "Feather" },
@@ -80,16 +80,16 @@
       { "name": "Siliconera", "url": "https://www.siliconera.com/feed/", "icon": "globe", "iconFamily": "Feather" },
       { "name": "Game Developer", "url": "https://www.gamedeveloper.com/rss.xml", "icon": "code", "iconFamily": "Feather" },
       { "name": "Gaming on Linux", "url": "https://www.gamingonlinux.com/article_rss.php", "icon": "terminal", "iconFamily": "Octicons" },
-      { "name": "GameRant", "url": "https://gamerant.com/feed/", "icon": "zap", "iconFamily": "MaterialCommunityIcons" },
+      { "name": "GameRant", "url": "https://gamerant.com/feed/", "icon": "zap", "iconFamily": "Feather" },
       { "name": "GamesRadar", "url": "https://www.gamesradar.com/rss.xml", "icon": "play", "iconFamily": "Feather" },
-      { "name": "Touch Arcade", "url": "https://toucharcade.com/feed/", "icon": "play", "iconFamily": "Feather" },
+      { "name": "Touch Arcade", "url": "https://toucharcade.com/feed/", "icon": "play-circle", "iconFamily": "AntDesign" },
       { "name": "DualShockers", "url": "https://www.dualshockers.com/feed/", "icon": "play", "iconFamily": "Feather" },
-      { "name": "PS Lifestyle", "url": "https://www.playstationlifestyle.net/feed/", "icon": "play", "iconFamily": "Feather" },
-      { "name": "Pure Nintendo", "url": "https://purenintendo.com/feed/", "icon": "play", "iconFamily": "Feather" },
-      { "name": "TheXboxHub", "url": "https://www.thexboxhub.com/feed/", "icon": "play", "iconFamily": "Feather" },
+      { "name": "PS Lifestyle", "url": "https://www.playstationlifestyle.net/feed/", "icon": "playstation", "iconFamily": "FontAwesome6" },
+      { "name": "Pure Nintendo", "url": "https://purenintendo.com/feed/", "icon": "nintendo-switch", "iconFamily": "MaterialCommunityIcons" },
+      { "name": "TheXboxHub", "url": "https://www.thexboxhub.com/feed/", "icon": "xbox", "iconFamily": "FontAwesome6" },
       { "name": "LevelUp", "url": "https://thisislevelup.net/feed/", "icon": "play", "iconFamily": "Feather" },
-      { "name": "Nintendo Life", "url": "https://www.nintendolife.com/feeds/latest", "icon": "play", "iconFamily": "Feather" },
-      { "name": "Xbox Wire", "url": "https://news.xbox.com/en-us/feed/", "icon": "play", "iconFamily": "Feather" }
+      { "name": "Nintendo Life", "url": "https://www.nintendolife.com/feeds/latest", "icon": "nintendo-switch", "iconFamily": "MaterialCommunityIcons" },
+      { "name": "Xbox Wire", "url": "https://news.xbox.com/en-us/feed/", "icon": "xbox", "iconFamily": "FontAwesome6" }
     ],
     "Sports": [
       { "name": "CBS Sports", "url": "https://www.cbssports.com/rss/headlines/", "icon": "trophy", "iconFamily": "MaterialCommunityIcons" },
