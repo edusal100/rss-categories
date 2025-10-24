@@ -1,5 +1,5 @@
 {
-  "version": "1.2.5",
+  "version": "1.2.6",
   "categories": {
     "Tech": [
       { "name": "Wired", "url": "https://www.wired.com/feed/rss", "icon": "cpu", "iconFamily": "Feather" },
@@ -26,7 +26,7 @@
       { "name": "XDA Developers", "url": "https://www.xda-developers.com/feed/", "icon": "android", "iconFamily": "FontAwesome" },
       { "name": "MIT AI", "url": "https://www.technologyreview.com/topic/artificial-intelligence/feed/", "icon": "brain", "iconFamily": "MaterialCommunityIcons" },
       { "name": "Geekwire", "url": "https://www.geekwire.com/feed/", "icon": "glasses", "iconFamily": "MaterialCommunityIcons" },
-      { "name": "TechRadar", "url": "https://www.techradar.com/feeds.xml", "icon": "radar-outline", "iconFamily": "Ionicons" },
+      { "name": "TechRadar", "url": "https://www.techradar.com/feeds.xml", "icon": "radar", "iconFamily": "MaterialIcons" },
       { "name": "Silicon Republic", "url": "https://www.siliconrepublic.com/feed/", "icon": "cpu", "iconFamily": "Feather" },
       { "name": "The Register", "url": "https://www.theregister.com/headlines.atom", "icon": "newspaper", "iconFamily": "FontAwesome6" },
       { "name": "SlashGear", "url": "https://www.slashgear.com/feed/", "icon": "settings-outline", "iconFamily": "Ionicons" },
@@ -47,7 +47,7 @@
       { "name": "CNET Mobile", "url": "https://www.cnet.com/rss/news/", "icon": "rss", "iconFamily": "Feather" },
       { "name": "Know Your Mobile", "url": "https://www.knowyourmobile.com/feed/", "icon": "info-with-circle", "iconFamily": "Entypo" },
       { "name": "TechJuice", "url": "https://www.techjuice.pk/category/mobile/feed/", "icon": "droplet", "iconFamily": "Feather" },
-      { "name": "MobiGyaan", "url": "https://www.mobigyaan.com/feed", "icon": "chat", "iconFamily": "AntDesign" },
+      { "name": "MobiGyaan", "url": "https://www.mobigyaan.com/feed", "icon": "chat", "iconFamily": "Entypo" },
       { "name": "NextPit", "url": "https://www.nextpit.com/feed/main.xml", "icon": "layers", "iconFamily": "Feather" },
       { "name": "Pocketnow", "url": "https://powersportnow.com/feed/", "icon": "pocket", "iconFamily": "Feather" },
       { "name": "GeekWire Mobile", "url": "https://www.geekwire.com/mobile-news/feed/", "icon": "rss-square", "iconFamily": "FontAwesome" },
