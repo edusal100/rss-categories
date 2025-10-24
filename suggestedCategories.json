@@ -1,5 +1,5 @@
 {
-  "version": "1.2.6",
+  "version": "1.2.7",
   "categories": {
     "Tech": [
       { "name": "Wired", "url": "https://www.wired.com/feed/rss", "icon": "cpu", "iconFamily": "Feather" },
@@ -62,6 +62,7 @@
       { "name": "Destructoid", "url": "https://www.destructoid.com/feed/", "icon": "shield", "iconFamily": "Entypo" },
       { "name": "Digital Foundry", "url": "https://www.digitalfoundry.net/feed", "icon": "cpu", "iconFamily": "Feather" },
       { "name": "PlayStation Blog", "url": "https://blog.playstation.com/feed/", "icon": "controller-play", "iconFamily": "Entypo" },
+      { "name": "TWIV", "url": "https://thisweekinvideogames.com/feed/", "icon": "videogame-asset", "iconFamily": "MaterialIcons" },
       { "name": "Eurogamer", "url": "https://www.eurogamer.net/feed", "icon": "cpu", "iconFamily": "Feather" },
       { "name": "My Nintendo News", "url": "https://mynintendonews.com/feed/", "icon": "nintendo-switch", "iconFamily": "MaterialCommunityIcons" },
       { "name": "3DJuegos", "url": "https://www.3djuegos.lat/feedburner.xml", "icon": "cpu", "iconFamily": "Feather" },
