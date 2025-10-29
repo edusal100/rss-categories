@@ -1,5 +1,5 @@
 {
-  "version": "1.2.7",
+  "version": "1.2.8",
   "categories": {
     "Tech": [
       { "name": "Wired", "url": "https://www.wired.com/feed/rss", "icon": "cpu", "iconFamily": "Feather" },
@@ -89,8 +89,7 @@
       { "name": "Pure Nintendo", "url": "https://purenintendo.com/feed/", "icon": "nintendo-switch", "iconFamily": "MaterialCommunityIcons" },
       { "name": "TheXboxHub", "url": "https://www.thexboxhub.com/feed/", "icon": "xbox", "iconFamily": "FontAwesome6" },
       { "name": "LevelUp", "url": "https://thisislevelup.net/feed/", "icon": "play", "iconFamily": "Feather" },
-      { "name": "Nintendo Life", "url": "https://www.nintendolife.com/feeds/latest", "icon": "nintendo-switch", "iconFamily": "MaterialCommunityIcons" },
-      { "name": "Xbox Wire", "url": "https://news.xbox.com/en-us/feed/", "icon": "xbox", "iconFamily": "FontAwesome6" }
+      { "name": "Nintendo Life", "url": "https://www.nintendolife.com/feeds/latest", "icon": "nintendo-switch", "iconFamily": "MaterialCommunityIcons" }
     ],
     "Sports": [
       { "name": "CBS Sports", "url": "https://www.cbssports.com/rss/headlines/", "icon": "trophy", "iconFamily": "MaterialCommunityIcons" },
