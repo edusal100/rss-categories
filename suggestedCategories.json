@@ -1,5 +1,5 @@
 {
-  "version": "1.2.8",
+  "version": "1.2.9",
   "categories": {
     "Tech": [
       { "name": "Wired", "url": "https://www.wired.com/feed/rss", "icon": "cpu", "iconFamily": "Feather" },
@@ -170,7 +170,8 @@
       { "name": "NDTV", "url": "https://feeds.feedburner.com/ndtvnews-world-news", "icon": "globe", "iconFamily": "Feather" },
       { "name": "Vox World", "url": "https://www.vox.com/rss/world-politics/index.xml", "icon": "globe", "iconFamily": "Feather" },
       { "name": "Sinembargo", "url": "https://www.sinembargo.mx/feed/", "icon": "globe", "iconFamily": "Feather" },
-      { "name": "South China", "url": "https://www.scmp.com/rss/91/feed", "icon": "sun", "iconFamily": "Feather" }
+      { "name": "South China", "url": "https://www.scmp.com/rss/91/feed", "icon": "sun", "iconFamily": "Feather" },
+      { "name": "CGTN China", "url": "https://www.cgtn.com/subscribe/rss/section/china.xml", "icon": "sun", "iconFamily": "Feather" }
     ],
     "PopCulture": [
       { "name": "E! Online", "url": "https://www.eonline.com/syndication/feeds/rssfeeds/topstories.xml", "icon": "star", "iconFamily": "FontAwesome" },
