@@ -1,5 +1,5 @@
 {
-  "version": "1.3.2",
+  "version": "1.3.3",
   "categories": {
     "Tech": [
       { "name": "Wired", "url": "https://www.wired.com/feed/rss", "icon": "cpu", "iconFamily": "Feather" },
@@ -64,6 +64,7 @@
       { "name": "GameInformer", "url": "https://gameinformer.com/rss.xml", "icon": "cpu", "iconFamily": "Feather" },
       { "name": "Polygon", "url": "https://www.polygon.com/rss/index.xml", "icon": "triangle", "iconFamily": "Feather" },
       { "name": "IGN", "url": "https://www.ign.com/rss/v2/articles/feed", "icon": "crosshair", "iconFamily": "Feather" },
+      { "name": "IGN Videos", "url": "https://www.ign.com/rss/v2/videos/feed", "icon": "crosshair", "iconFamily": "Feather" },
       { "name": "Destructoid", "url": "https://www.destructoid.com/feed/", "icon": "shield", "iconFamily": "Entypo" },
       { "name": "Digital Foundry", "url": "https://www.digitalfoundry.net/feed", "icon": "cpu", "iconFamily": "Feather" },
       { "name": "PlayStation Blog", "url": "https://blog.playstation.com/feed/", "icon": "controller-play", "iconFamily": "Entypo" },
