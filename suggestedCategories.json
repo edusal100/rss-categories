@@ -1,5 +1,5 @@
 {
-  "version": "1.3.6",
+  "version": "1.3.7",
   "categories": {
     "Tech": [
       { "name": "Wired", "url": "https://www.wired.com/feed/rss", "icon": "cpu", "iconFamily": "Feather" },
@@ -236,7 +236,7 @@
       { "name": "Scientifc American", "url": "http://rss.sciam.com/ScientificAmerican-Global", "icon": "rocket", "iconFamily": "Feather" },
       { "name": "Science Daily", "url": "https://www.sciencedaily.com/rss/", "icon": "rocket", "iconFamily": "Feather" }
     ],
-    "Food": 
+    "Food": [
       { "name": "Recipe Critic", "url": "https://therecipecritic.com/feed/", "icon": "coffee", "iconFamily": "Feather" },
       { "name": "Pinch of Yum", "url": "http://pinchofyum.com/feed", "icon": "pie-chart", "iconFamily": "Feather" },
       { "name": "Smitten Kitchen", "url": "http://feeds.feedburner.com/smittenkitchen", "icon": "shopping-bag", "iconFamily": "Feather" },
