@@ -1,10 +1,12 @@
 {
-  "version": "1.3.4",
+  "version": "1.3.5",
   "categories": {
     "Tech": [
       { "name": "Wired", "url": "https://www.wired.com/feed/rss", "icon": "cpu", "iconFamily": "Feather" },
       { "name": "Mashable", "url": "https://mashable.com/feeds/rss/all", "icon": "zap", "iconFamily": "Feather" },
       { "name": "Xataka", "url": "https://www.xataka.com/feedburner.xml", "icon": "chip", "iconFamily": "MaterialCommunityIcons" },
+      { "name": "Computer Hoy", "url": "https://computerhoy.com/rss.xml", "icon": "computer", "iconFamily": "MaterialIcons" },
+      { "name": "Hipertextual", "url": " https://hipertextual.com/feed/", "icon": "highlight", "iconFamily": "AntDesign" },
       { "name": "Gizmodo", "url": "https://gizmodo.com/rss", "icon": "robot", "iconFamily": "MaterialCommunityIcons" },
       { "name": "Engadget", "url": "https://www.engadget.com/rss/", "icon": "laptop", "iconFamily": "MaterialCommunityIcons" },
       { "name": "ZDNet", "url": "https://www.zdnet.com/news/rss.xml", "icon": "server-network", "iconFamily": "MaterialCommunityIcons" },
@@ -42,6 +44,8 @@
     "Mobile": [
       { "name": "Droid Life", "url": "https://www.droid-life.com/feed/", "icon": "android", "iconFamily": "FontAwesome" },
       { "name": "Android Central", "url": "https://www.androidcentral.com/rss.xml", "icon": "android", "iconFamily": "FontAwesome5" },
+      { "name": "Andro4All", "url": "https://andro4all.com/feed", "icon": "android", "iconFamily": "FontAwesome" },
+      { "name": "Xataka Android", "url": "https://www.xatakandroid.com/feedburner.xml", "icon": "hexagon", "iconFamily": "Feather" },
       { "name": "GSMArena", "url": "https://www.gsmarena.com/rss-news-reviews.php3", "icon": "cellphone", "iconFamily": "MaterialCommunityIcons" },
       { "name": "9to5Mac", "url": "https://9to5mac.com/search/iphone/feed/rss2/", "icon": "logo-apple", "iconFamily": "Ionicons" },
       { "name": "Android Authority", "url": "https://www.androidauthority.com/feed/", "icon": "mobile", "iconFamily": "Entypo" },
@@ -179,7 +183,7 @@
       { "name": "South China", "url": "https://www.scmp.com/rss/91/feed", "icon": "sun", "iconFamily": "Feather" },
       { "name": "CGTN China", "url": "https://www.cgtn.com/subscribe/rss/section/china.xml", "icon": "sun", "iconFamily": "Feather" }
     ],
-    "PopCulture": [
+    "Culture": [
       { "name": "E! Online", "url": "https://www.eonline.com/syndication/feeds/rssfeeds/topstories.xml", "icon": "star", "iconFamily": "FontAwesome" },
       { "name": "People", "url": "https://feeds.distribution.dotdashmeredith.com/v3/rss/4780ef1e-1952-43da-abd9-3b7c690f1f72", "icon": "users", "iconFamily": "FontAwesome" },
       { "name": "Hollywood Life", "url": "https://hollywoodlife.com/feed/", "icon": "film", "iconFamily": "Feather" },
@@ -194,17 +198,31 @@
       { "name": "Buzzfeed", "url": "https://www.buzzfeed.com/mx/celebrity.xml", "icon": "star", "iconFamily": "FontAwesome" },
       { "name": "DeadLine", "url": "https://deadline.com/feed/", "icon": "star", "iconFamily": "FontAwesome" },
       { "name": "US Weekly", "url": "https://www.usmagazine.com/feed/", "icon": "star", "iconFamily": "FontAwesome" },
-      { "name": "Yahoo Celeb", "url": "https://www.yahoo.com/celebrity/rss", "icon": "star", "iconFamily": "FontAwesome" }
-    ],
-    "LifeStyle": [
-      { "name": "Goop", "url": "https://goop.com/feed/", "icon": "heart", "iconFamily": "Feather" },
-      { "name": "Lifestyle Magazine", "url": "https://lmgfl.com/feed/", "icon": "heart", "iconFamily": "Feather" }
+      { "name": "Yahoo Celeb", "url": "https://www.yahoo.com/celebrity/rss", "icon": "star", "iconFamily": "FontAwesome" },
+      { "name": "El Mundo", "url": "https://www.elmundo.es/rss/googlenews/cultura.xml", "icon": "star", "iconFamily": "FontAwesome" },
+      { "name": "Cultura Inquieta", "url": "https://culturainquieta.com/feed/", "icon": "star", "iconFamily": "FontAwesome" },
+      { "name": "ABC", "url": "https://www.abc.es/rss/feeds/abc_cultura.xml", "icon": "star", "iconFamily": "FontAwesome" },
+      { "name": "Europa Press", "url": "https://www.abc.es/rss/feeds/abc_cultura.xml", "icon": "star", "iconFamily": "FontAwesome" },
+      { "name": "Eurozine", "url": "https://www.eurozine.com/feed/", "icon": "star", "iconFamily": "FontAwesome" },
+      { "name": "BC Alliance", "url": "https://www.allianceforarts.com/blog?format=RSS", "icon": "star", "iconFamily": "FontAwesome" },
+      { "name": "France 24 Culture", "url": "https://www.france24.com/en/culture/rss", "icon": "star", "iconFamily": "FontAwesome" },
+      { "name": "Our Culture", "url": "https://ourculturemag.com/feed/", "icon": "star", "iconFamily": "FontAwesome" }
     ],
     "Fashion": [
       { "name": "Julia Berolzheimer", "url": "https://juliaberolzheimer.com/feed/", "icon": "shopping-bag", "iconFamily": "Feather" },
       { "name": "Elle", "url": "https://www.elle.com/rss/all.xml/", "icon": "shopping-bag", "iconFamily": "Feather" },
       { "name": "Put This On", "url": "https://putthison.com/feed/", "icon": "shopping-bag", "iconFamily": "Feather" },
-      { "name": "A Good Outfit", "url": "https://agoodoutfit.com/feed/", "icon": "shopping-bag", "iconFamily": "Feather" }
+      { "name": "A Good Outfit", "url": "https://agoodoutfit.com/feed/", "icon": "shopping-bag", "iconFamily": "Feather" },
+      { "name": "Atlantic Pacific", "url": "https://www.the-atlantic-pacific.com/feed/", "icon": "shopping-bag", "iconFamily": "Feather" },
+      { "name": "Fashion Bomb", "url": "https://fashionbombdaily.com/feed/", "icon": "shopping-bag", "iconFamily": "Feather" },
+      { "name": "Sincerly Jules", "url": "https://sincerelyjules.com/feed/", "icon": "shopping-bag", "iconFamily": "Feather" },
+      { "name": "We wore what", "url": "https://weworewhat.com/blogs/fashion.atom", "icon": "shopping-bag", "iconFamily": "Feather" },
+      { "name": "The budget fashionista", "url": "https://feeds.feedburner.com/TheBudgetFashionista", "icon": "shopping-bag", "iconFamily": "Feather" },
+      { "name": "Damsel in Dior", "url": "http://damselindior.com/feed/", "icon": "shopping-bag", "iconFamily": "Feather" },
+      { "name": "Styling you", "url": "https://www.stylingyou.com.au/feed/", "icon": "shopping-bag", "iconFamily": "Feather" },
+      { "name": "A good outfit", "url": "https://agoodoutfit.com/feed/", "icon": "shopping-bag", "iconFamily": "Feather" },
+      { "name": "Color me courtney", "url": "https://www.colormecourtney.com/feed/", "icon": "shopping-bag", "iconFamily": "Feather" },
+      { "name": "Styled Snapshots", "url": "https://styledsnapshots.com/feed", "icon": "shopping-bag", "iconFamily": "Feather" }
     ],
     "Science": [
       { "name": "Newscientist", "url": "https://www.newscientist.com/feed/home/?cmpid=RSS%7CNSNS-Home", "icon": "atom", "iconFamily": "MaterialCommunityIcons" },
@@ -214,60 +232,50 @@
       { "name": "Space", "url": "https://www.space.com/feeds.xml", "icon": "rocket", "iconFamily": "Feather" },
       { "name": "The Science Notes", "url": "https://thesciencenotes.com/feed/", "icon": "rocket", "iconFamily": "Feather" },
       { "name": "Earth University", "url": "https://news.climate.columbia.edu/feed/", "icon": "rocket", "iconFamily": "Feather" },
-      { "name": "Live Science", "url": "https://www.livescience.com/feeds.xml", "icon": "rocket", "iconFamily": "Feather" }
+      { "name": "Live Science", "url": "https://www.livescience.com/feeds.xml", "icon": "rocket", "iconFamily": "Feather" },
+      { "name": "Scientifc American", "url": "http://rss.sciam.com/ScientificAmerican-Global", "icon": "rocket", "iconFamily": "Feather" },
+      { "name": "Science Daily", "url": "https://www.sciencedaily.com/rss/", "icon": "rocket", "iconFamily": "Feather" }
     ],
-    "Music": [
-      { "name": "Pitchfork", "url": "https://pitchfork.com/rss/news/", "icon": "music", "iconFamily": "Feather" },
-      { "name": "Earmilk", "url": "https://earmilk.com/feed/", "icon": "headphones", "iconFamily": "Feather" },
-      { "name": "AllMusic", "url": "http://www.allmusic.com/rss", "icon": "volume-2", "iconFamily": "Feather" }
-    ],
-    "Food": [
+    "Food": 
       { "name": "Recipe Critic", "url": "https://therecipecritic.com/feed/", "icon": "coffee", "iconFamily": "Feather" },
       { "name": "Pinch of Yum", "url": "http://pinchofyum.com/feed", "icon": "pie-chart", "iconFamily": "Feather" },
-      { "name": "Smitten Kitchen", "url": "http://feeds.feedburner.com/smittenkitchen", "icon": "shopping-bag", "iconFamily": "Feather" }
+      { "name": "Smitten Kitchen", "url": "http://feeds.feedburner.com/smittenkitchen", "icon": "shopping-bag", "iconFamily": "Feather" },
+      { "name": "Well Plated", "url": "https://www.wellplated.com/feed/", "icon": "shopping-bag", "iconFamily": "Feather" },
+      { "name": "Damn Delicious", "url": "https://damndelicious.net/feed/", "icon": "shopping-bag", "iconFamily": "Feather" },
+      { "name": "Closet Cooking", "url": "https://www.closetcooking.com/feed/", "icon": "shopping-bag", "iconFamily": "Feather" },
+      { "name": "A Cozy Kitchen", "url": "https://www.acozykitchen.com/feed", "icon": "shopping-bag", "iconFamily": "Feather" },
+      { "name": "Minimalist Baker", "url": "https://minimalistbaker.com/feed/", "icon": "shopping-bag", "iconFamily": "Feather" },
+      { "name": "Teeny Tiny Kitchen", "url": "http://www.teenytinykitchen.com/feed/", "icon": "shopping-bag", "iconFamily": "Feather" },
+      { "name": "Food Faith Fitness", "url": "https://www.foodfaithfitness.com/feed/", "icon": "shopping-bag", "iconFamily": "Feather" },
+      { "name": "The Lemon Bowl", "url": "https://thelemonbowl.com/feed/", "icon": "shopping-bag", "iconFamily": "Feather" },
+      { "name": "Healthy Happy Life", "url": "https://healthyhappylife.com/feed/", "icon": "shopping-bag", "iconFamily": "Feather" },
+      { "name": "A Mindful Mom", "url": "https://amindfullmom.com/feed/", "icon": "shopping-bag", "iconFamily": "Feather" }
     ],
     "Travel": [
       { "name": "Nomadic Matt", "url": "https://www.nomadicmatt.com/feed/", "icon": "map", "iconFamily": "Feather" },
-      { "name": "Blonde Abroad", "url": "http://theblondeabroad.com/feed", "icon": "compass", "iconFamily": "Feather" }
-    ],
-    "Comics": [
-      { "name": "XKCD", "url": "https://xkcd.com/rss.xml", "icon": "pen-tool", "iconFamily": "Feather" },
-      { "name": "Comics Beat", "url": "https://www.comicsbeat.com/feed/", "icon": "book-open", "iconFamily": "Feather" }
-    ],
-    "Programming": [
-      { "name": "Stack Overflow Blog", "url": "https://stackoverflow.blog/feed/", "icon": "code", "iconFamily": "Feather" },
-      { "name": "DEV Community", "url": "https://dev.to/feed", "icon": "code", "iconFamily": "Feather" },
-      { "name": "freeCodeCamp", "url": "https://www.freecodecamp.org/news/rss/", "icon": "code", "iconFamily": "Feather" },
-      { "name": "Google Developers Blog", "url": "https://developers.googleblog.com/feeds/posts/default", "icon": "code", "iconFamily": "Feather" },
-      { "name": "The Daily WTF", "url": "http://syndication.thedailywtf.com/TheDailyWtf", "icon": "code", "iconFamily": "Feather" },
-      { "name": "Crazy Programmer", "url": "http://www.thecrazyprogrammer.com/feed", "icon": "code", "iconFamily": "Feather" },
-      { "name": "SitePoint", "url": "https://www.sitepoint.com/feed/", "icon": "hash", "iconFamily": "Feather" },
-      { "name": "CSS-Tricks", "url": "https://css-tricks.com/feed/", "icon": "layout", "iconFamily": "Feather" },
-      { "name": "Apple Developer News", "url": "https://developer.apple.com/news/rss/news.rss", "icon": "logo-apple", "iconFamily": "Ionicons" },
-      { "name": "Smashing Hub", "url": "https://smashinghub.com/feed", "icon": "cpu", "iconFamily": "Feather" }
+      { "name": "Blonde Abroad", "url": "http://theblondeabroad.com/feed", "icon": "compass", "iconFamily": "Feather" },
+      { "name": "The Point Guys", "url": "https://thepointsguy.com/feed/", "icon": "compass", "iconFamily": "Feather" },
+      { "name": "Travel Freak", "url": "https://travelfreak.com/feed/", "icon": "compass", "iconFamily": "Feather" }
     ],
     "Art": [
       { "name": "Colossal", "url": "https://www.thisiscolossal.com/feed/", "icon": "image", "iconFamily": "Feather" },
+      { "name": "Hi Fructose", "url": "https://hifructose.com/feed/", "icon": "eye", "iconFamily": "Feather" },
       { "name": "Art News", "url": "https://www.artnews.com/feed/", "icon": "eye", "iconFamily": "Feather" },
-      { "name": "Booooooom", "url": "https://www.booooooom.com/feed/", "icon": "feather", "iconFamily": "Feather" }
-    ],
-    "Anime": [
-      { "name": "Anime News Network", "url": "https://www.animenewsnetwork.com/all/rss.xml?ann-edition=us", "icon": "tv", "iconFamily": "Feather" },
-      { "name": "Honey’s Anime", "url": "https://honeysanime.com/feed/", "icon": "star", "iconFamily": "FontAwesome" }
+      { "name": "Booooooom", "url": "https://www.booooooom.com/feed/", "icon": "feather", "iconFamily": "Feather" },
+      { "name": "Yuxtapoz", "url": "https://www.juxtapoz.com/news/?format=feed&type=rss", "icon": "feather", "iconFamily": "Feather" },
+      { "name": "Design you trust", "url": "https://designyoutrust.com/feed/", "icon": "feather", "iconFamily": "Feather" },
+      { "name": "Hiperallergic", "url": "http://feeds.hyperallergic.com/hyperallergic", "icon": "feather", "iconFamily": "Feather" },
+      { "name": "Spoke Art", "url": "https://spoke-art.com/blogs/news.atom", "icon": "feather", "iconFamily": "Feather" },
+      { "name": "Mousse", "url": "https://www.moussemagazine.it/feed/", "icon": "feather", "iconFamily": "Feather" },
+      { "name": "Hue & Eye", "url": "https://www.hueandeye.org/feed/", "icon": "feather", "iconFamily": "Feather" },
+      { "name": "Canvas", "url": "https://canvas.saatchiart.com/feed", "icon": "feather", "iconFamily": "Feather" },
+      { "name": "Artists Network", "url": "https://www.artistsnetwork.com/feed/", "icon": "feather", "iconFamily": "Feather" }
     ],
     "Automobile": [
       { "name": "Autoblog", "url": "http://www.autoblog.com/rss.xml", "icon": "truck", "iconFamily": "Feather" },
       { "name": "Speedhunters", "url": "http://feeds.feedburner.com/Speedhunters", "icon": "trending-up", "iconFamily": "Feather" },
-      { "name": "Car Expert", "url": "https://www.carexpert.com.au/feed", "icon": "tool", "iconFamily": "Feather" }
-    ],
-    "Gardening": [
-      { "name": "Fine Gardening", "url": "https://www.finegardening.com/feed", "icon": "sun", "iconFamily": "Feather" },
-      { "name": "Digging", "url": "https://www.penick.net/digging/?feed=rss2", "icon": "sunset", "iconFamily": "Feather" },
-      { "name": "Plant Care Today", "url": "https://plantcaretoday.com/feed", "icon": "droplet", "iconFamily": "Feather" }
-    ],
-    "Pets": [
-      { "name": "Go Pet Friendly", "url": "https://feeds.feedburner.com/gopetfriendly", "icon": "paw", "iconFamily": "FontAwesome" },
-      { "name": "Dogington Post", "url": "https://www.dogingtonpost.com/feed/", "icon": "heart", "iconFamily": "Feather" }
+      { "name": "Car Expert", "url": "https://www.carexpert.com.au/feed", "icon": "tool", "iconFamily": "Feather" },
+      { "name": "Automotive Fleet", "url": "https://www.automotive-fleet.com/rss", "icon": "tool", "iconFamily": "Feather" }
     ]
   }
 }
