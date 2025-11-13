@@ -1,5 +1,5 @@
 {
-  "version": "1.3.7",
+  "version": "1.3.8",
   "categories": {
     "Tech": [
       { "name": "Wired", "url": "https://www.wired.com/feed/rss", "icon": "cpu", "iconFamily": "Feather" },
@@ -7,6 +7,7 @@
       { "name": "Xataka", "url": "https://www.xataka.com/feedburner.xml", "icon": "chip", "iconFamily": "MaterialCommunityIcons" },
       { "name": "Computer Hoy", "url": "https://computerhoy.com/rss.xml", "icon": "computer", "iconFamily": "MaterialIcons" },
       { "name": "Hipertextual", "url": " https://hipertextual.com/feed/", "icon": "highlight", "iconFamily": "AntDesign" },
+      { "name": "Windows Central", url: "https://www.windowscentral.com/feeds.xml", "icon": "windows", "iconFamily": "FontAwesome5" },
       { "name": "Gizmodo", "url": "https://gizmodo.com/rss", "icon": "robot", "iconFamily": "MaterialCommunityIcons" },
       { "name": "Engadget", "url": "https://www.engadget.com/rss/", "icon": "laptop", "iconFamily": "MaterialCommunityIcons" },
       { "name": "ZDNet", "url": "https://www.zdnet.com/news/rss.xml", "icon": "server-network", "iconFamily": "MaterialCommunityIcons" },
