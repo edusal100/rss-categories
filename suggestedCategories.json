@@ -324,7 +324,7 @@
       { "name": "Travel Freak", "url": "https://travelfreak.com/feed/", "icon": "compass", "iconFamily": "Feather" },
       { "name": "Skift", "url": "https://skift.com/feed/", "icon": "map", "iconFamily": "Feather" },
       { "name": "CN Traveler", "url": "https://www.cntraveler.com/feed/rss", "icon": "map", "iconFamily": "Feather" },
-      { "name": "Travel Tour", "url": "https://www.travelandtourworld.com/feed/", "icon": "map", "iconFamily": "Feather" },
+      { "name": "Travel Tour", "url": "https://www.travelandtourworld.com/feed/", "icon": "map", "iconFamily": "Feather" }
     ],
     "Art": [
       { "name": "ART News", "url": "https://www.artnews.com/feed/", "icon": "image", "iconFamily": "Feather" },
