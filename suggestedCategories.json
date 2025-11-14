@@ -73,7 +73,7 @@
       { "name": "PhoneArena", "url": "https://www.phonearena.com/feed", "icon": "smartphone", "iconFamily": "Feather", "language": "en" },
       { "name": "Pocketnow", "url": "https://powersportnow.com/feed/", "icon": "pocket", "iconFamily": "Feather", "language": "en" },
       { "name": "TechJuice", "url": "https://www.techjuice.pk/category/mobile/feed/", "icon": "droplet", "iconFamily": "Feather", "language": "en" },
-      { "name": "Xataka Android", "url": "https://www.xatakandroid.com/feedburner.xml", "icon": "hexagon", "iconFamily": "Feather", "language": "es" }
+      { "name": "Xataka Android", "url": "https://www.xatakandroid.com/feedburner.xml", "icon": "hexagon", "iconFamily": "Feather", "language": "es" },
       { "name": "Xiaomi Adictos", "url": "https://www.xiaomiadictos.com/feed/", "icon": "hexagon", "iconFamily": "Feather", "language": "es" }
     ],
     "Games": [
