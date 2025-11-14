@@ -1,5 +1,5 @@
 {
-  "version": "1.4.2",
+  "version": "1.4.3",
   "categories": {
     "Tech": [
     { "name": "Actualidad iPhone", "url": "http://feeds.feedburner.com/actualidadiphone", "icon": "smartphone", "iconFamily": "Feather", "language": "es" },
@@ -192,7 +192,6 @@
       { "name": "NYT Movies", "url": "https://www.nytimes.com/international/section/movies", "icon": "film", "iconFamily": "Feather", "language": "en" },
       { "name": "Screen Crush", "url": "https://screencrush.com/feed/", "icon": "film", "iconFamily": "Feather", "language": "en" },
       { "name": "Screen Daily", "url": "https://www.screendaily.com/45187.rss", "icon": "film", "iconFamily": "Feather", "language": "en" },
-      { "name": "ScreenCrush", "url": "https://screencrush.com/feed/", "icon": "film", "iconFamily": "Feather", "language": "en" },
       { "name": "ScreenRant", "url": "https://screenrant.com/feed/", "icon": "video", "iconFamily": "Feather", "language": "en" },
       { "name": "Sensacine", "url": "https://www.sensacine.com/rss/noticias.xml", "icon": "film", "iconFamily": "Feather", "language": "es" },
       { "name": "Slash Film", "url": "https://www.slashfilm.com/feed/", "icon": "film", "iconFamily": "Feather", "language": "en" },
