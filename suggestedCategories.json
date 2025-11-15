@@ -1,5 +1,5 @@
 {
-  "version": "1.5.6",
+  "version": "1.5.7",
   "categories": {
     "Tech": [
       { "name": "Actualidad iPhone", "url": "http://feeds.feedburner.com/actualidadiphone", "icon": "smartphone", "iconFamily": "Feather", "language": "es" },
@@ -170,7 +170,7 @@
       { "name": "Deadline", "url": "https://deadline.com/feed/", "icon": "camera-off", "iconFamily": "Feather", "language": "en" },
       { "name": "DigitalSpy", "url": "https://www.digitalspy.com/rss/all.xml", "icon": "play", "iconFamily": "Feather", "language": "en" },
       { "name": "Empire Online", "url": "https://rss.onebauer.media/api/feed-aggregator?hostname=https://www.empireonline.com", "icon": "film", "iconFamily": "Feather", "language": "en" },
-      { "name": "Espinof", "url": "https://www.espinof.com/index.xml", "icon": "clapperboard", "iconFamily": "Feather", "language": "es" },
+      { "name": "Espinof", "url": "https://www.espinof.com/index.xml", "icon": "clapperboard", "iconFamily": "Entypo", "language": "es" },
       { "name": "El Septimo Arte", "url": "https://www.elseptimoarte.net/rss.php", "icon": "archive", "iconFamily": "Feather", "language": "es" },
       { "name": "Film Companion", "url": "https://www.filmcompanion.in/feed/", "icon": "layers", "iconFamily": "Feather", "language": "en" },
       { "name": "Film Threat", "url": "https://www.filmthreat.com/feed/", "icon": "alert-circle", "iconFamily": "Feather", "language": "en" },
