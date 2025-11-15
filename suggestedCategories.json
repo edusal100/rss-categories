@@ -1,5 +1,5 @@
 {
-  "version": "1.5.7",
+  "version": "1.5.9",
   "categories": {
     "Tech": [
       { "name": "Actualidad iPhone", "url": "http://feeds.feedburner.com/actualidadiphone", "icon": "smartphone", "iconFamily": "Feather", "language": "es" },
@@ -230,7 +230,7 @@
       { "name": "Yahoo News World", "url": "https://www.yahoo.com/news/rss/world/", "icon": "rss", "iconFamily": "Feather", "language": "en" }
     ],
     "Culture": [
-      { "name": "ABC", "url": "https://www.abc.es/rss/feeds/abc_cultura.xml", "icon": "clapperboard", "iconFamily": "Feather", "language": "es" },
+      { "name": "ABC", "url": "https://www.abc.es/rss/feeds/abc_cultura.xml", "icon": "clapperboard", "iconFamily": "Entypo", "language": "es" },
       { "name": "BC Alliance", "url": "https://www.allianceforarts.com/blog?format=RSS", "icon": "theater-masks", "iconFamily": "FontAwesome6", "language": "en" },
       { "name": "Buzzfeed", "url": "https://www.buzzfeed.com/mx/celebrity.xml", "icon": "emoji-happy", "iconFamily": "Entypo", "language": "es" },
       { "name": "Buzzfeed Celebrity", "url": "https://www.buzzfeed.com/celebrity.xml", "icon": "sparkles", "iconFamily": "Ionicons", "language": "en" },
@@ -247,7 +247,7 @@
       { "name": "The honey POP", "url": "https://thehoneypop.com/feed/", "icon": "heart-circle", "iconFamily": "MaterialCommunityIcons", "language": "en" },
       { "name": "TMZ", "url": "https://rss.feedspot.com/celebrity_gossip_rss_feeds/", "icon": "megaphone", "iconFamily": "Octicons", "language": "en" },
       { "name": "US Weekly", "url": "https://www.usmagazine.com/feed/", "icon": "id-badge", "iconFamily": "FontAwesome", "language": "en" },
-      { "name": "Vanity Fair Hollywood", "url": "http://www.vanityfair.com/rss/", "icon": "crown", "iconFamily": "Ionicons", "language": "en" },
+      { "name": "Vanity Fair Hollywood", "url": "http://www.vanityfair.com/rss/", "icon": "crown", "iconFamily": "AntDesign", "language": "en" },
       { "name": "Yahoo Celeb", "url": "https://www.yahoo.com/celebrity/rss", "icon": "rss", "iconFamily": "FontAwesome6", "language": "en" }
     ],
     "Fashion": [
