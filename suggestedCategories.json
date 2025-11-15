@@ -1,5 +1,5 @@
 {
-  "version": "1.5.9",
+  "version": "1.6.0",
   "categories": {
     "Tech": [
       { "name": "Actualidad iPhone", "url": "http://feeds.feedburner.com/actualidadiphone", "icon": "smartphone", "iconFamily": "Feather", "language": "es" },
@@ -231,7 +231,7 @@
     ],
     "Culture": [
       { "name": "ABC", "url": "https://www.abc.es/rss/feeds/abc_cultura.xml", "icon": "clapperboard", "iconFamily": "Entypo", "language": "es" },
-      { "name": "BC Alliance", "url": "https://www.allianceforarts.com/blog?format=RSS", "icon": "theater-masks", "iconFamily": "FontAwesome6", "language": "en" },
+      { "name": "BC Alliance", "url": "https://www.allianceforarts.com/blog?format=RSS", "icon": "theater-masks", "iconFamily": "FontAwesome5", "language": "en" },
       { "name": "Buzzfeed", "url": "https://www.buzzfeed.com/mx/celebrity.xml", "icon": "emoji-happy", "iconFamily": "Entypo", "language": "es" },
       { "name": "Buzzfeed Celebrity", "url": "https://www.buzzfeed.com/celebrity.xml", "icon": "sparkles", "iconFamily": "Ionicons", "language": "en" },
       { "name": "Cultura Inquieta", "url": "https://culturainquieta.com/feed/", "icon": "brush", "iconFamily": "MaterialCommunityIcons", "language": "es" },
