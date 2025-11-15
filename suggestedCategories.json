@@ -1,5 +1,5 @@
 {
-  "version": "1.4.3",
+  "version": "1.4.4",
   "categories": {
     "Tech": [
     { "name": "Actualidad iPhone", "url": "http://feeds.feedburner.com/actualidadiphone", "icon": "smartphone", "iconFamily": "Feather", "language": "es" },
@@ -198,7 +198,8 @@
       { "name": "The Wrap", "url": "https://www.thewrap.com/feed/", "icon": "film", "iconFamily": "Feather", "language": "en" },
       { "name": "Tomatazos", "url": "https://www.tomatazos.com/rss", "icon": "film", "iconFamily": "Feather", "language": "es" },
       { "name": "Variety", "url": "https://variety.com/feed/", "icon": "tv", "iconFamily": "Feather", "language": "en" },
-      { "name": "Vulture", "url": "https://www.vulture.com/feeds/flipboard.rss", "icon": "tv", "iconFamily": "Feather", "language": "en" },
+      { "name": "V Magazine", "url": "https://vmagazine.com/feed/", "icon": "tv", "iconFamily": "Feather", "language": "en" },
+{ "name": "Vulture", "url": "https://www.vulture.com/feeds/flipboard.rss", "icon": "tv", "iconFamily": "Feather", "language": "en" },
       { "name": "We got this covered", "url": "https://wegotthiscovered.com/feed/", "icon": "film", "iconFamily": "Feather", "language": "en" }
     ],
     "News": [
