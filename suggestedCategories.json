@@ -1,5 +1,5 @@
 {
-  "version": "1.6.2",
+  "version": "1.6.3",
   "categories": {
     "Tech": [
       { "name": "Actualidad iPhone", "url": "http://feeds.feedburner.com/actualidadiphone", "icon": "smartphone", "iconFamily": "Feather", "language": "es" },
@@ -260,7 +260,7 @@
       { "name": "Fashion Bomb", "url": "https://fashionbombdaily.com/feed/", "icon": "cloud-lightning", "iconFamily": "Feather", "language": "en" },
       { "name": "Harpers Bazaar", "url": "https://www.harpersbazaar.com/rss/all.xml", "icon": "crown", "iconFamily": "FontAwesome6", "language": "en" },
       { "name": "Julia Berolzheimer", "url": "https://juliaberolzheimer.com/feed/", "icon": "rose", "iconFamily": "Ionicons", "language": "en" },
-      { "name": "NYT Fashion", "url": "https://www.nytimes.com/svc/collections/v1/publish/https://www.nytimes.com/international/section/fashion/rss.xml", "icon": "newspaper", "iconFamily": "FontAwesome", "language": "en" },
+      { "name": "NYT Fashion", "url": "https://www.nytimes.com/svc/collections/v1/publish/https://www.nytimes.com/international/section/fashion/rss.xml", "icon": "newspaper-o", "iconFamily": "FontAwesome", "language": "en" },
       { "name": "Put This On", "url": "https://putthison.com/feed/", "icon": "hanger", "iconFamily": "MaterialCommunityIcons", "language": "en" },
       { "name": "Sincerly Jules", "url": "https://sincerelyjules.com/feed/", "icon": "heart-outline", "iconFamily": "Ionicons", "language": "en" },
       { "name": "Styled Snapshots", "url": "https://styledsnapshots.com/feed", "icon": "camera", "iconFamily": "Feather", "language": "en" },
