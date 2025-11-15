@@ -1,5 +1,5 @@
 {
-  "version": "1.6.3",
+  "version": "1.6.5",
   "categories": {
     "Tech": [
       { "name": "Actualidad iPhone", "url": "http://feeds.feedburner.com/actualidadiphone", "icon": "smartphone", "iconFamily": "Feather", "language": "es" },
@@ -274,7 +274,7 @@
     "Science": [
       { "name": "Earth University", "url": "https://news.climate.columbia.edu/feed/", "icon": "globe", "iconFamily": "Feather", "language": "en" },
       { "name": "Live Science", "url": "https://www.livescience.com/feeds.xml", "icon": "flask", "iconFamily": "FontAwesome5", "language": "en" },
-      { "name": "NASA", "url": "https://www.nasa.gov/rss/dyn/breaking_news.rss", "icon": "rocket", "iconFamily": "Feather", "language": "en" },
+      { "name": "NASA", "url": "https://www.nasa.gov/rss/dyn/breaking_news.rss", "icon": "rocket", "iconFamily": "Entypo", "language": "en" },
       { "name": "Nature", "url": "https://www.nature.com/nature.rss", "icon": "leaf", "iconFamily": "MaterialCommunityIcons", "language": "en" },
       { "name": "New Scientist", "url": "https://www.newscientist.com/feed/home/", "icon": "atom", "iconFamily": "MaterialCommunityIcons", "language": "en" },
       { "name": "Newscientist", "url": "https://www.newscientist.com/feed/home/?cmpid=RSS%7CNSNS-Home", "icon": "atom-variant", "iconFamily": "MaterialCommunityIcons", "language": "en" },
@@ -282,7 +282,7 @@
       { "name": "SciTech Daily", "url": "https://scitechdaily.com/feed/", "icon": "beaker-outline", "iconFamily": "MaterialCommunityIcons", "language": "en" },
       { "name": "Science Alert", "url": "https://www.sciencealert.com/feed", "icon": "alert-circle", "iconFamily": "Feather", "language": "en" },
       { "name": "Science Daily", "url": "https://www.sciencedaily.com/rss/", "icon": "calendar", "iconFamily": "Feather", "language": "en" },
-      { "name": "Science News", "url": "https://www.sciencenews.org/feed", "icon": "newspaper", "iconFamily": "Feather", "language": "en" },
+      { "name": "Science News", "url": "https://www.sciencenews.org/feed", "icon": "newspaper-outline", "iconFamily": "Ionicons", "language": "en" },
       { "name": "ScienceBlogs", "url": "https://scienceblogs.com/rss.xml", "icon": "rss", "iconFamily": "Feather", "language": "en" },
       { "name": "Scientifc American", "url": "http://rss.sciam.com/ScientificAmerican-Global", "icon": "book-open", "iconFamily": "Feather", "language": "en" },
       { "name": "Space", "url": "https://www.space.com/feeds.xml", "icon": "moon", "iconFamily": "Feather", "language": "en" },
@@ -292,10 +292,10 @@
       { "name": "A Cozy Kitchen", "url": "https://www.acozykitchen.com/feed", "icon": "cupcake", "iconFamily": "MaterialCommunityIcons", "language": "en" },
       { "name": "A Mindful Mom", "url": "https://amindfullmom.com/feed/", "icon": "heart", "iconFamily": "Feather", "language": "en" },
       { "name": "Closet Cooking", "url": "https://www.closetcooking.com/feed/", "icon": "fridge", "iconFamily": "MaterialCommunityIcons", "language": "en" },
-      { "name": "Damn Delicious", "url": "https://damndelicious.net/feed/", "icon": "fire", "iconFamily": "Feather", "language": "en" },
+      { "name": "Damn Delicious", "url": "https://damndelicious.net/feed/", "icon": "fire", "iconFamily": "AntDesign", "language": "en" },
       { "name": "Eater", "url": "https://www.eater.com/rss/index.xml", "icon": "utensils", "iconFamily": "FontAwesome5", "language": "en" },
-      { "name": "Food & Environment", "url": "https://thefern.org/feed/", "icon": "leaf", "iconFamily": "Feather", "language": "en" },
-      { "name": "Food & Wine", "url": "https://feeds-api.dotdashmeredith.com/v1/rss/google/fdd0cc60-6e85-462a-a071-58da5a17711f", "icon": "wine", "iconFamily": "MaterialCommunityIcons", "language": "en" },
+      { "name": "Food & Environment", "url": "https://thefern.org/feed/", "icon": "leaf", "iconFamily": "Entypo", "language": "en" },
+      { "name": "Food & Wine", "url": "https://feeds-api.dotdashmeredith.com/v1/rss/google/fdd0cc60-6e85-462a-a071-58da5a17711f", "icon": "wine-glass", "iconFamily": "FontAwesome5", "language": "en" },
       { "name": "Food Beast", "url": "https://www.foodbeast.com/feed/", "icon": "hamburger", "iconFamily": "FontAwesome5", "language": "en" },
       { "name": "Food Dive", "url": "https://www.fooddive.com/feeds/news/", "icon": "rss", "iconFamily": "Feather", "language": "en" },
       { "name": "Food Faith Fitness", "url": "https://www.foodfaithfitness.com/feed/", "icon": "dumbbell", "iconFamily": "MaterialCommunityIcons", "language": "en" },
@@ -307,7 +307,7 @@
       { "name": "Serious Eats", "url": "https://feeds-api.dotdashmeredith.com/v1/rss/standard/17e11a7f-5129-4b1e-b6e2-ccb43be260a9", "icon": "chef-hat", "iconFamily": "MaterialCommunityIcons", "language": "en" },
       { "name": "Smitten Kitchen", "url": "http://feeds.feedburner.com/smittenkitchen", "icon": "shopping-bag", "iconFamily": "Feather", "language": "en" },
       { "name": "Teeny Tiny Kitchen", "url": "http://www.teenytinykitchen.com/feed/", "icon": "home", "iconFamily": "Feather", "language": "en" },
-      { "name": "The Lemon Bowl", "url": "https://thelemonbowl.com/feed/", "icon": "lemon", "iconFamily": "MaterialCommunityIcons", "language": "en" },
+      { "name": "The Lemon Bowl", "url": "https://thelemonbowl.com/feed/", "icon": "lemon", "iconFamily": "FontAwesome5", "language": "en" },
       { "name": "Well Plated", "url": "https://www.wellplated.com/feed/", "icon": "star", "iconFamily": "Feather", "language": "en" }
     ],
     "Travel": [
@@ -316,7 +316,7 @@
       { "name": "Nomadic Matt", "url": "https://www.nomadicmatt.com/feed/", "icon": "map", "iconFamily": "Feather", "language": "en" },
       { "name": "Skift", "url": "https://skift.com/feed/", "icon": "navigation", "iconFamily": "Feather", "language": "en" },
       { "name": "The Point Guys", "url": "https://thepointsguy.com/feed/", "icon": "airplane", "iconFamily": "Ionicons", "language": "en" },
-      { "name": "Travel Freak", "url": "https://travelfreak.com/feed/", "icon": "route", "iconFamily": "MaterialCommunityIcons", "language": "en" },
+      { "name": "Travel Freak", "url": "https://travelfreak.com/feed/", "icon": "route", "iconFamily": "FontAwesome6", "language": "en" },
       { "name": "Travel Tour", "url": "https://www.travelandtourworld.com/feed/", "icon": "airport", "iconFamily": "MaterialCommunityIcons", "language": "en" }
     ],
     "Art": [
@@ -324,7 +324,7 @@
       { "name": "Art Forum", "url": "https://www.artforum.com/feed/", "icon": "brush", "iconFamily": "Entypo", "language": "en" },
       { "name": "Art Review", "url": "https://artreview.com/rss.xml", "icon": "format-paint", "iconFamily": "MaterialIcons", "language": "en" },
       { "name": "Artnet", "url": "https://news.artnet.com/feed", "icon": "color-lens", "iconFamily": "MaterialIcons", "language": "en" },
-      { "name": "Artists Network", "url": "https://www.artistsnetwork.com/feed/", "icon": "pencil", "iconFamily": "Feather", "language": "en" },
+      { "name": "Artists Network", "url": "https://www.artistsnetwork.com/feed/", "icon": "pencil", "iconFamily": "EvilIcons", "language": "en" },
       { "name": "Booooooom", "url": "https://www.booooooom.com/feed/", "icon": "image", "iconFamily": "Feather", "language": "en" },
       { "name": "Canvas", "url": "https://canvas.saatchiart.com/feed", "icon": "layers", "iconFamily": "Feather", "language": "en" },
       { "name": "Colossal", "url": "https://www.thisiscolossal.com/feed/", "icon": "aperture", "iconFamily": "Feather", "language": "en" },
