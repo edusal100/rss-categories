@@ -1,5 +1,5 @@
 {
-  "version": "1.4.7",
+  "version": "1.4.8",
   "categories": {
     "Tech": [
       { "name": "Actualidad iPhone", "url": "http://feeds.feedburner.com/actualidadiphone", "icon": "smartphone", "iconFamily": "Feather", "language": "es" },
@@ -68,7 +68,6 @@
       { "name": "Know Your Mobile", "url": "https://www.knowyourmobile.com/feed/", "icon": "info-with-circle", "iconFamily": "Entypo", "language": "en" },
       { "name": "MobiGyaan", "url": "https://www.mobigyaan.com/feed", "icon": "chat", "iconFamily": "Entypo", "language": "en" },
       { "name": "Mobile Syrup", "url": "https://mobilesyrup.com/feed/", "icon": "dropbox", "iconFamily": "MaterialCommunityIcons", "language": "en" },
-      { "name": "Movil Zona", "url": "https://mobilesyrup.com/feed/", "icon": "dropbox", "iconFamily": "MaterialCommunityIcons", "language": "en" },
       { "name": "NextPit", "url": "https://www.nextpit.com/feed/main.xml", "icon": "layers", "iconFamily": "Feather", "language": "en" },
       { "name": "PhoneArena", "url": "https://www.phonearena.com/feed", "icon": "smartphone", "iconFamily": "Feather", "language": "en" },
       { "name": "Pocketnow", "url": "https://powersportnow.com/feed/", "icon": "pocket", "iconFamily": "Feather", "language": "en" },
