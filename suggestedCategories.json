@@ -1,5 +1,5 @@
 {
-  "version": "1.6.0",
+  "version": "1.6.2",
   "categories": {
     "Tech": [
       { "name": "Actualidad iPhone", "url": "http://feeds.feedburner.com/actualidadiphone", "icon": "smartphone", "iconFamily": "Feather", "language": "es" },
@@ -255,12 +255,12 @@
       { "name": "Atlantic Pacific", "url": "https://www.the-atlantic-pacific.com/feed/", "icon": "feather", "iconFamily": "Feather", "language": "en" },
       { "name": "Business Fashion", "url": "https://www.businessoffashion.com/arc/outboundfeeds/rss/?outputType=xml", "icon": "briefcase", "iconFamily": "Feather", "language": "en" },
       { "name": "Color me courtney", "url": "https://www.colormecourtney.com/feed/", "icon": "color-palette", "iconFamily": "Ionicons", "language": "en" },
-      { "name": "Damsel in Dior", "url": "http://damselindior.com/feed/", "icon": "diamond", "iconFamily": "Entypo", "language": "en" },
-      { "name": "Elle", "url": "https://www.elle.com/rss/all.xml/", "icon": "magazine", "iconFamily": "MaterialCommunityIcons", "language": "en" },
-      { "name": "Fashion Bomb", "url": "https://fashionbombdaily.com/feed/", "icon": "lightning-bolt", "iconFamily": "Octicons", "language": "en" },
+      { "name": "Damsel in Dior", "url": "http://damselindior.com/feed/", "icon": "diamond", "iconFamily": "FontAwesome", "language": "en" },
+      { "name": "Elle", "url": "https://www.elle.com/rss/all.xml/", "icon": "book", "iconFamily": "AntDesign", "language": "en" },
+      { "name": "Fashion Bomb", "url": "https://fashionbombdaily.com/feed/", "icon": "cloud-lightning", "iconFamily": "Feather", "language": "en" },
       { "name": "Harpers Bazaar", "url": "https://www.harpersbazaar.com/rss/all.xml", "icon": "crown", "iconFamily": "FontAwesome6", "language": "en" },
-      { "name": "Julia Berolzheimer", "url": "https://juliaberolzheimer.com/feed/", "icon": "rose", "iconFamily": "MaterialCommunityIcons", "language": "en" },
-      { "name": "NYT Fashion", "url": "https://www.nytimes.com/svc/collections/v1/publish/https://www.nytimes.com/international/section/fashion/rss.xml", "icon": "newspaper", "iconFamily": "Feather", "language": "en" },
+      { "name": "Julia Berolzheimer", "url": "https://juliaberolzheimer.com/feed/", "icon": "rose", "iconFamily": "Ionicons", "language": "en" },
+      { "name": "NYT Fashion", "url": "https://www.nytimes.com/svc/collections/v1/publish/https://www.nytimes.com/international/section/fashion/rss.xml", "icon": "newspaper", "iconFamily": "FontAwesome", "language": "en" },
       { "name": "Put This On", "url": "https://putthison.com/feed/", "icon": "hanger", "iconFamily": "MaterialCommunityIcons", "language": "en" },
       { "name": "Sincerly Jules", "url": "https://sincerelyjules.com/feed/", "icon": "heart-outline", "iconFamily": "Ionicons", "language": "en" },
       { "name": "Styled Snapshots", "url": "https://styledsnapshots.com/feed", "icon": "camera", "iconFamily": "Feather", "language": "en" },
