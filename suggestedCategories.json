@@ -1,5 +1,5 @@
 {
-  "version": "1.6.5",
+  "version": "1.6.8",
   "categories": {
     "Tech": [
       { "name": "Actualidad iPhone", "url": "http://feeds.feedburner.com/actualidadiphone", "icon": "smartphone", "iconFamily": "Feather", "language": "es" },
@@ -268,6 +268,8 @@
       { "name": "The budget fashionista", "url": "https://feeds.feedburner.com/TheBudgetFashionista", "icon": "wallet", "iconFamily": "MaterialCommunityIcons", "language": "en" },
       { "name": "The Guardian Fashion", "url": "https://www.theguardian.com/fashion/rss", "icon": "shield", "iconFamily": "Feather", "language": "en" },
       { "name": "Vogue", "url": "https://www.vogue.com/feed/rss", "icon": "star-four-points", "iconFamily": "MaterialCommunityIcons", "language": "en" },
+      { "name": "Vogue Espana", "url": "https://www.vogue.es/feed/rss", "icon": "star-four-points", "iconFamily": "MaterialCommunityIcons", "language": "es" },
+      { "name": "Vogue Mexico", "url": "https://www.vogue.mx/feed/rss", "icon": "star-four-points", "iconFamily": "MaterialCommunityIcons", "language": "es" },
       { "name": "We wore what", "url": "https://weworewhat.com/blogs/fashion.atom", "icon": "wardrobe", "iconFamily": "MaterialCommunityIcons", "language": "en" },
       { "name": "Whowhatwear", "url": "https://www.whowhatwear.com/feeds.xml", "icon": "tag", "iconFamily": "Feather", "language": "en" }
     ],
@@ -319,28 +321,47 @@
       { "name": "Travel Freak", "url": "https://travelfreak.com/feed/", "icon": "route", "iconFamily": "FontAwesome6", "language": "en" },
       { "name": "Travel Tour", "url": "https://www.travelandtourworld.com/feed/", "icon": "airport", "iconFamily": "MaterialCommunityIcons", "language": "en" }
     ],
-    "Art": [
+    "Design": [
+      { "name": "a! Diseno", "url": "https://a.com.mx/feed/", "icon": "palette", "iconFamily": "MaterialCommunityIcons", "language": "es" },
+      { "name": "ArchDaily", "url": "https://www.archdaily.com/.xml", "icon": "palette", "iconFamily": "MaterialCommunityIcons", "language": "en" },
+      { "name": "Architectural Digest", "url": "https://www.architecturaldigest.com/feed/rss", "icon": "palette", "iconFamily": "MaterialCommunityIcons", "language": "en" },
       { "name": "ART News", "url": "https://www.artnews.com/feed/", "icon": "palette", "iconFamily": "MaterialCommunityIcons", "language": "en" },
       { "name": "Art Forum", "url": "https://www.artforum.com/feed/", "icon": "brush", "iconFamily": "Entypo", "language": "en" },
       { "name": "Art Review", "url": "https://artreview.com/rss.xml", "icon": "format-paint", "iconFamily": "MaterialIcons", "language": "en" },
       { "name": "Artnet", "url": "https://news.artnet.com/feed", "icon": "color-lens", "iconFamily": "MaterialIcons", "language": "en" },
       { "name": "Artists Network", "url": "https://www.artistsnetwork.com/feed/", "icon": "pencil", "iconFamily": "EvilIcons", "language": "en" },
       { "name": "Booooooom", "url": "https://www.booooooom.com/feed/", "icon": "image", "iconFamily": "Feather", "language": "en" },
+      { "name": "Building Design", "url": "https://www.bdonline.co.uk/6183.rss", "icon": "image", "iconFamily": "Feather", "language": "en" },
       { "name": "Canvas", "url": "https://canvas.saatchiart.com/feed", "icon": "layers", "iconFamily": "Feather", "language": "en" },
       { "name": "Colossal", "url": "https://www.thisiscolossal.com/feed/", "icon": "aperture", "iconFamily": "Feather", "language": "en" },
+      { "name": "CreativeBloq", "url": "https://www.creativebloq.com/feed", "icon": "aperture", "iconFamily": "Feather", "language": "en" },
       { "name": "Contemporary Art Daily", "url": "https://stacks.contemporaryartlibrary.org/daily/feed.rss", "icon": "clock", "iconFamily": "Feather", "language": "en" },
+      { "name": "DesignBoom", "url": "https://www.designboom.com/feed/", "icon": "grid", "iconFamily": "Feather", "language": "en" },
+      { "name": "Design Week", "url": "https://www.designweek.co.uk/feed/", "icon": "grid", "iconFamily": "Feather", "language": "en" },
+      { "name": "Design Week Mexico", "url": "https://designweekmexico.com/feed/", "icon": "grid", "iconFamily": "Feather", "language": "es" },
       { "name": "Design you trust", "url": "https://designyoutrust.com/feed/", "icon": "grid", "iconFamily": "Feather", "language": "en" },
+      { "name": "Dezeen", "url": "https://www.dezeen.com/feed/", "icon": "grid", "iconFamily": "Feather", "language": "en" },
+      { "name": "Elle Decor", "url": "https://www.elledecor.com/rss/all.xml", "icon": "grid", "iconFamily": "Feather", "language": "en" },
       { "name": "Hi Fructose", "url": "https://hifructose.com/feed/", "icon": "droplet", "iconFamily": "Feather", "language": "en" },
       { "name": "Hiperallergic", "url": "https://hyperallergic.com/feed/", "icon": "alert-circle", "iconFamily": "Feather", "language": "en" },
       { "name": "Hue & Eye", "url": "https://www.hueandeye.org/feed/", "icon": "eye", "iconFamily": "Feather", "language": "en" },
+      { "name": "IdeasDi", "url": "https://ideasdi.com/feed/", "icon": "eye", "iconFamily": "Feather", "language": "es" },
+      { "name": "Mercado Negro", "url": "https://www.mercadonegro.pe/feed/", "icon": "book-open", "iconFamily": "Feather", "language": "es" },
       { "name": "Mousse", "url": "https://www.moussemagazine.it/feed/", "icon": "book-open", "iconFamily": "Feather", "language": "en" },
       { "name": "NYT Arts", "url": "https://www.nytimes.com/svc/collections/v1/publish/https://www.nytimes.com/international/section/arts/design/rss.xml", "icon": "newspaper-outline", "iconFamily": "Ionicons", "language": "en" },
+      { "name": "Smashing Magazine", "url": "https://www.smashingmagazine.com/category/rss/index.xml", "icon": "pen-tool", "iconFamily": "Feather", "language": "en" },
+      { "name": "Puro Marketing", "url": "https://www.puromarketing.com/feed/rss2.xml", "icon": "pen-tool", "iconFamily": "Feather", "language": "es" },
+      { "name": "Reason Why", "url": "https://www.reasonwhy.es/rss/reason-why", "icon": "pen-tool", "iconFamily": "Feather", "language": "es" },
+      { "name": "Slanted", "url": "https://www.slanted.de/feed/", "icon": "pen-tool", "iconFamily": "Feather", "language": "en" },
       { "name": "Spoke Art", "url": "https://spoke-art.com/blogs/news.atom", "icon": "pen-tool", "iconFamily": "Feather", "language": "en" },
       { "name": "The Art Newspaper", "url": "https://www.theartnewspaper.com/rss.xml", "icon": "file-text", "iconFamily": "Feather", "language": "en" },
       { "name": "The Guardian Art", "url": "https://www.theguardian.com/artanddesign/rss", "icon": "shield", "iconFamily": "Feather", "language": "en" },
+      { "name": "UX Collective", "url": "https://uxdesign.cc/feed", "icon": "shield", "iconFamily": "Feather", "language": "en" },
+      { "name": "Web Designer News", "url": "https://webdesignernews.com/feed/", "icon": "shield", "iconFamily": "Feather", "language": "en" },
+      { "name": "Yanko Design", "url": "https://www.yankodesign.com/feed/", "icon": "camera", "iconFamily": "Feather", "language": "en" }
       { "name": "Yuxtapoz", "url": "https://www.juxtapoz.com/news/?format=feed&type=rss", "icon": "camera", "iconFamily": "Feather", "language": "en" }
     ],
-    "Automobile": [
+    "Cars": [
       { "name": "Auto Week", "url": "https://www.autoweek.com/rss/all.xml", "icon": "truck", "iconFamily": "Feather", "language": "en" },
       { "name": "Autoblog", "url": "http://www.autoblog.com/rss.xml", "icon": "truck", "iconFamily": "Feather", "language": "en" },
       { "name": "Automotive Fleet", "url": "https://www.automotive-fleet.com/rss", "icon": "tool", "iconFamily": "Feather", "language": "en" },
