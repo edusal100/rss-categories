@@ -1,5 +1,5 @@
 {
-  "version": "1.7.0",
+  "version": "1.7.2",
   "categories": {
     "Tech": [
       { "name": "Actualidad iPhone", "url": "http://feeds.feedburner.com/actualidadiphone", "icon": "smartphone", "iconFamily": "Feather", "language": "es" },
@@ -7,12 +7,10 @@
       { "name": "Ars Technica", "url": "https://feeds.arstechnica.com/arstechnica/technology-lab", "icon": "layers", "iconFamily": "Feather", "language": "en" },
       { "name": "BGR", "url": "https://bgr.com/tech/feed/", "icon": "rocket-launch", "iconFamily": "MaterialCommunityIcons", "language": "en" },
       { "name": "CNET", "url": "https://www.cnet.com/rss/news/", "icon": "rss", "iconFamily": "Feather", "language": "en" },
-      { "name": "CNN Tecnologia", "url": "https://cnnespanol.cnn.com/seccion/tecnologia/feed/", "icon": "rss", "iconFamily": "Feather", "language": "es" },
       { "name": "Computing", "url": "https://www.computing.es/feed/", "icon": "wifi-strength-2", "iconFamily": "MaterialCommunityIcons", "language": "es" },
-      { "name": "Computer Hoy", "url": "https://computerhoy.com/rss.xml", "icon": "computer", "iconFamily": "MaterialIcons", "language": "es" },
+      { "name": "Computer Hoy", "url": "https://computerhoy.20minutos.es/rss/ultimas-noticias/", "icon": "computer", "iconFamily": "MaterialIcons", "language": "es" },
       { "name": "Digital Trends", "url": "https://www.digitaltrends.com/feed/", "icon": "harddisk", "iconFamily": "MaterialCommunityIcons", "language": "en" },
       { "name": "El Pais Tecnologia", "url": "https://feeds.elpais.com/mrss-s/list/ep/site/elpais.com/section/tecnologia", "icon": "laptop", "iconFamily": "MaterialCommunityIcons", "language": "es" },
-      { "name": "El Mundo - Gadgets", "url": "https://estaticos.elmundo.es/blogs/elmundo/el-gadgetoblog/index.xml", "icon": "laptop-mac", "iconFamily": "MaterialIcons", "language": "es" },
       { "name": "Engadget", "url": "https://www.engadget.com/rss/", "icon": "television-play", "iconFamily": "MaterialCommunityIcons", "language": "en" },
       { "name": "Geekwire", "url": "https://www.geekwire.com/feed/", "icon": "glasses", "iconFamily": "MaterialCommunityIcons", "language": "en" },
       { "name": "Geeknetic", "url": "https://feeds.feedburner.com/geeknetic/", "icon": "glasses-outline", "iconFamily": "Ionicons", "language": "es" },
@@ -66,10 +64,8 @@
       { "name": "GSMArena", "url": "https://www.gsmarena.com/rss-news-reviews.php3", "icon": "cellphone", "iconFamily": "MaterialCommunityIcons", "language": "en" },
       { "name": "Know Your Mobile", "url": "https://www.knowyourmobile.com/feed/", "icon": "info-with-circle", "iconFamily": "Entypo", "language": "en" },
       { "name": "MobiGyaan", "url": "https://www.mobigyaan.com/feed", "icon": "chat", "iconFamily": "Entypo", "language": "en" },
-      { "name": "Mobile Syrup", "url": "https://mobilesyrup.com/feed/", "icon": "dropbox", "iconFamily": "MaterialCommunityIcons", "language": "en" },
-      { "name": "NextPit", "url": "https://www.nextpit.com/feed/main.xml", "icon": "layers", "iconFamily": "Feather", "language": "en" },
       { "name": "PhoneArena", "url": "https://www.phonearena.com/feed", "icon": "smartphone", "iconFamily": "Feather", "language": "en" },
-      { "name": "Pocketnow", "url": "https://powersportnow.com/feed/", "icon": "pocket", "iconFamily": "Feather", "language": "en" },
+      { "name": "Pocketnow", "url": "https://pocketnow.com/feed/", "icon": "pocket", "iconFamily": "Feather", "language": "en" },
       { "name": "TechJuice", "url": "https://www.techjuice.pk/category/mobile/feed/", "icon": "droplet", "iconFamily": "Feather", "language": "en" },
       { "name": "Xataka Android", "url": "https://www.xatakandroid.com/feedburner.xml", "icon": "hexagon", "iconFamily": "Feather", "language": "es" },
       { "name": "Xiaomi Adictos", "url": "https://www.xiaomiadictos.com/feed/", "icon": "hexagon", "iconFamily": "Feather", "language": "es" }
