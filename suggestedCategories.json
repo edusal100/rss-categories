@@ -1,5 +1,5 @@
 {
-  "version": "1.6.8",
+  "version": "1.6.9",
   "categories": {
     "Tech": [
       { "name": "Actualidad iPhone", "url": "http://feeds.feedburner.com/actualidadiphone", "icon": "smartphone", "iconFamily": "Feather", "language": "es" },
@@ -105,6 +105,7 @@
       { "name": "Push Square", "url": "https://www.pushsquare.com/feeds/latest", "icon": "square", "iconFamily": "Feather", "language": "en" },
       { "name": "Pure Nintendo", "url": "https://purenintendo.com/feed/", "icon": "nintendo-switch", "iconFamily": "MaterialCommunityIcons", "language": "en" },
       { "name": "Siliconera", "url": "https://www.siliconera.com/feed/", "icon": "globe", "iconFamily": "Feather", "language": "en" },
+      { "name": "The Game Post", "url": "https://thegamepost.com/feed/", "icon": "play", "iconFamily": "Feather", "language": "en" },
       { "name": "The Gamer", "url": "https://www.thegamer.com/feed/", "icon": "play", "iconFamily": "Feather", "language": "en" },
       { "name": "The Verge Gaming", "url": "https://www.theverge.com/rss/games/index.xml", "icon": "play-circle", "iconFamily": "AntDesign", "language": "en" },
       { "name": "TheXboxHub", "url": "https://www.thexboxhub.com/feed/", "icon": "xbox", "iconFamily": "FontAwesome6", "language": "en" },
