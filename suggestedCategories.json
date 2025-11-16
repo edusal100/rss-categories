@@ -1,5 +1,5 @@
 {
-  "version": "1.6.9",
+  "version": "1.7.0",
   "categories": {
     "Tech": [
       { "name": "Actualidad iPhone", "url": "http://feeds.feedburner.com/actualidadiphone", "icon": "smartphone", "iconFamily": "Feather", "language": "es" },
@@ -359,7 +359,7 @@
       { "name": "The Guardian Art", "url": "https://www.theguardian.com/artanddesign/rss", "icon": "shield", "iconFamily": "Feather", "language": "en" },
       { "name": "UX Collective", "url": "https://uxdesign.cc/feed", "icon": "shield", "iconFamily": "Feather", "language": "en" },
       { "name": "Web Designer News", "url": "https://webdesignernews.com/feed/", "icon": "shield", "iconFamily": "Feather", "language": "en" },
-      { "name": "Yanko Design", "url": "https://www.yankodesign.com/feed/", "icon": "camera", "iconFamily": "Feather", "language": "en" }
+      { "name": "Yanko Design", "url": "https://www.yankodesign.com/feed/", "icon": "camera", "iconFamily": "Feather", "language": "en" },
       { "name": "Yuxtapoz", "url": "https://www.juxtapoz.com/news/?format=feed&type=rss", "icon": "camera", "iconFamily": "Feather", "language": "en" }
     ],
     "Cars": [
