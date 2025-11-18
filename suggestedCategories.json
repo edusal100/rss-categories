@@ -1,5 +1,5 @@
 {
-  "version": "1.7.7",
+  "version": "1.7.8",
   "categories": {
     "Tech": [
       { "name": "Actualidad iPhone", "url": "http://feeds.feedburner.com/actualidadiphone", "icon": "smartphone", "iconFamily": "Feather", "language": "es" },
@@ -370,7 +370,7 @@
       { "name": "Fortune", "url": "https://fortune.com/feed/", "icon": "briefcase", "iconFamily": "Feather", "language": "en" },
       { "name": "Forbes", "url": "https://www.forbes.com/business/feed2/", "icon": "dollar-sign", "iconFamily": "Feather", "language": "en" },
       { "name": "Financial Times", "url": "https://www.ft.com/?format=rss", "icon": "bar-chart-2", "iconFamily": "Feather", "language": "en" },
-      { "name": "Bloomberg", "url": "https://www.bloomberg.com/feed/podcast/etf-report.xml", "icon": "trending-up", "iconFamily": "Feather", "language": "en" },
+      { "name": "Bloomberg", "url": "https://feeds.bloomberg.com/business/news.rss", "icon": "trending-up", "iconFamily": "Feather", "language": "en" },
       { "name": "Business Insider", "url": "https://www.businessinsider.com/rss", "icon": "briefcase", "iconFamily": "FontAwesome5", "language": "en" }
     ],
     "Cars": [
