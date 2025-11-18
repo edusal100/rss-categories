@@ -1,5 +1,5 @@
 {
-  "version": "1.7.8",
+  "version": "1.7.9",
   "categories": {
     "Tech": [
       { "name": "Actualidad iPhone", "url": "http://feeds.feedburner.com/actualidadiphone", "icon": "smartphone", "iconFamily": "Feather", "language": "es" },
