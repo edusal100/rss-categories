@@ -1,5 +1,5 @@
 {
-  "version": "1.7.2",
+  "version": "1.7.3",
   "categories": {
     "Tech": [
       { "name": "Actualidad iPhone", "url": "http://feeds.feedburner.com/actualidadiphone", "icon": "smartphone", "iconFamily": "Feather", "language": "es" },
@@ -214,6 +214,7 @@
       { "name": "NDTV", "url": "https://feeds.feedburner.com/ndtvnews-world-news", "icon": "grid", "iconFamily": "Feather", "language": "en" },
       { "name": "New York Times", "url": "https://www.nytimes.com/svc/collections/v1/publish/https://www.nytimes.com/section/world/rss.xml", "icon": "book-open", "iconFamily": "Feather", "language": "en" },
       { "name": "NPR", "url": "https://feeds.npr.org/1001/rss.xml", "icon": "radio", "iconFamily": "Feather", "language": "en" },
+      { "name": "SDP Noticias", "url": "https://www.sdpnoticias.com/arc/outboundfeeds/rss/?outputType=xml", "icon": "cloud", "iconFamily": "Feather", "language": "es" },
       { "name": "Seattle Times", "url": "https://www.seattletimes.com/nation-world/world/feed/", "icon": "cloud", "iconFamily": "Feather", "language": "en" },
       { "name": "Sinembargo", "url": "https://www.sinembargo.mx/feed/", "icon": "align-left", "iconFamily": "Feather", "language": "es" },
       { "name": "South China", "url": "https://www.scmp.com/rss/91/feed", "icon": "sunset", "iconFamily": "Feather", "language": "en" },
