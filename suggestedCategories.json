@@ -1,5 +1,5 @@
 {
-  "version": "1.7.5",
+  "version": "1.7.7",
   "categories": {
     "Tech": [
       { "name": "Actualidad iPhone", "url": "http://feeds.feedburner.com/actualidadiphone", "icon": "smartphone", "iconFamily": "Feather", "language": "es" },
@@ -208,7 +208,6 @@
       { "name": "Daily Mirror", "url": "https://www.mirror.co.uk/news/world-news/?service=rss", "icon": "copy", "iconFamily": "Feather", "language": "en" },
       { "name": "Diario Red", "url": "https://www.diario-red.com/rss/", "icon": "news", "iconFamily": "Entypo", "language": "es" },
       { "name": "El Cronista", "url": "https://www.cronista.com/arc/outboundfeeds/news/", "icon": "newsletter", "iconFamily": "Entypo", "language": "es" },
-      { "name": "El Financiero", "url": "https://www.elfinanciero.com.mx/arc/outboundfeeds/rss/?outputType=xml", "icon": "newsletter-1", "iconFamily": "Entypo", "language": "es" },
       { "name": "El Pais", "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/ultimas-noticias/portada", "icon": "newsletter-2", "iconFamily": "Entypo", "language": "es" },
       { "name": "Fox", "url": "https://feeds.foxnews.com/foxnews/latest", "icon": "alert-circle", "iconFamily": "Feather", "language": "en" },
       { "name": "France 24", "url": "https://www.france24.com/en/rss", "icon": "circle", "iconFamily": "Feather", "language": "en" },
@@ -365,6 +364,14 @@
       { "name": "Web Designer News", "url": "https://webdesignernews.com/feed/", "icon": "shield-3", "iconFamily": "Feather", "language": "en" },
       { "name": "Yanko Design", "url": "https://www.yankodesign.com/feed/", "icon": "camera", "iconFamily": "Feather", "language": "en" },
       { "name": "Yuxtapoz", "url": "https://www.juxtapoz.com/news/?format=feed&type=rss", "icon": "camera-2", "iconFamily": "Feather", "language": "en" }
+    ],
+    "Business": [
+      { "name": "El Financiero", "url": "https://www.elfinanciero.com.mx/arc/outboundfeeds/rss/?outputType=xml", "icon": "newsletter-1", "iconFamily": "Entypo", "language": "es" },
+      { "name": "Fortune", "url": "https://fortune.com/feed/", "icon": "briefcase", "iconFamily": "Feather", "language": "en" },
+      { "name": "Forbes", "url": "https://www.forbes.com/business/feed2/", "icon": "dollar-sign", "iconFamily": "Feather", "language": "en" },
+      { "name": "Financial Times", "url": "https://www.ft.com/?format=rss", "icon": "bar-chart-2", "iconFamily": "Feather", "language": "en" },
+      { "name": "Bloomberg", "url": "https://www.bloomberg.com/feed/podcast/etf-report.xml", "icon": "trending-up", "iconFamily": "Feather", "language": "en" },
+      { "name": "Business Insider", "url": "https://www.businessinsider.com/rss", "icon": "briefcase", "iconFamily": "FontAwesome5", "language": "en" }
     ],
     "Cars": [
       { "name": "Auto Week", "url": "https://www.autoweek.com/rss/all.xml", "icon": "truck", "iconFamily": "Feather", "language": "en" },
