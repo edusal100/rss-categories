@@ -1,5 +1,5 @@
 {
-  "version": "1.8.0",
+  "version": "1.8.1",
   "categories": {
     "Tech": [
       { "name": "Actualidad iPhone", "url": "http://feeds.feedburner.com/actualidadiphone", "icon": "smartphone", "iconFamily": "Feather", "language": "es" },
@@ -96,7 +96,7 @@
       { "name": "PlayStation Blog", "url": "https://blog.playstation.com/feed/", "icon": "playstation", "iconFamily": "FontAwesome6", "language": "en" },
       { "name": "Pocket Gamer", "url": "https://www.pocketgamer.com/index.rss", "icon": "smartphone", "iconFamily": "Feather", "language": "en" },
       { "name": "Polygon", "url": "https://www.polygon.com/rss/index.xml", "icon": "hexagon", "iconFamily": "Feather", "language": "en" },
-      { "name": "PS Lifestyle", "url": "https://www.playstationlifestyle.net/feed/", "icon": "gamepad", "iconFamily": "AntDesign", "language": "en" },
+      { "name": "PS Lifestyle", "url": "https://www.playstationlifestyle.net/feed/", "icon": "gamepad", "iconFamily": "MaterialIcons", "language": "en" },
       { "name": "Push Square", "url": "https://www.pushsquare.com/feeds/latest", "icon": "square", "iconFamily": "Feather", "language": "en" },
       { "name": "Pure Nintendo", "url": "https://purenintendo.com/feed/", "icon": "controller-classic-outline", "iconFamily": "MaterialCommunityIcons", "language": "en" },
       { "name": "Siliconera", "url": "https://www.siliconera.com/feed/", "icon": "globe", "iconFamily": "Feather", "language": "en" },
