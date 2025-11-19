@@ -1,5 +1,5 @@
 {
-  "version": "1.7.9",
+  "version": "1.8.0",
   "categories": {
     "Tech": [
       { "name": "Actualidad iPhone", "url": "http://feeds.feedburner.com/actualidadiphone", "icon": "smartphone", "iconFamily": "Feather", "language": "es" },
@@ -74,7 +74,7 @@
       { "name": "3DJuegos", "url": "https://www.3djuegos.lat/feedburner.xml", "icon": "cpu", "iconFamily": "Feather", "language": "es" },
       { "name": "Destructoid", "url": "https://www.destructoid.com/feed/", "icon": "shield", "iconFamily": "Entypo", "language": "en" },
       { "name": "Digital Foundry", "url": "https://www.digitalfoundry.net/feeds/latest", "icon": "hard-drive", "iconFamily": "Feather", "language": "en" },
-      { "name": "DualShockers", "url": "https://www.dualshockers.com/feed/", "icon": "game-controller", "iconFamily": "MaterialCommunityIcons", "language": "en" },
+      { "name": "DualShockers", "url": "https://www.dualshockers.com/feed/", "icon": "game-controller", "iconFamily": "Entypo", "language": "en" },
       { "name": "Eurogamer", "url": "https://www.eurogamer.net/feed", "icon": "activity", "iconFamily": "Feather", "language": "en" },
       { "name": "Game Developer", "url": "https://www.gamedeveloper.com/rss.xml", "icon": "code", "iconFamily": "Feather", "language": "en" },
       { "name": "GameInformer", "url": "https://gameinformer.com/rss.xml", "icon": "newspaper", "iconFamily": "MaterialCommunityIcons", "language": "en" },
@@ -85,9 +85,9 @@
       { "name": "GamesRadar", "url": "https://www.gamesradar.com/rss.xml", "icon": "play-circle-o", "iconFamily": "FontAwesome", "language": "en" },
       { "name": "Gaming on Linux", "url": "https://www.gamingonlinux.com/article_rss.php", "icon": "linux", "iconFamily": "FontAwesome5", "language": "en" },
       { "name": "Gematsu", "url": "https://www.gematsu.com/feed", "icon": "controller-classic", "iconFamily": "MaterialCommunityIcons", "language": "en" },
-      { "name": "Hobby Consolas", "url": "https://www.hobbyconsolas.com/rss", "icon": "controller-play", "iconFamily": "MaterialCommunityIcons", "language": "es" },
+      { "name": "Hobby Consolas", "url": "https://www.hobbyconsolas.com/rss", "icon": "controller-play", "iconFamily": "Entypo", "language": "es" },
       { "name": "IGN", "url": "https://www.ign.com/rss/v2/articles/feed", "icon": "target", "iconFamily": "Feather", "language": "en" },
-      { "name": "Kotaku", "url": "https://kotaku.com/rss", "icon": "controller", "iconFamily": "Entypo", "language": "en" },
+      { "name": "Kotaku", "url": "https://kotaku.com/rss", "icon": "controller-record", "iconFamily": "Entypo", "language": "en" },
       { "name": "LevelUp", "url": "https://thisislevelup.net/feed/", "icon": "arrow-up-circle", "iconFamily": "Feather", "language": "en" },
       { "name": "My Nintendo News", "url": "https://mynintendonews.com/feed/", "icon": "nintendo-switch", "iconFamily": "MaterialCommunityIcons", "language": "en" },
       { "name": "Nintendo Life", "url": "https://www.nintendolife.com/feeds/latest", "icon": "nintendo-game-boy", "iconFamily": "MaterialCommunityIcons", "language": "en" },
@@ -100,9 +100,9 @@
       { "name": "Push Square", "url": "https://www.pushsquare.com/feeds/latest", "icon": "square", "iconFamily": "Feather", "language": "en" },
       { "name": "Pure Nintendo", "url": "https://purenintendo.com/feed/", "icon": "controller-classic-outline", "iconFamily": "MaterialCommunityIcons", "language": "en" },
       { "name": "Siliconera", "url": "https://www.siliconera.com/feed/", "icon": "globe", "iconFamily": "Feather", "language": "en" },
-      { "name": "The Game Post", "url": "https://thegamepost.com/feed/", "icon": "play-alt", "iconFamily": "FontAwesome5", "language": "en" },
+      { "name": "The Game Post", "url": "https://thegamepost.com/feed/", "icon": "play-circle", "iconFamily": "AntDesign", "language": "en" },
       { "name": "The Gamer", "url": "https://www.thegamer.com/feed/", "icon": "user", "iconFamily": "Feather", "language": "en" },
-      { "name": "The Verge Gaming", "url": "https://www.theverge.com/rss/games/index.xml", "icon": "caretright", "iconFamily": "AntDesign", "language": "en" },
+      { "name": "The Verge Gaming", "url": "https://www.theverge.com/rss/games/index.xml", "icon": "caret-right", "iconFamily": "AntDesign", "language": "en" },
       { "name": "TheXboxHub", "url": "https://www.thexboxhub.com/feed/", "icon": "xbox", "iconFamily": "FontAwesome6", "language": "en" },
       { "name": "Time Extension", "url": "https://www.timeextension.com/feeds/latest", "icon": "clock", "iconFamily": "Feather", "language": "en" },
       { "name": "Touch Arcade", "url": "https://toucharcade.com/feed/", "icon": "touch-app", "iconFamily": "MaterialIcons", "language": "en" },
@@ -110,8 +110,8 @@
       { "name": "Vandal", "url": "https://vandal.elespanol.com/xml.cgi", "icon": "play-box-multiple", "iconFamily": "MaterialCommunityIcons", "language": "es" },
       { "name": "VG247", "url": "https://www.vg247.com/feed/", "icon": "file-text", "iconFamily": "Feather", "language": "en" },
       { "name": "VGC", "url": "https://www.videogameschronicle.com/feed/", "icon": "gamepad-circle", "iconFamily": "MaterialCommunityIcons", "language": "en" },
-      { "name": "VidaExtra", "url": "https://www.vidaextra.com/index.xml", "icon": "chip", "iconFamily": "Ionicons", "language": "es" },
-      { "name": "Xbox Wire", "url": "https://news.xbox.com/en-us/feed/", "icon": "xbox-controller", "iconFamily": "MaterialCommunityIcons", "language": "en" }
+      { "name": "VidaExtra", "url": "https://www.vidaextra.com/index.xml", "icon": "chip", "iconFamily": "MaterialCommunityIcons", "language": "es" },
+      { "name": "Xbox Wire", "url": "https://news.xbox.com/en-us/feed/", "icon": "microsoft-xbox-controller", "iconFamily": "MaterialCommunityIcons", "language": "en" }
     ],
     "Sports": [
       { "name": "AS", "url": "https://as.com/rss/opinion/portada.xml", "icon": "trophy", "iconFamily": "Entypo", "language": "es" },
