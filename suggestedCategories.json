@@ -1,5 +1,5 @@
 {
-  "version": "1.8.4",
+  "version": "1.8.5",
   "categories": {
     "Tech": [
       { "name": "Actualidad iPhone", "url": "http://feeds.feedburner.com/actualidadiphone", "icon": "smartphone", "iconFamily": "Feather", "language": "es" },
@@ -11,7 +11,7 @@
       { "name": "Computer Hoy", "url": "https://computerhoy.20minutos.es/rss/ultimas-noticias/", "icon": "computer", "iconFamily": "MaterialIcons", "language": "es" },
       { "name": "Digital Trends", "url": "https://www.digitaltrends.com/feed/", "icon": "harddisk", "iconFamily": "MaterialCommunityIcons", "language": "en" },
       { "name": "El Pais Tecnologia", "url": "https://feeds.elpais.com/mrss-s/list/ep/site/elpais.com/section/tecnologia", "icon": "laptop", "iconFamily": "MaterialCommunityIcons", "language": "es" },
-      { "name": "Engadget", "url": "https://www.engadget.com/rss/", "icon": "television-play", "iconFamily": "MaterialCommunityIcons", "language": "en" },
+      { "name": "Engadget", "url": "https://www.engadget.com/rss-full.xml", "icon": "television-play", "iconFamily": "MaterialCommunityIcons", "language": "en" },
       { "name": "Geekwire", "url": "https://www.geekwire.com/feed/", "icon": "glasses", "iconFamily": "MaterialCommunityIcons", "language": "en" },
       { "name": "Geeknetic", "url": "https://feeds.feedburner.com/geeknetic/", "icon": "glasses-outline", "iconFamily": "Ionicons", "language": "es" },
       { "name": "Gizmodo", "url": "https://gizmodo.com/rss", "icon": "robot", "iconFamily": "MaterialCommunityIcons", "language": "en" },
