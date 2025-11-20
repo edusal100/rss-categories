@@ -1,11 +1,11 @@
 {
-  "version": "1.8.3",
+  "version": "1.8.4",
   "categories": {
     "Tech": [
       { "name": "Actualidad iPhone", "url": "http://feeds.feedburner.com/actualidadiphone", "icon": "smartphone", "iconFamily": "Feather", "language": "es" },
       { "name": "AppleInsider", "url": "https://appleinsider.com/rss/news/", "icon": "logo-apple", "iconFamily": "Ionicons", "language": "en" },
       { "name": "Ars Technica", "url": "https://feeds.arstechnica.com/arstechnica/technology-lab", "icon": "layers", "iconFamily": "Feather", "language": "en" },
-      { "name": "BGR", "url": "https://bgr.com/tech/feed/", "icon": "rocket-launch", "iconFamily": "MaterialCommunityIcons", "language": "en" },
+      { "name": "BGR", "url": "https://www.bgr.com/feed/", "icon": "rocket-launch", "iconFamily": "MaterialCommunityIcons", "language": "en" },
       { "name": "CNET", "url": "https://www.cnet.com/rss/news/", "icon": "rss", "iconFamily": "Feather", "language": "en" },
       { "name": "Computing", "url": "https://www.computing.es/feed/", "icon": "wifi-strength-2", "iconFamily": "MaterialCommunityIcons", "language": "es" },
       { "name": "Computer Hoy", "url": "https://computerhoy.20minutos.es/rss/ultimas-noticias/", "icon": "computer", "iconFamily": "MaterialIcons", "language": "es" },
