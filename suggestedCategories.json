@@ -1,5 +1,5 @@
 {
-  "version": "1.8.5",
+  "version": "1.8.6",
   "categories": {
     "Tech": [
       { "name": "Actualidad iPhone", "url": "http://feeds.feedburner.com/actualidadiphone", "icon": "smartphone", "iconFamily": "Feather", "language": "es" },
@@ -140,19 +140,19 @@
       { "name": "ProSports", "url": "https://prosportsoutlook.com/feed/", "icon": "file-alt", "iconFamily": "FontAwesome5", "language": "en" },
       { "name": "SB Nation", "url": "https://www.sbnation.com/rss/index.xml", "icon": "users", "iconFamily": "FontAwesome", "language": "en" },
       { "name": "Sport", "url": "https://www.sport.es/es/rss/deportes/rss.xml", "icon": "newspaper-variant-outline", "iconFamily": "MaterialCommunityIcons", "language": "es" },
-      { "name": "Sporting News", "url": "https://www.sportingnews.com/us/rss", "icon": "newspaper", "iconFamily": "AntDesign", "language": "en" },
+      { "name": "Sporting News", "url": "https://www.sportingnews.com/us/rss", "icon": "newspaper", "iconFamily": "FontAwesome5", "language": "en" },
       { "name": "Sporting News ES", "url": "https://www.sportingnews.com/us-es/rss", "icon": "newspaper-variant", "iconFamily": "MaterialCommunityIcons", "language": "es" },
       { "name": "Sports Brackets", "url": "https://sportsbrackets.net/feed/", "icon": "file-signature", "iconFamily": "FontAwesome5", "language": "en" },
       { "name": "Sports Illustrated", "url": "https://www.si.com/feed", "icon": "award", "iconFamily": "Feather", "language": "en" },
       { "name": "Sports Management", "url": "http://rss.leisureopportunities.co.uk/google_feed_SM.cfm", "icon": "briefcase", "iconFamily": "FontAwesome5", "language": "en" },
       { "name": "Sports Mint", "url": "https://sportsmintmedia.com/feed/", "icon": "file", "iconFamily": "Feather", "language": "en" },
       { "name": "Sports Weez", "url": "https://sportsweez.com/feed/", "icon": "star", "iconFamily": "Feather", "language": "en" },
-      { "name": "Sports360", "url": "https://sport360.com/rss", "icon": "file-document", "iconFamily": "Feather", "language": "en" },
+      { "name": "Sports360", "url": "https://sport360.com/rss", "icon": "file-document", "iconFamily": "MaterialCommunityIcons", "language": "en" },
       { "name": "Sportskeeda", "url": "https://api.sportskeeda.com/v3/feeds_v2/1414?limit=1000&response_type=w3c", "icon": "flag", "iconFamily": "FontAwesome5", "language": "en" },
       { "name": "Sportsnet", "url": "https://www.sportsnet.ca/feed/", "icon": "file-plus", "iconFamily": "Feather", "language": "en" },
       { "name": "The Athletic", "url": "https://www.nytimes.com/athletic/rss/news/", "icon": "football", "iconFamily": "Ionicons", "language": "en" },
-      { "name": "The Score NFL", "url": "https://www.thescore.com/nfl/news.rss", "icon": "football-outline", "iconFamily": "MaterialCommunityIcons", "language": "en" },
-      { "name": "Yahoo Sports", "url": "https://sports.yahoo.com/rss/", "icon": "file-text", "iconFamily": "FontAwesome5", "language": "en" }
+      { "name": "The Score NFL", "url": "https://www.thescore.com/nfl/news.rss", "icon": "football-outline", "iconFamily": "Ionicons", "language": "en" },
+      { "name": "Yahoo Sports", "url": "https://sports.yahoo.com/rss/", "icon": "file-text", "iconFamily": "FontAwesome6", "language": "en" }
     ],
     "Movies": [
       { "name": "Boxoffice", "url": "https://www.boxofficepro.com/feed/", "icon": "film", "iconFamily": "Feather", "language": "en" },
