@@ -1,5 +1,5 @@
 {
-  "version": "1.8.6",
+  "version": "1.8.7",
   "categories": {
     "Tech": [
       { "name": "Actualidad iPhone", "url": "http://feeds.feedburner.com/actualidadiphone", "icon": "smartphone", "iconFamily": "Feather", "language": "es" },
@@ -160,12 +160,12 @@
       { "name": "Cinemas Comic", "url": "https://www.cinemascomics.com/feed/", "icon": "monitor", "iconFamily": "Feather", "language": "es" },
       { "name": "Cinemapremiere", "url": "https://cinepremiere.com.mx/feed", "icon": "play-circle", "iconFamily": "Feather", "language": "es" },
       { "name": "Collider", "url": "https://collider.com/feed/", "icon": "camera", "iconFamily": "Feather", "language": "en" },
-      { "name": "Comic Book Movie", "url": "https://comicbookmovie.com/rss/", "icon": "film-outline", "iconFamily": "Feather", "language": "en" },
+      { "name": "Comic Book Movie", "url": "https://comicbookmovie.com/rss/", "icon": "film-outline", "iconFamily": "Ionicons", "language": "en" },
       { "name": "ComingSoon", "url": "https://www.comingsoon.net/feed", "icon": "video", "iconFamily": "Feather", "language": "en" },
       { "name": "DailyEntertainment", "url": "https://www.dailyentertainmentworld.com/blog-feed.xml", "icon": "aperture", "iconFamily": "Feather", "language": "en" },
       { "name": "Deadline", "url": "https://deadline.com/feed/", "icon": "camera-off", "iconFamily": "Feather", "language": "en" },
       { "name": "DigitalSpy", "url": "https://www.digitalspy.com/rss/all.xml", "icon": "play", "iconFamily": "Feather", "language": "en" },
-      { "name": "Empire Online", "url": "https://rss.onebauer.media/api/feed-aggregator?hostname=https://www.empireonline.com", "icon": "film-alt", "iconFamily": "Feather", "language": "en" },
+      { "name": "Empire Online", "url": "https://rss.onebauer.media/api/feed-aggregator?hostname=https://www.empireonline.com", "icon": "film", "iconFamily": "Fontisto", "language": "en" },
       { "name": "Espinof", "url": "https://www.espinof.com/index.xml", "icon": "clapperboard", "iconFamily": "Entypo", "language": "es" },
       { "name": "El Septimo Arte", "url": "https://www.elseptimoarte.net/rss.php", "icon": "archive", "iconFamily": "Feather", "language": "es" },
       { "name": "Film Companion", "url": "https://www.filmcompanion.in/feed/", "icon": "layers", "iconFamily": "Feather", "language": "en" },
@@ -178,7 +178,7 @@
       { "name": "Hollywood Reporter", "url": "https://www.hollywoodreporter.com/taxonomy/term/6/0/feed", "icon": "users", "iconFamily": "Feather", "language": "en" },
       { "name": "IGN Movies", "url": "https://www.ign.com/rss/v2/articles/feed?channel=movies", "icon": "award", "iconFamily": "Feather", "language": "en" },
       { "name": "IndieWire", "url": "https://www.indiewire.com/feed/", "icon": "edit", "iconFamily": "Feather", "language": "en" },
-      { "name": "JoBlo", "url": "https://www.joblo.com/feed/", "icon": "film-play", "iconFamily": "Feather", "language": "en" },
+      { "name": "JoBlo", "url": "https://www.joblo.com/feed/", "icon": "controller-play", "iconFamily": "Entypo", "language": "en" },
       { "name": "Lwlies", "url": "https://lwlies.com/feed.rss", "icon": "feather", "iconFamily": "Feather", "language": "en" },
       { "name": "Movie Insider", "url": "https://www.movieinsider.com/rss", "icon": "file-text", "iconFamily": "Feather", "language": "en" },
       { "name": "Movie Maker", "url": "https://www.moviemaker.com/feed/", "icon": "cpu", "iconFamily": "Feather", "language": "en" },
