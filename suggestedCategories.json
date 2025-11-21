@@ -1,5 +1,5 @@
 {
-  "version": "1.9.0",
+  "version": "1.9.1",
   "categories": {
     "Tech": [
       { "name": "Actualidad iPhone", "url": "http://feeds.feedburner.com/actualidadiphone", "icon": "smartphone", "iconFamily": "Feather", "language": "es" },
@@ -198,7 +198,7 @@
     ],
     "News": [
       { "name": "ABC", "url": "http://abcnews.go.com/abcnews/internationalheadlines", "icon": "activity", "iconFamily": "Feather", "language": "en" },
-      { "name": "Aristegui Noticias", "url": "https://editorial.aristeguinoticias.com/feed/", "icon": "activity", "iconFamily": "MaterialIcons", "language": "es" },
+      { "name": "Aristegui Noticias", "url": "https://editorial.aristeguinoticias.com/feed/", "icon": "local-activity", "iconFamily": "MaterialIcons", "language": "es" },
       { "name": "BBC", "url": "http://feeds.bbci.co.uk/news/world/rss.xml", "icon": "globe", "iconFamily": "Feather", "language": "en" },
       { "name": "Buzzfeed World", "url": "https://www.buzzfeed.com/world.xml", "icon": "zap", "iconFamily": "Feather", "language": "en" },
       { "name": "CBS", "url": "https://www.cbsnews.com/latest/rss/world", "icon": "cast", "iconFamily": "Feather", "language": "en" },
@@ -213,7 +213,7 @@
       { "name": "Fox", "url": "https://feeds.foxnews.com/foxnews/latest", "icon": "alert-circle", "iconFamily": "Feather", "language": "en" },
       { "name": "France 24", "url": "https://www.france24.com/en/rss", "icon": "circle", "iconFamily": "Feather", "language": "en" },
       { "name": "Global News", "url": "https://globalnews.ca/world/feed/", "icon": "compass", "iconFamily": "AntDesign", "language": "en" },
-      { "name": "Infobae", "url": "https://www.infobae.com/arc/outboundfeeds/rss/", "icon": "compass-drafting", "iconFamily": "FontAwesome5", "language": "es" },
+      { "name": "Infobae", "url": "https://www.infobae.com/arc/outboundfeeds/rss/", "icon": "compass-drafting", "iconFamily": "FontAwesome6", "language": "es" },
       { "name": "La Jornada", "url": "https://www.jornada.com.mx/feeds/rss", "icon": "layers", "iconFamily": "Feather", "language": "es" },
       { "name": "Lopez Doriga", "url": "https://lopezdoriga.com/feed/", "icon": "layers-outline", "iconFamily": "Ionicons", "language": "es" },
       { "name": "Los Angeles Times", "url": "https://www.latimes.com/world/rss2.0.xml", "icon": "layers", "iconFamily": "Entypo", "language": "en" },
