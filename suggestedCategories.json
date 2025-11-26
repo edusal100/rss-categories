@@ -1,5 +1,5 @@
 {
-  "version": "1.9.3",
+  "version": "1.9.4",
   "categories": {
     "Tech": [
       { "name": "Actualidad iPhone", "url": "http://feeds.feedburner.com/actualidadiphone", "icon": "smartphone", "iconFamily": "Feather", "language": "es" },
@@ -11,7 +11,7 @@
       { "name": "Computer Hoy", "url": "https://computerhoy.20minutos.es/rss/ultimas-noticias/", "icon": "computer", "iconFamily": "MaterialIcons", "language": "es" },
       { "name": "Digital Trends", "url": "https://www.digitaltrends.com/feed/", "icon": "harddisk", "iconFamily": "MaterialCommunityIcons", "language": "en" },
       { "name": "El Pais Tecnologia", "url": "https://feeds.elpais.com/mrss-s/list/ep/site/elpais.com/section/tecnologia", "icon": "laptop", "iconFamily": "MaterialCommunityIcons", "language": "es" },
-      { "name": "Engadget", "url": "https://www.engadget.com/rss-full.xml", "icon": "television-play", "iconFamily": "MaterialCommunityIcons", "language": "en" },
+      { "name": "Engadget", "url": "https://www.engadget.com/rss.xml", "icon": "television-play", "iconFamily": "MaterialCommunityIcons", "language": "en" },
       { "name": "Geekwire", "url": "https://www.geekwire.com/feed/", "icon": "glasses", "iconFamily": "MaterialCommunityIcons", "language": "en" },
       { "name": "Geeknetic", "url": "https://feeds.feedburner.com/geeknetic/", "icon": "glasses-outline", "iconFamily": "Ionicons", "language": "es" },
       { "name": "Gizmodo", "url": "https://gizmodo.com/rss", "icon": "robot", "iconFamily": "MaterialCommunityIcons", "language": "en" },
@@ -28,7 +28,7 @@
       { "name": "Reseller", "url": "https://reseller.com.mx/feed/", "icon": "code-square", "iconFamily": "Octicons", "language": "es" },
       { "name": "SlashGear", "url": "https://www.slashgear.com/feed/", "icon": "settings-outline", "iconFamily": "Ionicons", "language": "en" },
       { "name": "Silicon Republic", "url": "https://www.siliconrepublic.com/feed/", "icon": "cpu-64-bit", "iconFamily": "MaterialCommunityIcons", "language": "en" },
-      { "name": "TechCrunch", "url": "https://techcrunch.com/feed/", "icon": "cloud-done-outline", "iconFamily": "Ionicons", "language": "en" },
+      { "name": "TechCrunch", "url": "https://www.techradar.com/feeds.xml", "icon": "cloud-done-outline", "iconFamily": "Ionicons", "language": "en" },
       { "name": "Tech Hive", "url": "https://www.techhive.com/feed", "icon": "hive", "iconFamily": "MaterialIcons", "language": "en" },
       { "name": "TechRadar", "url": "https://www.techradar.com/feeds.xml", "icon": "radar", "iconFamily": "MaterialIcons", "language": "en" },
       { "name": "The New Stack", "url": "https://thenewstack.io/blog/feed/", "icon": "stack-overflow", "iconFamily": "FontAwesome", "language": "en" },
