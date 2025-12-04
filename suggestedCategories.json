@@ -1,5 +1,5 @@
 {
-  "version": "1.9.9",
+  "version": "2.0.0",
   "categories": {
     "Tech": [
       { "name": "Actualidad iPhone", "url": "http://feeds.feedburner.com/actualidadiphone", "icon": "smartphone", "iconFamily": "Feather", "language": "es" },
@@ -176,7 +176,8 @@
       { "name": "Flickering Myth", "url": "https://www.flickeringmyth.com/feed/", "icon": "zap", "iconFamily": "Feather", "language": "en" },
       { "name": "Fotogramas", "url": "https://www.fotogramas.es/rss/all.xml", "icon": "image", "iconFamily": "Feather", "language": "es" },
       { "name": "Hollywood Reporter", "url": "https://www.hollywoodreporter.com/taxonomy/term/6/0/feed", "icon": "users", "iconFamily": "Feather", "language": "en" },
-      { "name": "IGN Movies", "url": "https://www.ign.com/rss/v2/articles/feed?channel=movies", "icon": "award", "iconFamily": "Feather", "language": "en" },
+      { "name": "IndieWire", "url": "https://www.indiewire.com/feed/", "icon": "award", "iconFamily": "Feather", "language": "en" },
+      { "name": "IGN Movies", "url": "https://www.ign.com/rss/v2/articles/feed?channel=movies", "icon": "movie-creation", "iconFamily": "MaterialIcons", "language": "en" },
       { "name": "JoBlo", "url": "https://www.joblo.com/feed/", "icon": "controller-play", "iconFamily": "Entypo", "language": "en" },
       { "name": "Lwlies", "url": "https://lwlies.com/feed.rss", "icon": "feather", "iconFamily": "Feather", "language": "en" },
       { "name": "Movie Insider", "url": "https://www.movieinsider.com/rss", "icon": "file-text", "iconFamily": "Feather", "language": "en" },
