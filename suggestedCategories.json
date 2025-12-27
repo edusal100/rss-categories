@@ -1,5 +1,5 @@
 {
-  "version": "2.0.1",
+  "version": "2.0.2",
   "categories": {
     "Tech": [
       { "name": "Actualidad iPhone", "url": "http://feeds.feedburner.com/actualidadiphone", "icon": "smartphone", "iconFamily": "Feather", "language": "es" },
@@ -11,6 +11,7 @@
       { "name": "Computer Hoy", "url": "https://computerhoy.20minutos.es/rss/ultimas-noticias/", "icon": "computer", "iconFamily": "MaterialIcons", "language": "es" },
       { "name": "El Pais Tecnologia", "url": "https://feeds.elpais.com/mrss-s/list/ep/site/elpais.com/section/tecnologia", "icon": "laptop", "iconFamily": "MaterialCommunityIcons", "language": "es" },
       { "name": "Engadget", "url": "https://www.engadget.com/rss.xml", "icon": "television-play", "iconFamily": "MaterialCommunityIcons", "language": "en" },
+      { "name": "Gadget Hacks", "url": " https://www.gadgethacks.com/rss.xml", "icon": "hacker-news", "iconFamily": "FontAwesome", "language": "en" },
       { "name": "Geekwire", "url": "https://www.geekwire.com/feed/", "icon": "glasses", "iconFamily": "MaterialCommunityIcons", "language": "en" },
       { "name": "Geeknetic", "url": "https://feeds.feedburner.com/geeknetic/", "icon": "glasses-outline", "iconFamily": "Ionicons", "language": "es" },
       { "name": "Gizmodo", "url": "https://gizmodo.com/rss", "icon": "robot", "iconFamily": "MaterialCommunityIcons", "language": "en" },
@@ -125,6 +126,7 @@
       { "name": "ESPN", "url": "https://www.espn.com/espn/rss/news", "icon": "american-football", "iconFamily": "Ionicons", "language": "en" },
       { "name": "Essentially Sports", "url": "https://www.essentiallysports.com/feed/", "icon": "chart-bar", "iconFamily": "FontAwesome5", "language": "en" },
       { "name": "Esto", "url": "https://esto.com.mx/feed/", "icon": "soccer", "iconFamily": "MaterialCommunityIcons", "language": "es" },
+      { "name": "Fichajes", "url": "https://www.fichajes.com/canales-rss", "icon": "signature", "iconFamily": "AntDesign", "language": "es" },
       { "name": "Fox Sports", "url": "https://api.foxsports.com/v2/content/optimized-rss?partnerKey=MB0Wehpmuj2lUhuRhQaafhBjAJqaPU244mlTDK1i&size=30", "icon": "stadium", "iconFamily": "MaterialCommunityIcons", "language": "en" },
       { "name": "Fox Deportes", "url": "https://www.foxdeportes.com/latest.xml", "icon": "soccer-field", "iconFamily": "MaterialCommunityIcons", "language": "es" },
       { "name": "Front Office Sports", "url": "https://frontofficesports.com/feed/", "icon": "trophy", "iconFamily": "MaterialCommunityIcons", "language": "en" },
@@ -193,6 +195,7 @@
       { "name": "Variety", "url": "https://variety.com/feed/", "icon": "layout", "iconFamily": "Feather", "language": "en" },
       { "name": "V Magazine", "url": "https://vmagazine.com/feed/", "icon": "command", "iconFamily": "Feather", "language": "en" },
       { "name": "Vulture", "url": "https://www.vulture.com/feeds/flipboard.rss", "icon": "trending-up", "iconFamily": "Feather", "language": "en" },
+      { "name": "What's on Netflix", "url": "https://www.whats-on-netflix.com/feed/", "icon": "netflix", "iconFamily": "MaterialCommunityIcons", "language": "en" },
       { "name": "We got this covered", "url": "https://wegotthiscovered.com/feed/", "icon": "share-2", "iconFamily": "Feather", "language": "en" }
     ],
     "News": [
