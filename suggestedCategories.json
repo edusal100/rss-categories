@@ -1,5 +1,5 @@
 {
-  "version": "2.0.0",
+  "version": "2.0.1",
   "categories": {
     "Tech": [
       { "name": "Actualidad iPhone", "url": "http://feeds.feedburner.com/actualidadiphone", "icon": "smartphone", "iconFamily": "Feather", "language": "es" },
@@ -25,7 +25,6 @@
       { "name": "ReadWrite", "url": "https://readwrite.com/feed/?x=1", "icon": "code-braces", "iconFamily": "MaterialCommunityIcons", "language": "en" },
       { "name": "Recode", "url": "https://www.vox.com/rss/technology/index.xml", "icon": "code", "iconFamily": "Octicons", "language": "en" },
       { "name": "Reseller", "url": "https://reseller.com.mx/feed/", "icon": "code-square", "iconFamily": "Octicons", "language": "es" },
-      { "name": "SlashGear", "url": "https://www.slashgear.com/feed/", "icon": "settings-outline", "iconFamily": "Ionicons", "language": "en" },
       { "name": "Silicon Republic", "url": "https://www.siliconrepublic.com/feed/", "icon": "cpu-64-bit", "iconFamily": "MaterialCommunityIcons", "language": "en" },
       { "name": "TechCrunch", "url": " https://techcrunch.com/feed/", "icon": "cloud-done-outline", "iconFamily": "Ionicons", "language": "en" },
       { "name": "Tech Hive", "url": "https://www.techhive.com/feed", "icon": "hive", "iconFamily": "MaterialIcons", "language": "en" },
@@ -380,6 +379,7 @@
       { "name": "Car and Driver", "url": "https://www.caranddriver.com/rss/all.xml", "icon": "truck", "iconFamily": "FontAwesome", "language": "en" },
       { "name": "Car and Driver ES", "url": "https://www.caranddriver.com/es/rss/all.xml", "icon": "truck-loading", "iconFamily": "FontAwesome5", "language": "es" },
       { "name": "Road & Track", "url": "https://www.roadandtrack.com/rss/all.xml", "icon": "truck-pickup", "iconFamily": "FontAwesome5", "language": "en" },
+      { "name": "SlashGear", "url": "https://www.slashgear.com/feed/", "icon": "settings-outline", "iconFamily": "Ionicons", "language": "en" },
       { "name": "Speedhunters", "url": "http://feeds.feedburner.com/Speedhunters", "icon": "trending-up", "iconFamily": "Feather", "language": "en" },
       { "name": "The Drive", "url": "https://www.thedrive.com/feed", "icon": "truck-plane", "iconFamily": "FontAwesome6", "language": "en" },
       { "name": "Wards Auto", "url": "https://www.wardsauto.com/feeds/news/", "icon": "truck-monster", "iconFamily": "FontAwesome6", "language": "en" }
