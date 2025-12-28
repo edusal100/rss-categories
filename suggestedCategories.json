@@ -1,5 +1,5 @@
 {
-  "version": "2.0.3",
+  "version": "2.0.4",
   "categories": {
     "Tech": [
       { "name": "Actualidad iPhone", "url": "http://feeds.feedburner.com/actualidadiphone", "icon": "smartphone", "iconFamily": "Feather", "language": "es" },
@@ -387,39 +387,5 @@
       { "name": "The Drive", "url": "https://www.thedrive.com/feed", "icon": "truck-plane", "iconFamily": "FontAwesome6", "language": "en" },
       { "name": "Wards Auto", "url": "https://www.wardsauto.com/feeds/news/", "icon": "truck-monster", "iconFamily": "FontAwesome6", "language": "en" }
     ]
-  },
-  "categoryTranslations": {
-    "en": {
-      "Tech": "Tech",
-      "Mobile": "Mobile",
-      "Games": "Games",
-      "Sports": "Sports",
-      "Movies": "Movies",
-      "News": "News",
-      "Culture": "Culture",
-      "Fashion": "Fashion",
-      "Science": "Science",
-      "Food": "Food",
-      "Travel": "Travel",
-      "Design": "Design",
-      "Business": "Business",
-      "Cars": "Cars"
-    },
-    "es": {
-      "Tech": "Tecnología",
-      "Mobile": "Móvil",
-      "Games": "Videojuegos",
-      "Sports": "Deportes",
-      "Movies": "Películas",
-      "News": "Noticias",
-      "Culture": "Cultura",
-      "Fashion": "Moda",
-      "Science": "Ciencia",
-      "Food": "Comida",
-      "Travel": "Viajes",
-      "Design": "Diseño",
-      "Business": "Negocios",
-      "Cars": "Autos"
-    }
   }
 }
