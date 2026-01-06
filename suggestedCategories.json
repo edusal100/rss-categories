@@ -1,5 +1,5 @@
 {
-  "version": "2.0.5",
+  "version": "2.0.6",
   "categories": {
     "Tech": [
       { "name": "Actualidad iPhone", "url": "http://feeds.feedburner.com/actualidadiphone", "icon": "smartphone", "iconFamily": "Feather", "language": "es" },
@@ -366,6 +366,7 @@
       { "name": "Yuxtapoz", "url": "https://www.juxtapoz.com/news/?format=feed&type=rss", "icon": "camera", "iconFamily": "AntDesign", "language": "en" }
     ],
     "Business": [
+      { "name": "El Economista", "url": "https://www.eleconomista.com.mx/rss/ultimas-noticias", "icon": "money", "iconFamily": "FontAwesome", "language": "es" },
       { "name": "El Financiero", "url": "https://www.elfinanciero.com.mx/arc/outboundfeeds/rss/?outputType=xml", "icon": "newsletter", "iconFamily": "Entypo", "language": "es" },
       { "name": "Fortune", "url": "https://fortune.com/feed/", "icon": "briefcase", "iconFamily": "Feather", "language": "en" },
       { "name": "Forbes", "url": "https://www.forbes.com/business/feed2/", "icon": "dollar-sign", "iconFamily": "Feather", "language": "en" },
