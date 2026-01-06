@@ -1,5 +1,5 @@
 {
-  "version": "2.0.6",
+  "version": "2.0.8",
   "categories": {
     "Tech": [
       { "name": "Actualidad iPhone", "url": "http://feeds.feedburner.com/actualidadiphone", "icon": "smartphone", "iconFamily": "Feather", "language": "es" },
@@ -206,11 +206,13 @@
       { "name": "CBS", "url": "https://www.cbsnews.com/latest/rss/world", "icon": "cast", "iconFamily": "Feather", "language": "en" },
       { "name": "CBC", "url": "http://www.cbc.ca/cmlink/rss-world", "icon": "flag", "iconFamily": "Feather", "language": "en" },
       { "name": "CGTN China", "url": "https://www.cgtn.com/subscribe/rss/section/china.xml", "icon": "globe", "iconFamily": "Entypo", "language": "en" },
+      { "name": "Clarin", "url": "https://www.clarin.com/rss/lo-ultimo/", "icon": "night-clear", "iconFamily": "Fontisto", "language": "es" },
       { "name": "Contralinea", "url": "https://contralinea.com.mx/feed/", "icon": "blur-linear", "iconFamily": "MaterialIcons", "language": "es" },
       { "name": "Daily Mirror", "url": "https://www.mirror.co.uk/news/world-news/?service=rss", "icon": "copy", "iconFamily": "Feather", "language": "en" },
       { "name": "Diario Red", "url": "https://www.diario-red.com/rss/", "icon": "news", "iconFamily": "Entypo", "language": "es" },
       { "name": "El Cronista", "url": "https://www.cronista.com/arc/outboundfeeds/news/", "icon": "newsletter", "iconFamily": "Entypo", "language": "es" },
       { "name": "El Pais", "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/ultimas-noticias/portada", "icon": "newsletter", "iconFamily": "Entypo", "language": "es" },
+      { "name": "Expansion", "url": "https://expansion.mx/rss", "icon": "expand", "iconFamily": "AntDesign", "language": "es" },
       { "name": "Fox", "url": "https://feeds.foxnews.com/foxnews/latest", "icon": "alert-circle", "iconFamily": "Feather", "language": "en" },
       { "name": "France 24", "url": "https://www.france24.com/en/rss", "icon": "circle", "iconFamily": "Feather", "language": "en" },
       { "name": "Global News", "url": "https://globalnews.ca/world/feed/", "icon": "compass", "iconFamily": "AntDesign", "language": "en" },
@@ -221,6 +223,8 @@
       { "name": "NBC", "url": "https://feeds.nbcnews.com/nbcnews/public/news", "icon": "map", "iconFamily": "Feather", "language": "en" },
       { "name": "NDTV", "url": "https://feeds.feedburner.com/ndtvnews-world-news", "icon": "grid", "iconFamily": "Feather", "language": "en" },
       { "name": "NPR", "url": "https://feeds.npr.org/1001/rss.xml", "icon": "radio", "iconFamily": "Feather", "language": "en" },
+      { "name": "Proceso", "url": "https://www.proceso.com.mx/rss/feed.html?r=6", "icon": "chat-processing-outline", "iconFamily": "MaterialCommunityIcons", "language": "es" },
+      { "name": "Reforma", "url": "https://www.reforma.com/rss/portada.xml", "icon": "form", "iconFamily": "AntDesign", "language": "es" },
       { "name": "SDP Noticias", "url": "https://www.sdpnoticias.com/arc/outboundfeeds/rss/?outputType=xml", "icon": "cloud", "iconFamily": "Feather", "language": "es" },
       { "name": "Seattle Times", "url": "https://www.seattletimes.com/nation-world/world/feed/", "icon": "cloud", "iconFamily": "AntDesign", "language": "en" },
       { "name": "Sinembargo", "url": "https://www.sinembargo.mx/feed/", "icon": "align-left", "iconFamily": "Feather", "language": "es" },
