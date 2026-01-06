@@ -1,5 +1,5 @@
 {
-  "version": "2.0.8",
+  "version": "2.0.9",
   "categories": {
     "Tech": [
       { "name": "Actualidad iPhone", "url": "http://feeds.feedburner.com/actualidadiphone", "icon": "smartphone", "iconFamily": "Feather", "language": "es" },
@@ -207,7 +207,6 @@
       { "name": "CBC", "url": "http://www.cbc.ca/cmlink/rss-world", "icon": "flag", "iconFamily": "Feather", "language": "en" },
       { "name": "CGTN China", "url": "https://www.cgtn.com/subscribe/rss/section/china.xml", "icon": "globe", "iconFamily": "Entypo", "language": "en" },
       { "name": "Clarin", "url": "https://www.clarin.com/rss/lo-ultimo/", "icon": "night-clear", "iconFamily": "Fontisto", "language": "es" },
-      { "name": "Contralinea", "url": "https://contralinea.com.mx/feed/", "icon": "blur-linear", "iconFamily": "MaterialIcons", "language": "es" },
       { "name": "Daily Mirror", "url": "https://www.mirror.co.uk/news/world-news/?service=rss", "icon": "copy", "iconFamily": "Feather", "language": "en" },
       { "name": "Diario Red", "url": "https://www.diario-red.com/rss/", "icon": "news", "iconFamily": "Entypo", "language": "es" },
       { "name": "El Cronista", "url": "https://www.cronista.com/arc/outboundfeeds/news/", "icon": "newsletter", "iconFamily": "Entypo", "language": "es" },
