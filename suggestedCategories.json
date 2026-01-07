@@ -1,5 +1,5 @@
 {
-  "version": "2.0.9",
+  "version": "2.1.0",
   "categories": {
     "Tech": [
       { "name": "Actualidad iPhone", "url": "http://feeds.feedburner.com/actualidadiphone", "icon": "smartphone", "iconFamily": "Feather", "language": "es" },
@@ -222,6 +222,7 @@
       { "name": "NBC", "url": "https://feeds.nbcnews.com/nbcnews/public/news", "icon": "map", "iconFamily": "Feather", "language": "en" },
       { "name": "NDTV", "url": "https://feeds.feedburner.com/ndtvnews-world-news", "icon": "grid", "iconFamily": "Feather", "language": "en" },
       { "name": "NPR", "url": "https://feeds.npr.org/1001/rss.xml", "icon": "radio", "iconFamily": "Feather", "language": "en" },
+      { "name": "Politico", "url": "https://rss.politico.com/magazine.xml", "icon": "poll", "iconFamily": "FontAwesome5", "language": "en" },
       { "name": "Proceso", "url": "https://www.proceso.com.mx/rss/feed.html?r=6", "icon": "chat-processing-outline", "iconFamily": "MaterialCommunityIcons", "language": "es" },
       { "name": "Reforma", "url": "https://www.reforma.com/rss/portada.xml", "icon": "form", "iconFamily": "AntDesign", "language": "es" },
       { "name": "SDP Noticias", "url": "https://www.sdpnoticias.com/arc/outboundfeeds/rss/?outputType=xml", "icon": "cloud", "iconFamily": "Feather", "language": "es" },
