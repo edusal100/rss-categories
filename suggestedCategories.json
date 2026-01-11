@@ -1,5 +1,5 @@
 {
-  "version": "2.1.0",
+  "version": "2.1.1",
   "categories": {
     "Tech": [
       { "name": "Actualidad iPhone", "url": "http://feeds.feedburner.com/actualidadiphone", "icon": "smartphone", "iconFamily": "Feather", "language": "es" },
@@ -15,6 +15,7 @@
       { "name": "Geekwire", "url": "https://www.geekwire.com/feed/", "icon": "glasses", "iconFamily": "MaterialCommunityIcons", "language": "en" },
       { "name": "Geeknetic", "url": "https://feeds.feedburner.com/geeknetic/", "icon": "glasses-outline", "iconFamily": "Ionicons", "language": "es" },
       { "name": "Gizmodo", "url": "https://gizmodo.com/rss", "icon": "robot", "iconFamily": "MaterialCommunityIcons", "language": "en" },
+      { "name": "Hipertextual", "url": "https://hipertextual.com/feed", "icon": "text", "iconFamily": "Entypo", "language": "es" },
       { "name": "KDNuggets", "url": "https://www.kdnuggets.com/feed", "icon": "database", "iconFamily": "AntDesign", "language": "en" },
       { "name": "La Opinion Tec", "url": "https://laopinion.com/categoria/tecnologia/feed/", "icon": "database-outline", "iconFamily": "MaterialCommunityIcons", "language": "es" },
       { "name": "Mac Rumors", "url": "https://feeds.macrumors.com/MacRumors-All", "icon": "apple", "iconFamily": "AntDesign", "language": "en" },
