@@ -1,5 +1,5 @@
 {
-  "version": "2.1.1",
+  "version": "2.1.2",
   "categories": {
     "Tech": [
       { "name": "Actualidad iPhone", "url": "http://feeds.feedburner.com/actualidadiphone", "icon": "smartphone", "iconFamily": "Feather", "language": "es" },
@@ -28,7 +28,7 @@
       { "name": "Recode", "url": "https://www.vox.com/rss/technology/index.xml", "icon": "code", "iconFamily": "Octicons", "language": "en" },
       { "name": "Reseller", "url": "https://reseller.com.mx/feed/", "icon": "code-square", "iconFamily": "Octicons", "language": "es" },
       { "name": "Silicon Republic", "url": "https://www.siliconrepublic.com/feed/", "icon": "cpu-64-bit", "iconFamily": "MaterialCommunityIcons", "language": "en" },
-      { "name": "TechCrunch", "url": " https://techcrunch.com/feed/", "icon": "cloud-done-outline", "iconFamily": "Ionicons", "language": "en" },
+      { "name": "TechCrunch", "url": "https://techcrunch.com/feed/", "icon": "cloud-done-outline", "iconFamily": "Ionicons", "language": "en" },
       { "name": "Tech Hive", "url": "https://www.techhive.com/feed", "icon": "hive", "iconFamily": "MaterialIcons", "language": "en" },
       { "name": "TechRadar", "url": "https://www.techradar.com/feeds.xml", "icon": "radar", "iconFamily": "MaterialIcons", "language": "en" },
       { "name": "The New Stack", "url": "https://thenewstack.io/blog/feed/", "icon": "stack-overflow", "iconFamily": "FontAwesome", "language": "en" },
@@ -203,11 +203,10 @@
       { "name": "ABC", "url": "http://abcnews.go.com/abcnews/internationalheadlines", "icon": "activity", "iconFamily": "Feather", "language": "en" },
       { "name": "Aristegui Noticias", "url": "https://editorial.aristeguinoticias.com/feed/", "icon": "local-activity", "iconFamily": "MaterialIcons", "language": "es" },
       { "name": "BBC", "url": "http://feeds.bbci.co.uk/news/world/rss.xml", "icon": "globe", "iconFamily": "Feather", "language": "en" },
-      { "name": "Buzzfeed World", "url": "https://www.buzzfeed.com/world.xml", "icon": "zap", "iconFamily": "Feather", "language": "en" },
       { "name": "CBS", "url": "https://www.cbsnews.com/latest/rss/world", "icon": "cast", "iconFamily": "Feather", "language": "en" },
       { "name": "CBC", "url": "http://www.cbc.ca/cmlink/rss-world", "icon": "flag", "iconFamily": "Feather", "language": "en" },
       { "name": "CGTN China", "url": "https://www.cgtn.com/subscribe/rss/section/china.xml", "icon": "globe", "iconFamily": "Entypo", "language": "en" },
-      { "name": "Clarin", "url": "https://www.clarin.com/rss/lo-ultimo/", "icon": "night-clear", "iconFamily": "Fontisto", "language": "es" },
+      { "name": "Clarin", "url": "https://www.clarin.com/rss/lo-ultimo/", "icon": "calendar-clear-outline", "iconFamily": "Ionicons", "language": "es" },
       { "name": "Daily Mirror", "url": "https://www.mirror.co.uk/news/world-news/?service=rss", "icon": "copy", "iconFamily": "Feather", "language": "en" },
       { "name": "Diario Red", "url": "https://www.diario-red.com/rss/", "icon": "news", "iconFamily": "Entypo", "language": "es" },
       { "name": "El Cronista", "url": "https://www.cronista.com/arc/outboundfeeds/news/", "icon": "newsletter", "iconFamily": "Entypo", "language": "es" },
@@ -236,8 +235,7 @@
       { "name": "Times of India", "url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms", "icon": "aperture", "iconFamily": "Feather", "language": "en" },
       { "name": "Vox World", "url": "https://www.vox.com/rss/world-politics/index.xml", "icon": "cpu", "iconFamily": "Feather", "language": "en" },
       { "name": "Washington Post", "url": "https://feeds.washingtonpost.com/rss/world", "icon": "file-text", "iconFamily": "Feather", "language": "en" },
-      { "name": "Washington Times", "url": "https://www.washingtontimes.com/rss/headlines/news/world", "icon": "bookmark", "iconFamily": "Feather", "language": "en" },
-      { "name": "Yahoo News World", "url": "https://www.yahoo.com/news/rss/world/", "icon": "rss", "iconFamily": "Feather", "language": "en" }
+      { "name": "Washington Times", "url": "https://www.washingtontimes.com/rss/headlines/news/world", "icon": "bookmark", "iconFamily": "Feather", "language": "en" }
     ],
     "Culture": [
       { "name": "ABC Cultura", "url": "https://www.abc.es/rss/feeds/abc_cultura.xml", "icon": "clapperboard", "iconFamily": "Entypo", "language": "es" },
