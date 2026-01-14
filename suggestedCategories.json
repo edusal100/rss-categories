@@ -1,5 +1,5 @@
 {
-  "version": "2.1.2",
+  "version": "2.1.3",
   "categories": {
     "Tech": [
       { "name": "Actualidad iPhone", "url": "http://feeds.feedburner.com/actualidadiphone", "icon": "smartphone", "iconFamily": "Feather", "language": "es" },
@@ -231,6 +231,7 @@
       { "name": "South China", "url": "https://www.scmp.com/rss/91/feed", "icon": "sunset", "iconFamily": "Feather", "language": "en" },
       { "name": "Sydney Morning Herald", "url": "http://www.smh.com.au/rssheadlines/world/article/rss.xml", "icon": "sunrise", "iconFamily": "Feather", "language": "en" },
       { "name": "The Sun", "url": "https://www.thesun.co.uk/news/worldnews/feed/", "icon": "sun", "iconFamily": "Feather", "language": "en" },
+      { "name": "The NYT", "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml", "icon": "clock-circle", "iconFamily": "AntDesign", "language": "en" },
       { "name": "Time", "url": "https://feeds.feedburner.com/time/world", "icon": "clock", "iconFamily": "Feather", "language": "en" },
       { "name": "Times of India", "url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms", "icon": "aperture", "iconFamily": "Feather", "language": "en" },
       { "name": "Vox World", "url": "https://www.vox.com/rss/world-politics/index.xml", "icon": "cpu", "iconFamily": "Feather", "language": "en" },
