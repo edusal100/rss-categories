@@ -1,5 +1,5 @@
 {
-  "version": "2.1.5",
+  "version": "2.1.6",
   "categories": {
     "Tech": [
       { "name": "Actualidad iPhone", "url": "http://feeds.feedburner.com/actualidadiphone", "icon": "smartphone", "iconFamily": "Feather", "language": "es" },
@@ -219,6 +219,7 @@
       { "name": "La Jornada", "url": "https://www.jornada.com.mx/feeds/rss", "icon": "layers", "iconFamily": "Feather", "language": "es" },
       { "name": "Lopez Doriga", "url": "https://lopezdoriga.com/feed/", "icon": "layers-outline", "iconFamily": "Ionicons", "language": "es" },
       { "name": "Los Angeles Times", "url": "https://www.latimes.com/world/rss2.0.xml", "icon": "layers", "iconFamily": "Entypo", "language": "en" },
+      { "name": "MS NOW", "url": "https://www.ms.now/feed", "icon": "new", "iconFamily": "Entypo", "language": "en" },
       { "name": "NBC", "url": "https://feeds.nbcnews.com/nbcnews/public/news", "icon": "map", "iconFamily": "Feather", "language": "en" },
       { "name": "NDTV", "url": "https://feeds.feedburner.com/ndtvnews-world-news", "icon": "grid", "iconFamily": "Feather", "language": "en" },
       { "name": "NPR", "url": "https://feeds.npr.org/1001/rss.xml", "icon": "radio", "iconFamily": "Feather", "language": "en" },
