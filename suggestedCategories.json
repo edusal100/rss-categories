@@ -1,5 +1,5 @@
 {
-  "version": "2.1.7",
+  "version": "2.1.8",
   "categories": {
     "Tech": [
       { "name": "Actualidad iPhone", "url": "http://feeds.feedburner.com/actualidadiphone", "language": "es" },
@@ -205,6 +205,7 @@
       { "name": "BBC", "url": "http://feeds.bbci.co.uk/news/world/rss.xml", "language": "en" },
       { "name": "CBS", "url": "https://www.cbsnews.com/latest/rss/world", "language": "en" },
       { "name": "CBC", "url": "http://www.cbc.ca/cmlink/rss-world", "language": "en" },
+      { "name": "Chicago Sun Times", "url": "https://chicago.suntimes.com/rss/index.xml", "language": "en" },
       { "name": "CGTN China", "url": "https://www.cgtn.com/subscribe/rss/section/china.xml", "language": "en" },
       { "name": "Clarin", "url": "https://www.clarin.com/rss/lo-ultimo/", "language": "es" },
       { "name": "Daily Mirror", "url": "https://www.mirror.co.uk/news/world-news/?service=rss", "language": "en" },
@@ -222,7 +223,10 @@
       { "name": "MS NOW", "url": "https://www.ms.now/feed", "language": "en" },
       { "name": "NBC", "url": "https://feeds.nbcnews.com/nbcnews/public/news", "language": "en" },
       { "name": "NDTV", "url": "https://feeds.feedburner.com/ndtvnews-world-news", "language": "en" },
+      { "name": "News Week", "url": "https://www.newsweek.com/rss", "language": "en" },
+      { "name": "New York Post", "url": "https://nypost.com/feed/", "language": "en" },
       { "name": "NPR", "url": "https://feeds.npr.org/1001/rss.xml", "language": "en" },
+      { "name": "Observer", "url": "https://observer.com/feed/", "language": "en" },
       { "name": "Politico", "url": "https://rss.politico.com/magazine.xml", "language": "en" },
       { "name": "Proceso", "url": "https://www.proceso.com.mx/rss/feed.html?r=6", "language": "es" },
       { "name": "Reforma", "url": "https://www.reforma.com/rss/portada.xml", "language": "es" },
@@ -231,11 +235,13 @@
       { "name": "Sinembargo", "url": "https://www.sinembargo.mx/feed/", "language": "es" },
       { "name": "South China", "url": "https://www.scmp.com/rss/91/feed", "language": "en" },
       { "name": "Sydney Morning Herald", "url": "http://www.smh.com.au/rssheadlines/world/article/rss.xml", "language": "en" },
-      { "name": "The Sun", "url": "https://www.thesun.co.uk/news/worldnews/feed/", "language": "en" },
+      { "name": "The Intercept", "url": "https://theintercept.com/feed/?lang=en", "language": "en" },
       { "name": "The New York Times", "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml", "language": "en" },
+      { "name": "The Sun", "url": "https://www.thesun.co.uk/news/worldnews/feed/", "language": "en" },
+      { "name": "The Washington Times", "url": "https://www.washingtontimes.com/rss/headlines/news", "language": "en" },
       { "name": "Time", "url": "https://feeds.feedburner.com/time/world", "language": "en" },
       { "name": "Times of India", "url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms", "language": "en" },
-      { "name": "Vox World", "url": "https://www.vox.com/rss/world-politics/index.xml", "language": "en" },
+      { "name": "Vox", "url": "https://www.vox.com/rss/index.xml", "language": "en" },
       { "name": "Washington Post", "url": "https://feeds.washingtonpost.com/rss/world", "language": "en" },
       { "name": "Washington Times", "url": "https://www.washingtontimes.com/rss/headlines/news/world", "language": "en" }
     ],
