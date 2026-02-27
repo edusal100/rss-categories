@@ -1,5 +1,5 @@
 {
-  "version": "2.1.9",
+  "version": "2.2.0",
   "categories": {
     "Tech": [
       { "name": "Actualidad iPhone", "url": "http://feeds.feedburner.com/actualidadiphone", "language": "es" },
@@ -202,6 +202,7 @@
     "News": [
       { "name": "ABC", "url": "http://abcnews.go.com/abcnews/internationalheadlines", "language": "en" },
       { "name": "Aristegui Noticias", "url": "https://editorial.aristeguinoticias.com/feed/", "language": "es" },
+      { "name": "Axios", "url": "https://api.axios.com/feed/", "language": "en" },
       { "name": "BBC", "url": "http://feeds.bbci.co.uk/news/world/rss.xml", "language": "en" },
       { "name": "CBS", "url": "https://www.cbsnews.com/latest/rss/world", "language": "en" },
       { "name": "CBC", "url": "http://www.cbc.ca/cmlink/rss-world", "language": "en" },
