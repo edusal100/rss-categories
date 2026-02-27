@@ -1,5 +1,5 @@
 {
-  "version": "2.1.8",
+  "version": "2.1.9",
   "categories": {
     "Tech": [
       { "name": "Actualidad iPhone", "url": "http://feeds.feedburner.com/actualidadiphone", "language": "es" },
@@ -208,6 +208,7 @@
       { "name": "Chicago Sun Times", "url": "https://chicago.suntimes.com/rss/index.xml", "language": "en" },
       { "name": "CGTN China", "url": "https://www.cgtn.com/subscribe/rss/section/china.xml", "language": "en" },
       { "name": "Clarin", "url": "https://www.clarin.com/rss/lo-ultimo/", "language": "es" },
+      { "name": "CNN", "url": "http://rss.cnn.com/rss/cnn_us.rss", "language": "en" },
       { "name": "Daily Mirror", "url": "https://www.mirror.co.uk/news/world-news/?service=rss", "language": "en" },
       { "name": "Diario Red", "url": "https://www.diario-red.com/rss/", "language": "es" },
       { "name": "El Cronista", "url": "https://www.cronista.com/arc/outboundfeeds/news/", "language": "es" },
