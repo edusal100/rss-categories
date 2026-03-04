@@ -1,5 +1,5 @@
 {
-  "version": "2.2.1",
+  "version": "2.2.2",
   "categories": {
     "Tech": [ 
       { "name": "Actualidad iPhone", "url": "http://feeds.feedburner.com/actualidadiphone", "language": "es" },
@@ -13,8 +13,7 @@
       { "name": "Computer World Espana", "url": "https://www.computerworld.es/feed/", "language": "es" }, 
       { "name": "Digitaltrends Espanol", "url": "https://es.digitaltrends.com/feed/", "language": "es" }, 
       { "name": "El Pais Tecnologia", "url": "https://feeds.elpais.com/mrss-s/list/ep/site/elpais.com/section/tecnologia", "language": "es" }, 
-      { "name": "El Espanol", "url": "https://www.elespanol.com/rss/omicrono/", "language": "es" }, 
-      { "name": "El Espanol", "url": "https://www.elespanol.com/rss/omicrono/", "language": "es" }, 
+      { "name": "El Espanol", "url": "https://www.elespanol.com/rss/omicrono/", "language": "es" },
       { "name": "El Mundo", "url": "https://e01-elmundo.uecdn.es/rss/tecnologia.xml", "language": "es" }, 
       { "name": "Engadget", "url": "https://www.engadget.com/rss.xml", "language": "en" }, 
       { "name": "Gadget Hacks", "url": " https://www.gadgethacks.com/rss.xml", "language": "en" }, 
@@ -370,6 +369,7 @@
       { "name": "Closet Cooking", "url": "https://www.closetcooking.com/feed/", "language": "en" },
       { "name": "Damn Delicious", "url": "https://damndelicious.net/feed/", "language": "en" },
       { "name": "Eater", "url": "https://www.eater.com/rss/index.xml", "language": "en" },
+      { "name": "El Pais Gastronomia", "url": "https://feeds.elpais.com/mrss-s/list/ep/site/elpais.com/section/gastronomia/", "language": "es" },
       { "name": "El comidista", "url": "https://feeds.elpais.com/mrss-s/list/ep/site/elpais.com/section/gastronomia/subsection/el-comidista", "language": "es" },
       { "name": "Food & Environment", "url": "https://thefern.org/feed/", "language": "en" },
       { "name": "Food & Wine", "url": "https://feeds-api.dotdashmeredith.com/v1/rss/google/fdd0cc60-6e85-462a-a071-58da5a17711f", "language": "en" },
@@ -378,26 +378,21 @@
       { "name": "Food Faith Fitness", "url": "https://www.foodfaithfitness.com/feed/", "language": "en" },
       { "name": "Food Tank", "url": "https://foodtank.com/feed/", "language": "en" },
       { "name": "Healthy Happy Life", "url": "https://healthyhappylife.com/feed/", "language": "en" },
+      { "name": "Mesa Sana", "url": "https://mesasanamx.com/feed/", "language": "es" },
       { "name": "Minimalist Baker", "url": "https://minimalistbaker.com/feed/", "language": "en" },
+      { "name": "Piloncillo y Vainilla", "url": "https://www.piloncilloyvainilla.com/feed/", "language": "es" },
       { "name": "Pinch of Yum", "url": "http://pinchofyum.com/feed", "language": "en" },
       { "name": "Recipe Critic", "url": "https://therecipecritic.com/feed/", "language": "en" },
+      { "name": "Reforma Gourmet", "url": "https://www.reforma.com/rss/offlines/38.xml", "language": "es" },
       { "name": "Serious Eats", "url": "https://feeds-api.dotdashmeredith.com/v1/rss/standard/17e11a7f-5129-4b1e-b6e2-ccb43be260a9", "language": "en" },
       { "name": "Smitten Kitchen", "url": "http://feeds.feedburner.com/smittenkitchen", "language": "en" },
       { "name": "Teeny Tiny Kitchen", "url": "http://www.teenytinykitchen.com/feed/", "language": "en" },
       { "name": "The Lemon Bowl", "url": "https://thelemonbowl.com/feed/", "language": "en" },
       { "name": "Well Plated", "url": "https://www.wellplated.com/feed/", "language": "en" }
     ],
-    "Travel": [
-      { "name": "Blonde Abroad", "url": "http://theblondeabroad.com/feed", "language": "en" },
-      { "name": "CN Traveler", "url": "https://www.cntraveler.com/feed/rss", "language": "en" },
-      { "name": "Nomadic Matt", "url": "https://www.nomadicmatt.com/feed/", "language": "en" },
-      { "name": "Skift", "url": "https://skift.com/feed/", "language": "en" },
-      { "name": "The Point Guys", "url": "https://thepointsguy.com/feed/", "language": "en" },
-      { "name": "Travel Freak", "url": "https://travelfreak.com/feed/", "language": "en" },
-      { "name": "Travel Tour", "url": "https://www.travelandtourworld.com/feed/", "language": "en" }
-    ],
     "Design": [
       { "name": "a! Diseno", "url": "https://a.com.mx/feed/", "language": "es" },
+      { "name": "AD Diseno", "url": "https://www.revistaad.es/diseno", "language": "es" },
       { "name": "ArchDaily", "url": "https://www.archdaily.com/.xml", "language": "en" },
       { "name": "Architectural Digest", "url": "https://www.architecturaldigest.com/feed/rss", "language": "en" },
       { "name": "ART News", "url": "https://www.artnews.com/feed/", "language": "en" },
@@ -405,6 +400,7 @@
       { "name": "Art Review", "url": "https://artreview.com/rss.xml", "language": "en" },
       { "name": "Artnet", "url": "https://news.artnet.com/feed", "language": "en" },
       { "name": "Artists Network", "url": "https://www.artistsnetwork.com/feed/", "language": "en" },
+      { "name": "Arquitectura y diseno", "url": "https://www.arquitecturaydiseno.es/feeds/rss", "language": "es" },
       { "name": "Booooooom", "url": "https://www.booooooom.com/feed/", "language": "en" },
       { "name": "Building Design", "url": "https://www.bdonline.co.uk/6183.rss", "language": "en" },
       { "name": "Canvas", "url": "https://canvas.saatchiart.com/feed", "language": "en" },
@@ -417,6 +413,8 @@
       { "name": "Design you trust", "url": "https://designyoutrust.com/feed/", "language": "en" },
       { "name": "Dezeen", "url": "https://www.dezeen.com/feed/", "language": "en" },
       { "name": "Elle Decor", "url": "https://www.elledecor.com/rss/all.xml", "language": "en" },
+      { "name": "Graficatessen", "url": "https://graficatessen.es/", "language": "es" },
+      { "name": "Graffica", "url": "https://graffica.info/feed/", "language": "es" },
       { "name": "Hi Fructose", "url": "https://hifructose.com/feed/", "language": "en" },
       { "name": "Hiperallergic", "url": "https://hyperallergic.com/feed/", "language": "en" },
       { "name": "Hue & Eye", "url": "https://www.hueandeye.org/feed/", "language": "en" },
@@ -437,13 +435,16 @@
       { "name": "Yuxtapoz", "url": "https://www.juxtapoz.com/news/?format=feed&type=rss", "language": "en" }
     ],
     "Business": [
+      { "name": "Bloomberg", "url": "https://feeds.bloomberg.com/business/news.rss", "language": "en" },
+      { "name": "Business Insider", "url": "https://www.businessinsider.com/rss", "language": "en" },
       { "name": "El Economista", "url": "https://www.eleconomista.com.mx/rss/ultimas-noticias", "language": "es" },
       { "name": "El Financiero", "url": "https://www.elfinanciero.com.mx/arc/outboundfeeds/rss/?outputType=xml", "language": "es" },
+      { "name": "Enterpreneur Espanol", "url": "https://spanish.entrepreneur.com/feed", "language": "es" },
       { "name": "Fortune", "url": "https://fortune.com/feed/", "language": "en" },
       { "name": "Forbes", "url": "https://www.forbes.com/business/feed2/", "language": "en" },
-      { "name": "Financial Times", "url": "https://www.ft.com/?format=rss", "language": "en" },
-      { "name": "Bloomberg", "url": "https://feeds.bloomberg.com/business/news.rss", "language": "en" },
-      { "name": "Business Insider", "url": "https://www.businessinsider.com/rss", "language": "en" }
+      { "name": "Financial Times", "url": "https://www.ft.com/?format=rss", "language": "en" }
+      { "name": "Negocios", "url": "https://www.negocios.com/rss/", "language": "es" },
+      { "name": "Negocios y Emprendimientos", "url": "https://www.negociosyemprendimiento.org/feeds/posts/default?alt=rss", "language": "es" }
     ],
     "Cars": [
       { "name": "Auto Week", "url": "https://www.autoweek.com/rss/all.xml", "language": "en" },
@@ -451,7 +452,10 @@
       { "name": "Automotive Fleet", "url": "https://www.automotive-fleet.com/rss", "language": "en" },
       { "name": "Car Expert", "url": "https://www.carexpert.com.au/feed", "language": "en" },
       { "name": "Car and Driver", "url": "https://www.caranddriver.com/rss/all.xml", "language": "en" },
-      { "name": "Car and Driver ES", "url": "https://www.caranddriver.com/es/rss/all.xml", "language": "es" },
+      { "name": "Car and Driver Espanol", "url": "https://www.caranddriver.com/es/rss/all.xml", "language": "es" },
+      { "name": "Motor", "url": "https://www.motor.es/feed/", "language": "es" },
+      { "name": "Motor1 Espana", "url": "https://es.motor1.com/rss/articles/all/", "language": "es" },
+      { "name": "Motorpasion", "url": "https://www.motorpasion.com/feedburner.xml", "language": "es" },
       { "name": "Road & Track", "url": "https://www.roadandtrack.com/rss/all.xml", "language": "en" },
       { "name": "SlashGear", "url": "https://www.slashgear.com/feed/", "language": "en" },
       { "name": "Speedhunters", "url": "http://feeds.feedburner.com/Speedhunters", "language": "en" },
