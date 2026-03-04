@@ -1,5 +1,5 @@
 {
-  "version": "2.2.5",
+  "version": "2.2.6",
   "categories": {
     "Tech": [ 
       { "name": "Actualidad iPhone", "url": "http://feeds.feedburner.com/actualidadiphone", "language": "es" },
@@ -445,7 +445,7 @@
       { "name": "Enterpreneur Espanol", "url": "https://spanish.entrepreneur.com/feed", "language": "es" },
       { "name": "Fortune", "url": "https://fortune.com/feed/", "language": "en" },
       { "name": "Forbes", "url": "https://www.forbes.com/business/feed2/", "language": "en" },
-      { "name": "Financial Times", "url": "https://www.ft.com/?format=rss", "language": "en" }
+      { "name": "Financial Times", "url": "https://www.ft.com/?format=rss", "language": "en" },
       { "name": "Negocios", "url": "https://www.negocios.com/rss/", "language": "es" },
       { "name": "Negocios y Emprendimientos", "url": "https://www.negociosyemprendimiento.org/feeds/posts/default?alt=rss", "language": "es" },
       { "name": "Reuters", "url": "https://ir.thomsonreuters.com/rss/news-releases.xml?items=15", "language": "en" }
