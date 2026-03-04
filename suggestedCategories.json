@@ -1,5 +1,5 @@
 {
-  "version": "2.2.2",
+  "version": "2.2.4",
   "categories": {
     "Tech": [ 
       { "name": "Actualidad iPhone", "url": "http://feeds.feedburner.com/actualidadiphone", "language": "es" },
@@ -262,7 +262,8 @@
       { "name": "Mural", "url": "https://www.mural.com.mx/rss/portada.xml", "language": "es" }, 
       { "name": "NBC", "url": "https://feeds.nbcnews.com/nbcnews/public/news", "language": "en" }, 
       { "name": "NDTV", "url": "https://feeds.feedburner.com/ndtvnews-world-news", "language": "en" }, 
-      { "name": "News Week", "url": "https://www.newsweek.com/rss", "language": "en" }, 
+      { "name": "News Week", "url": "https://www.newsweek.com/rss", "language": "en" },
+      { "name": "News Nation", "url": "https://www.newsnationnow.com/feed/", "language": "en" },
       { "name": "New York Post", "url": "https://nypost.com/feed/", "language": "en" }, 
       { "name": "NPR", "url": "https://feeds.npr.org/1001/rss.xml", "language": "en" }, 
       { "name": "Observer", "url": "https://observer.com/feed/", "language": "en" }, 
@@ -285,7 +286,8 @@
       { "name": "Times of India", "url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms", "language": "en" }, 
       { "name": "Vanguardia", "url": "https://vanguardia.com.mx/rss.xml", "language": "es" }, 
       { "name": "Vox", "url": "https://www.vox.com/rss/index.xml", "language": "en" }, 
-      { "name": "Washington Post", "url": "https://feeds.washingtonpost.com/rss/world", "language": "en" } 
+      { "name": "Washington Post", "url": "https://feeds.washingtonpost.com/rss/world", "language": "en" },
+      { "name": "WSJ", "url": "https://feeds.content.dowjones.io/public/rss/RSSWorldNews", "language": "en" } 
     ],
     "Culture": [ 
       { "name": "20minutos", "url": "https://www.20minutos.es/rss/cultura/", "language": "es" }, 
@@ -444,7 +446,8 @@
       { "name": "Forbes", "url": "https://www.forbes.com/business/feed2/", "language": "en" },
       { "name": "Financial Times", "url": "https://www.ft.com/?format=rss", "language": "en" }
       { "name": "Negocios", "url": "https://www.negocios.com/rss/", "language": "es" },
-      { "name": "Negocios y Emprendimientos", "url": "https://www.negociosyemprendimiento.org/feeds/posts/default?alt=rss", "language": "es" }
+      { "name": "Negocios y Emprendimientos", "url": "https://www.negociosyemprendimiento.org/feeds/posts/default?alt=rss", "language": "es" },
+      { "name": "Reuters", "url": "https://ir.thomsonreuters.com/rss/news-releases.xml?items=15", "language": "en" }
     ],
     "Cars": [
       { "name": "Auto Week", "url": "https://www.autoweek.com/rss/all.xml", "language": "en" },
