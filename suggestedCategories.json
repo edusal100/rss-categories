@@ -1,5 +1,22 @@
 {
-  "version": "2.2.9",
+  "version": "2.3.0",
+  "translations": {
+    "es": {
+      "Tech": "Tech",
+      "Mobile": "Movil",
+      "Games": "Videojuegos",
+      "Sports": "Deportes",
+      "Movies": "Peliculas",
+      "News": "Noticias",
+      "Culture": "Cultura",
+      "Fashion": "Moda",
+      "Science": "Ciencia",
+      "Food": "Comida",
+      "Design": "Diseño",
+      "Business": "Negocios",
+      "Cars": "Autos"
+    }
+  },
   "categories": {
     "Tech": [ 
       { "name": "Actualidad iPhone", "url": "http://feeds.feedburner.com/actualidadiphone", "language": "es" },
