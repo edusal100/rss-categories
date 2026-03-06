@@ -1,5 +1,5 @@
 {
-  "version": "2.2.8",
+  "version": "2.2.9",
   "categories": {
     "Tech": [ 
       { "name": "Actualidad iPhone", "url": "http://feeds.feedburner.com/actualidadiphone", "language": "es" },
@@ -32,7 +32,6 @@
       { "name": "MIT AI", "url": "https://www.technologyreview.com/topic/artificial-intelligence/feed/", "language": "en" }, 
       { "name": "MIT Tech Espanol", "url": "https://technologyreview.es/feed/", "language": "es" }, 
       { "name": "MuyComputer", "url": "https://www.muycomputer.com/feed/", "language": "es" }, 
-      { "name": "Muy Interesante", "url": "https://muyinteresante.okdiario.com/feed/", "language": "es" }, 
       { "name": "ReadWrite", "url": "https://readwrite.com/feed/?x=1", "language": "en" }, 
       { "name": "Recode", "url": "https://www.vox.com/rss/technology/index.xml", "language": "en" }, 
       { "name": "Reseller", "url": "https://reseller.com.mx/feed/", "language": "es" }, 
