@@ -1,5 +1,5 @@
 {
-  "version": "2.3.0",
+  "version": "2.3.1",
   "translations": {
     "es": {
       "Tech": "Tech",
@@ -41,7 +41,6 @@
       { "name": "Hipertextual", "url": "https://hipertextual.com/feed", "language": "es" }, 
       { "name": "KDNuggets", "url": "https://www.kdnuggets.com/feed", "language": "en" }, 
       { "name": "La Opinion Tec", "url": "https://laopinion.com/categoria/tecnologia/feed/", "language": "es" }, 
-      { "name": "La Razon", "url": "https://www.larazon.es/tecnologia/", "language": "es" }, 
       { "name": "Mac Rumors", "url": "https://feeds.macrumors.com/MacRumors-All", "language": "en" }, 
       { "name": "Macworld", "url": "http://www.macworld.com/index.rss", "language": "en" }, 
       { "name": "MarkTechPost", "url": "https://www.marktechpost.com/feed/", "language": "en" }, 
@@ -430,7 +429,7 @@
       { "name": "Design you trust", "url": "https://designyoutrust.com/feed/", "language": "en" },
       { "name": "Dezeen", "url": "https://www.dezeen.com/feed/", "language": "en" },
       { "name": "Elle Decor", "url": "https://www.elledecor.com/rss/all.xml", "language": "en" },
-      { "name": "Graficatessen", "url": "https://graficatessen.es/", "language": "es" },
+      { "name": "Graficatessen", "url": "https://graficatessen.es/feed/", "language": "es" },
       { "name": "Graffica", "url": "https://graffica.info/feed/", "language": "es" },
       { "name": "Hi Fructose", "url": "https://hifructose.com/feed/", "language": "en" },
       { "name": "Hiperallergic", "url": "https://hyperallergic.com/feed/", "language": "en" },
