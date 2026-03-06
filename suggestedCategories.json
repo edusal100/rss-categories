@@ -1,5 +1,5 @@
 {
-  "version": "2.2.7",
+  "version": "2.2.8",
   "categories": {
     "Tech": [ 
       { "name": "Actualidad iPhone", "url": "http://feeds.feedburner.com/actualidadiphone", "language": "es" },
@@ -96,8 +96,7 @@
       { "name": "GameRant", "url": "https://gamerant.com/feed/", "language": "en" }, 
       { "name": "GameSpot", "url": "https://www.gamespot.com/feeds/mashup", "language": "en" }, 
       { "name": "Games Industry", "url": "https://www.gamesindustry.biz/feed", "language": "en" }, 
-      { "name": "GamesRadar", "url": "https://www.gamesradar.com/rss.xml", "language": "en" },
-      { "name": "Game Reactor Espana", "url": "https://www.gamereactor.es/rss/rss.php", "language": "es" }, 
+      { "name": "GamesRadar", "url": "https://www.gamesradar.com/rss.xml", "language": "en" }, 
       { "name": "Gaming on Linux", "url": "https://www.gamingonlinux.com/article_rss.php", "language": "en" }, 
       { "name": "Gematsu", "url": "https://www.gematsu.com/feed", "language": "en" }, 
       { "name": "Hard Zone", "url": "https://hardzone.es/feed/noticias/juegos/", "language": "es" }, 
