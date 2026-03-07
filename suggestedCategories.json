@@ -1,5 +1,5 @@
 {
-  "version": "2.3.2",
+  "version": "2.3.3",
   "translations": {
     "es": {
       "Tech": "Tech",
@@ -233,7 +233,8 @@
       { "name": "Clarin", "url": "https://www.clarin.com/rss/lo-ultimo/", "language": "es" },  
       { "name": "Daily Mirror", "url": "https://www.mirror.co.uk/news/world-news/?service=rss", "language": "en" }, 
       { "name": "Debate", "url": "https://www.debate.com.mx/rss/feed.xml", "language": "es" }, 
-      { "name": "Diario Red", "url": "https://www.diario-red.com/rss/", "language": "es" }, 
+      { "name": "Diario Red", "url": "https://www.diario-red.com/rss/", "language": "es" },
+      { "name": "Diario Red America Latina", "url": "https://www.diario-red.com/rss/america-latina/", "language": "es" },
       { "name": "El Cronista", "url": "https://www.cronista.com/arc/outboundfeeds/news/", "language": "es" }, 
       { "name": "El Diario de Yucatan", "url": "https://www.yucatan.com.mx/feed", "language": "es" }, 
       { "name": "El Deforma", "url": "https://eldeforma.com/feed/", "language": "es" }, 
