@@ -1,5 +1,5 @@
 {
-  "version": "2.3.3",
+  "version": "2.3.4",
   "translations": {
     "es": {
       "Tech": "Tech",
@@ -301,7 +301,7 @@
       { "name": "Hollywood Life", "url": "https://hollywoodlife.com/feed/", "language": "en" }, 
       { "name": "NPR Culture", "url": "https://feeds.npr.org/1008/rss.xml", "language": "en" }, 
       { "name": "Our Culture", "url": "https://ourculturemag.com/feed/", "language": "en" }, 
-      { "name": "People", "url": "https://feeds.distribution.dotdashmeredith.com/v3/rss/4780ef1e-1952-43da-abd9-3b7c690f1f72", "icon": "users", "iconFamily": "FontAwesome5", "language": "en" }, 
+      { "name": "People", "url": "https://feeds.distribution.dotdashmeredith.com/v3/rss/4780ef1e-1952-43da-abd9-3b7c690f1f72","language": "en" },
       { "name": "The honey POP", "url": "https://thehoneypop.com/feed/", "language": "en" }, 
       { "name": "TMZ", "url": "https://rss.feedspot.com/celebrity_gossip_rss_feeds/", "language": "en" }, 
       { "name": "US Weekly", "url": "https://www.usmagazine.com/feed/", "language": "en" }, 
