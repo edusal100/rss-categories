@@ -1,5 +1,5 @@
 {
-  "version": "2.3.4",
+  "version": "2.3.5",
   "translations": {
     "es": {
       "Tech": "Tech",
@@ -234,7 +234,7 @@
       { "name": "Daily Mirror", "url": "https://www.mirror.co.uk/news/world-news/?service=rss", "language": "en" }, 
       { "name": "Debate", "url": "https://www.debate.com.mx/rss/feed.xml", "language": "es" }, 
       { "name": "Diario Red", "url": "https://www.diario-red.com/rss/", "language": "es" },
-      { "name": "Diario Red America Latina", "url": "https://www.diario-red.com/rss/america-latina/", "language": "es" },
+      { "name": "Diario Red AL", "url": "https://www.diario-red.com/rss/america-latina/", "language": "es" },
       { "name": "El Cronista", "url": "https://www.cronista.com/arc/outboundfeeds/news/", "language": "es" }, 
       { "name": "El Diario de Yucatan", "url": "https://www.yucatan.com.mx/feed", "language": "es" }, 
       { "name": "El Deforma", "url": "https://eldeforma.com/feed/", "language": "es" }, 
@@ -271,7 +271,8 @@
       { "name": "Seattle Times", "url": "https://www.seattletimes.com/nation-world/world/feed/", "language": "en" }, 
       { "name": "Sinembargo", "url": "https://www.sinembargo.mx/feed/", "language": "es" }, 
       { "name": "South China", "url": "https://www.scmp.com/rss/91/feed", "language": "en" }, 
-      { "name": "Sydney Morning Herald", "url": "http://www.smh.com.au/rssheadlines/world/article/rss.xml", "language": "en" }, 
+      { "name": "Sydney Morning Herald", "url": "http://www.smh.com.au/rssheadlines/world/article/rss.xml", "language": "en" },
+      { "name": "The American Prospect", "url": "https://prospect.org/feed/", "language": "en" },
       { "name": "The Intercept", "url": "https://theintercept.com/feed/?lang=en", "language": "en" }, 
       { "name": "The New York Times", "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml", "language": "en" }, 
       { "name": "The Sun", "url": "https://www.thesun.co.uk/news/worldnews/feed/", "language": "en" }, 
