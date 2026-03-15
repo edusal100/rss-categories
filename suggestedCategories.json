@@ -1,5 +1,5 @@
 {
-  "version": "2.4.0",
+  "version": "2.4.1",
   "translations": {
     "es": {
       "Tech": "Tech",
@@ -582,7 +582,7 @@
       { "name": "Take to the road", "url": "https://www.taketotheroad.co.uk/feed/", "language": "en" },
       { "name": "The Car Expert", "url": "https://www.thecarexpert.co.uk/feed/", "language": "en" },
       { "name": "The Drive", "url": "https://www.thedrive.com/feed", "language": "en" },
-      { "name": "The Korean Cars", "url": "https://thekoreancarblog.com/feed/, "language": "en" },
+      { "name": "The Korean Cars", "url": "https://thekoreancarblog.com/feed/", "language": "en" },
       { "name": "The Truth about cars", "url": "https://www.thetruthaboutcars.com/rss/feed/all", "language": "en" },
       { "name": "Wards Auto", "url": "https://www.wardsauto.com/feeds/news/", "language": "en" }
     ]
