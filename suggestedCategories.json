@@ -1,5 +1,5 @@
 {
-  "version": "2.3.8",
+  "version": "2.3.9",
   "translations": {
     "es": {
       "Tech": "Tech",
@@ -27,7 +27,7 @@
       { "name": "CNET", "url": "https://www.cnet.com/rss/news/", "language": "en" },
       { "name": "Computing", "url": "https://www.computing.es/feed/", "language": "es" }, 
       { "name": "Computer Hoy", "url": "https://computerhoy.20minutos.es/rss/ultimas-noticias/", "language": "es" },
-      { "name": "Computer World", "url": "https://www.computerworld.com/comments/feed/", "language": "en" }
+      { "name": "Computer World", "url": "https://www.computerworld.com/comments/feed/", "language": "en" },
       { "name": "Computer World Espana", "url": "https://www.computerworld.es/feed/", "language": "es" },
       { "name": "Digitaltrends", "url": "https://www.digitaltrends.com/feed/", "language": "en" },
       { "name": "Digitaltrends Espanol", "url": "https://es.digitaltrends.com/feed/", "language": "es" }, 
