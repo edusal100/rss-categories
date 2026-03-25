@@ -1,5 +1,5 @@
 {
-  "version": "2.4.5",
+  "version": "2.4.6",
   "translations": {
     "es": {
       "Tech": "Tech",
@@ -522,7 +522,7 @@
         "name": "NextPit",
         "url": "https://www.nextpit.com/feed",
         "language": "en",
-        "image": "https://www.nextpit.com/wp-content/themes/charli/assets/images/icons/logos/np-icon-black.svg",
+        "image": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.nextpit.com&size=128",
         "description": "Real Tech for Real People."
       },
       {
@@ -571,7 +571,7 @@
         "name": "Topes de gama",
         "url": "https://topesdegama.com/feed",
         "language": "es",
-        "image": "https://topesdegama.com/imgs/sites/topesdegama.com/logo_feed.png",
+        "image": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://topesdegama.com&size=128",
         "description": "Noticias de tecnología, electrónica y dispositivos para el hogar. Análisis especializados, comparativas y recomendaciones expertas."
       },
       {
@@ -699,7 +699,7 @@
         "name": "Hobby Consolas",
         "url": "https://www.hobbyconsolas.com/rss",
         "language": "es",
-        "image": "https://www.hobbyconsolas.com/",
+        "image": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.hobbyconsolas.com&size=128",
         "description": "Últimas noticias en Hobby Consolas"
       },
       {
@@ -783,7 +783,7 @@
         "name": "Pocket Gamer",
         "url": "https://www.pocketgamer.com/index.rss",
         "language": "en",
-        "image": "https://static.steelserve.com/static.pocketgamer.com/img/logos/pg-logo-linear-grad.png",
+        "image": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.pocketgamer.com&size=128",
         "description": "Latest site updates"
       },
       {
@@ -908,10 +908,10 @@
         "description": "BBC Sport - Sport Front Page"
       },
       {
-        "name": "Bleacher Report",
+        "name": "ph Report",
         "url": "https://feeds.bleacherreport.com/articles",
         "language": "en",
-        "image": "https://www.google.com/s2/favicons?domain=feeds.bleacherreport.com&sz=128",
+        "image": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://bleacherreport.com&size=128",
         "description": "Bleacher Report - The latest articles about sports news, rumors, teams, events, and more."
       },
       {
@@ -1086,7 +1086,7 @@
         "name": "PhillyVoice",
         "url": "https://www.phillyvoice.com/feed/section/sports/",
         "language": "en",
-        "image": "https://phillyvoice.com/static/global/images/feed-logo.png",
+        "image": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.phillyvoice.com/&size=128",
         "description": "The Philadelphia Eagles currently have nine picks in the 2026 NFL Draft. Here we'll track each of the trades that change the Eagles' picks. So far, there have been 11."
       },
       {
@@ -1228,7 +1228,7 @@
         "name": "Cinemania",
         "url": "https://www.20minutos.es/rss/cinemania/",
         "language": "es",
-        "image": "https://www.20minutos.es/",
+        "image": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.20minutos.es/&size=128",
         "description": "Últimas noticias de Cinemanía - Streaming en 20MINUTOS.ES"
       },
       {
@@ -1298,7 +1298,7 @@
         "name": "Empire Online",
         "url": "https://rss.onebauer.media/api/feed-aggregator?hostname=https://www.empireonline.com",
         "language": "en",
-        "image": "https://www.google.com/s2/favicons?domain=rss.onebauer.media&sz=128",
+        "image": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.empireonline.com/&size=128",
         "description": "Latest news and content from www.empireonline.com"
       },
       {
@@ -1382,7 +1382,7 @@
         "name": "HobbyCine",
         "url": "https://www.hobbyconsolas.com/rss/hobbycine/",
         "language": "es",
-        "image": "https://www.hobbyconsolas.com/",
+        "image": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.hobbyconsolas.com/&size=128",
         "description": "Últimas noticias de Hobbycine en Hobby Consolas"
       },
       {
@@ -1473,7 +1473,7 @@
         "name": "Screen Anarchy",
         "url": "http://feeds.screenanarchy.com/sa-everything?format=xml",
         "language": "en",
-        "image": "https://www.google.com/s2/favicons?domain=feeds.screenanarchy.com&sz=128",
+        "image": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://screenanarchy.com/&size=128",
         "description": "Marama, the Maori gothic-horror from writer-director Taratoa Stappard, will arrive in theaters on April 17th. Distributed by Dark Sky FIlms and Watermelon Pictures, Marama is wrapping up its festival "
       },
       {
@@ -1587,7 +1587,7 @@
         "name": "Axios",
         "url": "https://api.axios.com/feed/",
         "language": "en",
-        "image": "https://www.google.com/s2/favicons?domain=api.axios.com&sz=128",
+        "image": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.axios.com/&size=128",
         "description": "Axios"
       },
       {
@@ -1685,14 +1685,14 @@
         "name": "Diario Red",
         "url": "https://www.diario-red.com/rss/",
         "language": "es",
-        "image": "https://www.diario-red.com/media/diariored/images/2024/07/26/2024072613165449892.png",
+        "image": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.diario-red.com/&size=128",
         "description": "Diario Red, aquí sí nos vamos a atrever. La actualidad con línea editorial de izquierdas, con rigor y sin miedo a la hora de señalar la corrupción mediática."
       },
       {
         "name": "Diario Red AL",
         "url": "https://www.diario-red.com/rss/america-latina/",
         "language": "es",
-        "image": "https://www.diario-red.com/media/diariored/images/2024/07/26/2024072613165449892.png",
+        "image": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.diario-red.com/&size=128",
         "description": "Diario Red, aquí sí nos vamos a atrever. La actualidad con línea editorial de izquierdas, con rigor y sin miedo a la hora de señalar la corrupción mediática."
       },
       {
@@ -1748,7 +1748,7 @@
         "name": "El Pais",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/ultimas-noticias/portada",
         "language": "es",
-        "image": "https://www.google.com/s2/favicons?domain=feeds.elpais.com&sz=128",
+        "image": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://elpais.com/=128",
         "description": "Consulta las últimas noticias de actualidad al minuto y la última hora de España, México, América y el mundo en EL PAÍS"
       },
       {
@@ -1762,7 +1762,7 @@
         "name": "El Siglo de Torreon",
         "url": "https://www.elsiglodetorreon.com.mx/index.xml",
         "language": "es",
-        "image": "https://www.elsiglodetorreon.com.mx/media/logos.svg",
+        "image": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.elsiglodetorreon.com.mx/=128",
         "description": "El Siglo de Torreón en Línea - Defensor de la Comunidad (Portada)"
       },
       {
@@ -1916,7 +1916,7 @@
         "name": "Politico",
         "url": "https://rss.politico.com/magazine.xml",
         "language": "en",
-        "image": "https://www.google.com/s2/favicons?domain=rss.politico.com&sz=128",
+        "image": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.politico.com/&size=128",
         "description": "News, Analysis and Opinion from POLITICO"
       },
       {
@@ -1979,7 +1979,7 @@
         "name": "Sydney Morning Herald",
         "url": "http://www.smh.com.au/rssheadlines/world/article/rss.xml",
         "language": "en",
-        "image": "https://www.smh.com.au/icons/rss/smh.png",
+        "image": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.smh.com.au/&size=128",
         "description": "The top News headlines from The Sydney Morning Herald. For all the news, visit https://www.smh.com.au"
       },
       {
@@ -2042,7 +2042,7 @@
         "name": "The Washington Post",
         "url": "https://feeds.washingtonpost.com/rss/world",
         "language": "en",
-        "image": "https://www.google.com/s2/favicons?domain=feeds.washingtonpost.com&sz=128",
+        "image": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.washingtonpost.com/&size=128",
         "description": "The Washington Post World section provides information and analysis of breaking world news stories. In addition to our world news and video, Post World News offers discussions and blogs on major inter"
       },
       {
@@ -2077,7 +2077,7 @@
         "name": "WSJ",
         "url": "https://feeds.content.dowjones.io/public/rss/RSSWorldNews",
         "language": "en",
-        "image": "http://online.wsj.com/img/wsj_sm_logo.gif",
+        "image": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.wsj.com/&size=128",
         "description": "World News"
       },
       {
