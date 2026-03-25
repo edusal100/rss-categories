@@ -1,5 +1,5 @@
 {
-  "version": "2.4.4",
+  "version": "2.4.5",
   "translations": {
     "es": {
       "Tech": "Tech",
@@ -72,7 +72,7 @@
         "name": "Computer Hoy",
         "url": "https://computerhoy.20minutos.es/rss/ultimas-noticias/",
         "language": "es",
-        "image": "https://computerhoy.20minutos.es/",
+        "image": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://computerhoy.20minutos.es/&size=128",
         "description": "Últimas noticias en Computer Hoy"
       },
       {
@@ -135,7 +135,7 @@
         "name": "Geekwire",
         "url": "https://www.geekwire.com/feed/",
         "language": "en",
-        "image": "https://www.geekwire.com/wp-content/themes/geekwire/dist/images/geekwire-logo-rss.png",
+        "image": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.geekwire.com/&size=128",
         "description": "Breaking News in Technology & Business"
       },
       {
@@ -282,7 +282,7 @@
         "name": "Silicon Republic",
         "url": "https://www.siliconrepublic.com/feed/",
         "language": "en",
-        "image": "https://www.siliconrepublic.com/logosmall.png",
+        "image": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.siliconrepublic.com/&size=128",
         "description": "Silicon Republic is a leading source for technology, science and start-up news, information and resources for people who are passionate about STEM."
       },
       {
