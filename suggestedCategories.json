@@ -1,5 +1,5 @@
 {
-  "version": "2.4.6",
+  "version": "2.4.7",
   "translations": {
     "es": {
       "Tech": "Tech",
@@ -107,7 +107,7 @@
         "name": "El Pais Tecnologia",
         "url": "https://feeds.elpais.com/mrss-s/list/ep/site/elpais.com/section/tecnologia",
         "language": "es",
-        "image": "https://www.google.com/s2/favicons?domain=feeds.elpais.com&sz=128",
+        "image": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://elpais.com/&size=128",
         "description": "Feed MRSS-S Noticias, elpais.com, tecnologia"
       },
       {
@@ -2093,7 +2093,7 @@
         "name": "20minutos",
         "url": "https://www.20minutos.es/rss/cultura/",
         "language": "es",
-        "image": "https://www.20minutos.es/",
+        "image": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.20minutos.es/&size=128",
         "description": "Últimas noticias de Cultura en 20MINUTOS.ES"
       },
       {
@@ -2156,14 +2156,14 @@
         "name": "El Pais Cultura",
         "url": "https://feeds.elpais.com/mrss-s/list/ep/site/elpais.com/section/cultura",
         "language": "es",
-        "image": "https://www.google.com/s2/favicons?domain=feeds.elpais.com&sz=128",
+        "image": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://elpais.com/&size=128",
         "description": "Feed MRSS-S Noticias, elpais.com, cultura"
       },
       {
         "name": "El Tiempo Cultura",
         "url": "https://www.eltiempo.com/rss/cultura.xml",
         "language": "es",
-        "image": "https://www.eltiempo.com/bundles/eltiempocms/images/et-rss.png",
+        "image": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.eltiempo.com/&size=128",
         "description": "Noticias de Todas las últimas noticias de Cultura en Colombia y el mundo.  Encuentre las principales noticias acerca de Cultura."
       },
       {
@@ -2305,7 +2305,7 @@
         "name": "El Pais - Moda",
         "url": "https://feeds.elpais.com/mrss-s/list/ep/site/elpais.com/section/smoda",
         "language": "es",
-        "image": "https://www.google.com/s2/favicons?domain=feeds.elpais.com&sz=128",
+        "image": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://elpais.com/&size=128",
         "description": "Feed MRSS-S Noticias, elpais.com, smoda"
       },
       {
@@ -2410,7 +2410,7 @@
         "name": "Telva",
         "url": "https://e00-telva.uecdn.es/rss/portada.xml",
         "language": "es",
-        "image": "https://e00-telva.uecdn.es/telva_144x144.png",
+        "image": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.telva.com/&size=128",
         "description": "Portada // telva"
       },
       {
@@ -2678,7 +2678,7 @@
         "name": "Scientific American",
         "url": "http://rss.sciam.com/ScientificAmerican-Global",
         "language": "en",
-        "image": "https://www.google.com/s2/favicons?domain=rss.sciam.com&sz=128",
+        "image": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.scientificamerican.com/&size=128",
         "description": "Scientific American is the essential guide to the most awe-inspiring advances in science and technology, explaining how they change our understanding of the world and shape our lives."
       },
       {
@@ -2792,14 +2792,14 @@
         "name": "El Pais Gastronomia",
         "url": "https://feeds.elpais.com/mrss-s/list/ep/site/elpais.com/section/gastronomia/",
         "language": "es",
-        "image": "https://www.google.com/s2/favicons?domain=feeds.elpais.com&sz=128",
+        "image": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://elpais.com/&size=128",
         "description": "Feed MRSS-S Noticias, elpais.com, gastronomia"
       },
       {
         "name": "El comidista",
         "url": "https://feeds.elpais.com/mrss-s/list/ep/site/elpais.com/section/gastronomia/subsection/el-comidista",
         "language": "es",
-        "image": "https://www.google.com/s2/favicons?domain=feeds.elpais.com&sz=128",
+        "image": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://elpais.com/&size=128",
         "description": "Feed MRSS-S Noticias, elpais.com, gastronomia, el-comidista"
       },
       {
@@ -2932,7 +2932,7 @@
         "name": "Serious Eats",
         "url": "https://feeds-api.dotdashmeredith.com/v1/rss/standard/17e11a7f-5129-4b1e-b6e2-ccb43be260a9",
         "language": "en",
-        "image": "https://d3ulcxkwj1c6q0.cloudfront.net/seriouseeats.png",
+        "image": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.seriouseats.com/&size=128",
         "description": "Latest recipes, food trends and culinary science"
       },
       {
@@ -3172,7 +3172,7 @@
         "name": "IdeasDi",
         "url": "https://ideasdi.com/feed/",
         "language": "es",
-        "image": "https://res.cloudinary.com/dfzkl8cpg/images/w_512,h_490,c_scale/f_auto,q_auto/v1708869175/cropped-ideasdi-1_105086b855_1050873b9b/cropped-ideasdi-1_105086b855_1050873b9b.jpg?_i=AA",
+        "image": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://ideasdi.com/&size=128",
         "description": "Actualidad creativa contemporánea"
       },
       {
@@ -3228,7 +3228,7 @@
         "name": "The Art Newspaper",
         "url": "https://www.theartnewspaper.com/rss.xml",
         "language": "en",
-        "image": "https://cdn.sanity.io/images/cxgd3urn/production/dcea4efb73fb822519018ba99442d5a1a9c11cb4-862x156.svg",
+        "image": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.theartnewspaper.com/&size=128",
         "description": "The Art Newspaper is the journal of record for the visual arts world, covering international news and events."
       },
       {
@@ -3249,7 +3249,7 @@
         "name": "Web Designer News",
         "url": "https://webdesignernews.com/feed/",
         "language": "en",
-        "image": "/wp-content/uploads/2022/10/cropped-favicon-1-32x32.png",
+        "image": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.webdesignernews.com/&size=128",
         "description": "Curated Stories for Web Designers"
       },
       {
@@ -3321,7 +3321,7 @@
         "name": "Fast Company",
         "url": "https://www.fastcompany.com/latest/rss?truncated=true",
         "language": "en",
-        "image": "https://www.fastcompany.com/asset_files/static/logos/fastcompany/fc-fb-icon_big.png",
+        "image": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.fastcompany.com/&size=128",
         "description": "Fast Company inspires a new breed of innovative and creative thought leaders who are actively inventing the future of business."
       },
       {
@@ -3398,7 +3398,7 @@
         "name": "Talking Biz",
         "url": "https://talkingbiznews.com/feed/",
         "language": "en",
-        "image": "https://talkingbiznews.com/wp-content/uploads/2022/07/tbn_logo.svg",
+        "image": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://talkingbiznews.com/&size=128",
         "description": "A business journalism site for pens in pursuit of the bottom line"
       }
     ],
