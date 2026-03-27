@@ -1,5 +1,5 @@
 {
-  "version": "2.4.8",
+  "version": "2.4.9",
   "translations": {
     "es": {
       "Tech": "Tech",
@@ -1820,6 +1820,13 @@
         "language": "es",
         "image": "https://www.google.com/s2/favicons?domain=www.infobae.com&sz=128",
         "description": "Infobae.com News Feed"
+      },
+      {
+        "name": "KPBS",
+        "url": "https://www.kpbs.org/index.rss",
+        "language": "en",
+        "image": "https://www.google.com/s2/favicons?domain=https://www.kpbs.org/&sz=128",
+        "description": "PBS and NPR for San Diego, California. Get the latest news, listen online, watch the latest episodes, check our schedules, become a member."
       },
       {
         "name": "Lopez Doriga",
