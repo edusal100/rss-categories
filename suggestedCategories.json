@@ -1,5 +1,5 @@
 {
-  "version": "2.4.9",
+  "version": "2.5.0",
   "translations": {
     "es": {
       "Tech": "Tech",
@@ -1813,6 +1813,13 @@
         "language": "en",
         "image": "https://www.google.com/s2/favicons?domain=globalnews.ca&sz=128",
         "description": "Global News World -  breaking international news & current world news headlines; international money news and business news on GlobalNews.ca"
+      },
+      {
+        "name": "Harpers",
+        "url": "https://harpers.org/feed/",
+        "language": "en",
+        "image": "https://wp.harpers.org/wp-content/uploads/2021/11/cropped-android-chrome-512x512-1-32x32.png",
+        "description": "Harper's Magazine"
       },
       {
         "name": "Infobae",
