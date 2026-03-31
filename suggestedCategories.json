@@ -1,5 +1,5 @@
 {
-  "version": "2.5.0",
+  "version": "2.5.1",
   "translations": {
     "es": {
       "Tech": "Tech",
@@ -188,6 +188,13 @@
         "description": "Últimas Noticias de Los Ángeles, EEUU, y El Mundo"
       },
       {
+        "name": "Linux Journal",
+        "url": "https://www.linuxjournal.com/node/feed",
+        "language": "en",
+        "image": "https://www.google.com/s2/favicons?domain=https://www.linuxjournal.com/&sz=128",
+        "description": "Started in 1994, Linux Journal has become well-known asthe Linux community's most trusted-source of information."
+      },
+      {
         "name": "MacRumors",
         "url": "https://feeds.macrumors.com/MacRumors-All",
         "language": "en",
@@ -242,6 +249,13 @@
         "language": "es",
         "image": "https://www.muylinux.com/wp-content/uploads/2022/05/cropped-ML_FAVICON_2022-32x32.png",
         "description": "La gráficas dedicadas de Intel han sido una de las grandes decepciones tecnológicas que se hayan visto en la historia del escritorio Linux, sobre todo por culpa de que la compañía decidió medio abando"
+      },
+      {
+        "name": "OMG Ubuntu",
+        "url": "https://www.omgubuntu.co.uk/feed",
+        "language": "en",
+        "image": "https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2023/11/cropped-siteidentify.jpg?fit=32%2C32&#038;ssl=1",
+        "description": "Ubuntu News, Apps, Tips & More"
       },
       {
         "name": "O'Reilly",
