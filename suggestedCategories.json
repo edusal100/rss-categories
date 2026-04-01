@@ -1,5 +1,5 @@
 {
-  "version": "2.5.1",
+  "version": "2.5.2",
   "translations": {
     "es": {
       "Tech": "Tech",
@@ -248,7 +248,7 @@
         "url": "https://www.muylinux.com/feed/",
         "language": "es",
         "image": "https://www.muylinux.com/wp-content/uploads/2022/05/cropped-ML_FAVICON_2022-32x32.png",
-        "description": "La gráficas dedicadas de Intel han sido una de las grandes decepciones tecnológicas que se hayan visto en la historia del escritorio Linux, sobre todo por culpa de que la compañía decidió medio abando"
+        "description": "MuyLinux es la publicación on-line de referencia sobre Unix/Linux y Open Source, el medio en el que encontrar la mejor información sobre nuevas tecnologías."
       },
       {
         "name": "OMG Ubuntu",
@@ -332,7 +332,7 @@
         "url": "https://thenewstack.io/blog/feed/",
         "language": "en",
         "image": "https://www.google.com/s2/favicons?domain=thenewstack.io&sz=128",
-        "description": "If you’re a platform engineering leader managing Kubernetes at scale, a new pressure has entered the room. The business wants The post Your Kubernetes isn’t ready for AI workloads, and drift is the re"
+        "description": "The latest news and resources on cloud native technologies, distributed systems and data architectures with emphasis on DevOps and open source projects."
       },
       {
         "name": "The Next Web",
@@ -630,7 +630,7 @@
         "url": "https://www.digitalfoundry.net/feeds/latest",
         "language": "en",
         "image": "https://images.digitalfoundry.net/site/icon/128x128.png",
-        "description": "But the lack of a 120fps option feels like a missed opportunity.2023's Super Mario Bros Wonder took one of the top spots on my Game of the Year list that year and, for good reason, it's arguably the b"
+        "description": "Digital Foundry was founded in 2004 and specialises in technical analysis of video games and hardware, using our own bespoke tools for frame-rate analysis."
       },
       {
         "name": "DualShockers",
@@ -728,7 +728,7 @@
         "url": "https://latam.ign.com/feed.xml",
         "language": "es",
         "image": "https://www.google.com/s2/favicons?domain=latam.ign.com&sz=128",
-        "description": "Estreno mundial confirmado para Navidad de 2026 en HBO Max. Warner Bros. Discovery encendió la chispa de la nostalgia y la expectativa al revelar el título, primer tráiler y fecha de estreno de su ant"
+        "description": "IGN Latinoamérica es el lugar para noticias de videojuegos, reviews, previews, videos, noticias y trailers de cine, televisión, comics y todo lo que amas."
       },
       {
         "name": "Instant Gaming Espanol",
@@ -763,7 +763,7 @@
         "url": "https://www.nintendolife.com/feeds/latest",
         "language": "en",
         "image": "https://images.nintendolife.com/site/icon/128x128.png",
-        "description": "REmind me.22nd March 2026 marked the 30th anniversary of the Japanese launch of Resident Evil — or Biohazard — on PlayStation. To celebrate, we'll be publishing various articles this week focused on C"
+        "description": "The world's most popular Nintendo News & Reviews website covering everything Nintendo Switch, eShop and retro/classic Nintendo."
       },
       {
         "name": "PC Gamer",
@@ -947,7 +947,7 @@
         "url": "https://deadspin.com/rss/",
         "language": "en",
         "image": "https://www.google.com/s2/favicons?domain=deadspin.com&sz=128",
-        "description": "Singer-songwriter Darius Rucker confirmed Wednesday that he has joined the ownership group for NASCAR's Legacy Motor Club.,The team co-owned by seven-"
+        "description": "Deadspin brings you the latest sports news, stories, videos, and more."
       },
       {
         "name": "Defector",
@@ -982,7 +982,7 @@
         "url": "https://www.essentiallysports.com/feed/",
         "language": "en",
         "image": "https://image-cdn.essentiallysports.com/wp-content/uploads/Logo-Full-1.png",
-        "description": "Ohio State’s 2025 season came to an abrupt end due to its special teams woes. The Buckeye placekicker Jayden Fielding, who has put up impressive numbers overall, failed to deliver in clutch moments ye"
+        "description": "EssentiallySports is a U.S.-based sports media platform built for modern fandom."
       },
       {
         "name": "Fichajes",
@@ -1115,7 +1115,7 @@
         "url": "https://www.sport.es/es/rss/deportes/rss.xml",
         "language": "es",
         "image": "https://www.google.com/s2/favicons?domain=www.sport.es&sz=128",
-        "description": "La escena del baile urbano vuelve a encenderse en España con el regreso de Red Bull Dance Your Style, una de las competiciones más disruptivas del panorama global. En su séptima edición, el formato ma"
+        "description": "Noticias del Barça, La Liga, fútbol y otros deportes."
       },
       {
         "name": "Sporting News",
@@ -1208,7 +1208,7 @@
         "url": "https://www.boxofficepro.com/feed/",
         "language": "en",
         "image": "https://www.google.com/s2/favicons?domain=www.boxofficepro.com&sz=128",
-        "description": "Please enable cookies.                     Sorry, you have been blocked         You are unable to access boxofficepro.com                                                                               "
+        "description": "Boxoffice is the world's premiere source of information about the global cinema industry"
       },
       {
         "name": "CinemaBlend",
@@ -1355,7 +1355,7 @@
         "url": "https://www.filmibeat.com/rss/feeds/filmibeat-fb.xml",
         "language": "en",
         "image": "https://www.google.com/s2/favicons?domain=www.filmibeat.com&sz=128",
-        "description": "Please enable cookies.                     Sorry, you have been blocked         You are unable to access filmibeat.com                                                                                  "
+        "description": "Latest Movie News - Filmibeat provides Movie News & cast crew details of Bollywood movies & Hollywood movies."
       },
       {
         "name": "Film Independent",
@@ -1588,7 +1588,7 @@
         "url": "http://abcnews.go.com/abcnews/internationalheadlines",
         "language": "en",
         "image": "https://s.abcnews.com/images/site/abcnews_google_rss_logo.png",
-        "description": "British police are hunting three suspects after an arson attack on ambulances that has left Britain's Jewish community feeling vulnerable"
+        "description": "Your trusted source for breaking news, analysis, exclusive interviews, headlines, and videos."
       },
       {
         "name": "Aristegui Noticias",
@@ -1651,7 +1651,7 @@
         "url": "https://chicago.suntimes.com/rss/index.xml",
         "language": "en",
         "image": "https://www.google.com/s2/favicons?domain=chicago.suntimes.com&sz=128",
-        "description": "<p>West Suburban Medical Center is temporarily shutting its doors and furloughing \"many\" employees as it struggles to pay staff, according to the Oak Park hospital's owner, Manoj Prasad. </p><p>Prasad"
+        "description": "Chicago news, politics, sports, entertainment and more from America's hardest-working paper."
       },
       {
         "name": "Clarin",
@@ -1693,7 +1693,7 @@
         "url": "https://www.debate.com.mx/rss/feed.xml",
         "language": "es",
         "image": "https://www.google.com/s2/favicons?domain=www.debate.com.mx&sz=128",
-        "description": "Ups! Something went wrong  \t\t\tLo sentimos pero tu petición ha sido bloqueada por razones de seguridad. Esto puede deberse al uso de una VPN o visitas desde países que no están permitidos. \t\t\tSi consid"
+        "description": "Entérate al momento de las noticias más relevantes de México y el mundo."
       },
       {
         "name": "Diario Red",
@@ -1798,7 +1798,7 @@
         "url": "https://www.firstpost.com/commonfeeds/v1/mfp/rss/world.xml",
         "language": "en",
         "image": "https://www.google.com/s2/favicons?domain=www.firstpost.com&sz=128",
-        "description": "Access Denied   You don't have permission to access \"http://www.firstpost.com/commonfeeds/v1/mfp/rss/world.xml\" on this server. Reference #18.ea6ac917.1774469373.6f5edc08 https://errors.edgesuite.net/"
+        "description": "Get the latest news headlines today with breaking news, live updates, and top stories from World, India, Sports, Entertainment and more on Firstpost."
       },
       {
         "name": "Fox 2 Now",
@@ -1924,7 +1924,7 @@
         "url": "https://www.newsday.com/api/rss/recent",
         "language": "en",
         "image": "https://www.google.com/s2/favicons?domain=www.newsday.com&sz=128",
-        "description": "Jalen Brunson scored 32 points, including 15 in the fourth quarter."
+        "description": "Breaking News, data & opinions in business, sports, entertainment, travel, lifestyle, plus much more. "
       },
       {
         "name": "NPR",
@@ -1994,7 +1994,7 @@
         "url": "https://www.sinembargo.mx/feed/",
         "language": "es",
         "image": "https://www.google.com/s2/favicons?domain=www.sinembargo.mx&sz=128",
-        "description": "Enable JavaScript and cookies to continue&&&&&&"
+        "description": "SinEmbargo es un medio digital con rigor; con responsabilidad."
       },
       {
         "name": "South China",
@@ -2518,7 +2518,7 @@
         "url": "https://civicsciencemedia.org/feed/",
         "language": "en",
         "image": "https://www.google.com/s2/favicons?domain=civicsciencemedia.org&sz=128",
-        "description": "Not Acceptable!An appropriate representation of the requested resource could not be found on this server. This error was generated by Mod_Security."
+        "description": "The CS Media Lab is a collective with local, national and global coverage about the practice of civic science on TV, digital print, and radio."
       },
       {
         "name": "Earth University",
@@ -2560,12 +2560,12 @@
         "url": "https://indianexpress.com/section/technology/science/feed/",
         "language": "en",
         "image": "https://www.google.com/s2/favicons?domain=indianexpress.com&sz=128",
-        "description": "Access Denied   You don't have permission to access \"http://indianexpress.com/section/technology/science/feed/\" on this server. Reference #18.ef6ac917.1774469385.618574ce https://errors.edgesuite.net/"
+        "description": "Science News Updates: Get Latest Breaking News, Photos and Video News on Science."
       },
       {
         "name": "Lake Scienctist",
         "url": "https://www.lakescientist.com/feed/",
-        "language": "es",
+        "language": "en",
         "image": "https://www.google.com/s2/favicons?domain=www.lakescientist.com&sz=128",
         "description": "The online source for lake science and technology"
       },
@@ -2896,7 +2896,7 @@
       {
         "name": "Love & Lemon",
         "url": "https://www.loveandlemons.com/feed/",
-        "language": "es",
+        "language": "en",
         "image": "https://www.google.com/s2/favicons?domain=www.loveandlemons.com&sz=128",
         "description": "Healthy, whole food, vegan and vegetarian recipes"
       },
@@ -3082,7 +3082,7 @@
         "url": "https://www.arquitecturaydiseno.es/feeds/rss",
         "language": "es",
         "image": "https://www.google.com/s2/favicons?domain=www.arquitecturaydiseno.es&sz=128",
-        "description": "Access Denied   You don't have permission to access \"http://www.arquitecturaydiseno.es/feeds/rss\" on this server. Reference #18.a41e3f17.1774469394.3bf1bbd8 https://errors.edgesuite.net/18.a41e3f17.17"
+        "description": "Descubre las mejores casas y espacios, con ideas de diseño, decoración e interiorismo, así como las tendencias en el mundo de la arquitectura"
       },
       {
         "name": "Booooooom",
@@ -3194,7 +3194,7 @@
         "url": "https://www.hueandeye.org/feed/",
         "language": "en",
         "image": "https://www.google.com/s2/favicons?domain=www.hueandeye.org&sz=128",
-        "description": "Not Acceptable!An appropriate representation of the requested resource could not be found on this server. This error was generated by Mod_Security."
+        "description": "Discover Hue & Eye, an online magazine featuring emerging artists, design trends, and creative stories across digital art, illustration, and visual culture."
       },
       {
         "name": "IdeasDi",
@@ -3436,7 +3436,7 @@
         "url": "http://www.autoblog.com/rss.xml",
         "language": "en",
         "image": "https://www.google.com/s2/favicons?domain=www.autoblog.com&sz=128",
-        "description": "Please enable JS and disable any ad blocker"
+        "description": "All News articles from Autoblog.com"
       },
       {
         "name": "Auto Extremist",
@@ -3520,7 +3520,7 @@
         "url": "https://www.edmunds.com/feeds/rss/articles.xml",
         "language": "en",
         "image": "https://www.google.com/s2/favicons?domain=www.edmunds.com&sz=128",
-        "description": "Access Denied   You don't have permission to access \"http://www.edmunds.com/feeds/rss/articles.xml\" on this server. Reference #18.8a36c517.1774469401.20d1dac2 https://errors.edgesuite.net/18.8a36c517."
+        "description": "Resources for every car shopper - all in one place ."
       },
       {
         "name": "Good car",
