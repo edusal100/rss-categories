@@ -1,5 +1,5 @@
 {
-  "version": "2.5.2",
+  "version": "2.5.3",
   "translations": {
     "es": {
       "Tech": "Tech",
@@ -922,11 +922,32 @@
         "description": "BBC Sport - Sport Front Page"
       },
       {
-        "name": "ph Report",
+        "name": "Bleacher Report",
         "url": "https://feeds.bleacherreport.com/articles",
         "language": "en",
         "image": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://bleacherreport.com&size=128",
         "description": "Bleacher Report - The latest articles about sports news, rumors, teams, events, and more."
+      },
+      {
+        "name": "Bolavip Argentina",
+        "url": "https://bolavip.com/ar/rss/feed",
+        "language": "es",
+        "image": "https://www.google.com/s2/favicons?domain=https://bolavip.com/mx&sz=128",
+        "description": "Últimas noticias: Lionel Messi, Fútbol argentino, Copa de la Liga Profesional, Selección Argentina, Eliminatorias Sudamericanas"
+      },
+      {
+        "name": "Bolavip Chile",
+        "url": "https://bolavip.com/cl/rss/feed",
+        "language": "es",
+        "image": "https://www.google.com/s2/favicons?domain=https://bolavip.com/mx&sz=128",
+        "description": "Las últimas noticias: Alexis Sánchez, Arturo Vidal, Fútbol Chileno, Primera División, Selección de Chile, Eliminatorias Sudamericanas"
+      },
+      {
+        "name": "Bolavip Mexico",
+        "url": "https://bolavip.com/mx/rss/feed",
+        "language": "es",
+        "image": "https://www.google.com/s2/favicons?domain=https://bolavip.com/mx&sz=128",
+        "description": "Noticias deportivas de México. Cobertura especializada sobre la Liga MX, Selección de México, Club América, Chivas de Guadalajara, Cruz Azul"
       },
       {
         "name": "Boxing News",
@@ -1612,6 +1633,13 @@
         "description": "BBC News - World"
       },
       {
+        "name": "Bio Bio Chile",
+        "url": "https://feeds.feedburner.com/radiobiobio/NNeJ",
+        "language": "es",
+        "image": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.biobiochile.cl/&size=128",
+        "description": "Todas las Noticias · Zona Norte · Valparaíso · Metropolitana · O'Higgins / Maule / Ñuble"
+      },
+      {
         "name": "Boston",
         "url": "https://www.boston.com/feed/",
         "language": "en",
@@ -1619,11 +1647,18 @@
         "description": "Boston.com"
       },
       {
+        "name": "Buenos Aires Times",
+        "url": "https://www.batimes.com.ar/feed",
+        "language": "en",
+        "image": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.batimes.com.ar/&size=128",
+        "description": "Argentina's only English-language newspaper. News from Argentina and beyond – in English."
+      },
+      {
         "name": "Buzzfeed",
         "url": "https://www.buzzfeed.com/in/world.xml",
         "language": "en",
         "image": "https://webappstatic.buzzfeed.com/static/images/public/rss/logo.png",
-        "description": "BuzzFeed has breaking news, vital journalism, quizzes, videos, celeb news, Tasty food videos, recipes, DIY hacks, and all the trending buzz you’ll want to share with your friends. Copyright BuzzFeed, "
+        "description": "BuzzFeed has breaking news, vital journalism, quizzes, videos, celeb news, Tasty food videos, recipes, DIY hacks, and all the trending buzz you’ll want to share with your friends. Copyright BuzzFeed."
       },
       {
         "name": "CBS",
@@ -1696,6 +1731,13 @@
         "description": "Entérate al momento de las noticias más relevantes de México y el mundo."
       },
       {
+        "name": "Diario Libre",
+        "url": "https://www.diariolibre.com/rss/actualidad.xml",
+        "language": "es",
+        "image": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.diariolibre.com/&size=128",
+        "description": "Diario Libre: el periódico líder en noticias de República Dominicana y la comunidad dominicana global."
+      },
+      {
         "name": "Diario Red",
         "url": "https://www.diario-red.com/rss/",
         "language": "es",
@@ -1711,10 +1753,17 @@
       },
       {
         "name": "Drop Site",
-        "url": "https://www.dropsitenews.com/feed",
+        "url": "https://rss.dw.com/rdf/rss-en-all",
         "language": "en",
         "image": "https://substackcdn.com/image/fetch/$s_!zpj1!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd2d87db0-af47-44ef-847e-8d9ff64e30ff_688x688.png",
         "description": "Independent news on politics and war"
+      },
+      {
+        "name": "DW",
+        "url": "https://www.dropsitenews.com/feed",
+        "language": "en",
+        "image": "https://www.google.com/s2/favicons?domain=https://www.dw.com//&sz=128",
+        "description": "News, off-beat stories and analysis of German and international affairs."
       },
       {
         "name": "El Cronista",
@@ -1764,6 +1813,13 @@
         "language": "es",
         "image": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://elpais.com/=128",
         "description": "Consulta las últimas noticias de actualidad al minuto y la última hora de España, México, América y el mundo en EL PAÍS"
+      },
+      {
+        "name": "El Mundo",
+        "url": "https://www.elmundo.es/rss/googlenews/portada.xml",
+        "language": "es",
+        "image": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.elmundo.es/=128",
+        "description": "Noticias, actualidad, álbumes, debates, sociedad, servicios, entretenimiento y última hora en España y el mundo."
       },
       {
         "name": "El Norte",
@@ -1848,6 +1904,20 @@
         "language": "en",
         "image": "https://www.google.com/s2/favicons?domain=https://www.kpbs.org/&sz=128",
         "description": "PBS and NPR for San Diego, California. Get the latest news, listen online, watch the latest episodes, check our schedules, become a member."
+      },
+      {
+        "name": "La Nacion",
+        "url": "https://www.lanacion.com.ar/arc/outboundfeeds/rss/?outputType=xml",
+        "language": "es",
+        "image": "https://www.google.com/s2/favicons?domain=https://www.lanacion.com.ar/&sz=128",
+        "description": "LA NACION ofrece las últimas noticias, fotos y videos de la Argentina y el mundo. Política, economía, deportes y toda la información en tiempo real."
+      },
+      {
+        "name": "La Republica",
+        "url": "https://larepublica.pe/rss/home.xml",
+        "language": "es",
+        "image": "https://www.google.com/s2/favicons?domain=https://larepublica.pe/&sz=128",
+        "description": "La República: Últimas noticias del Perú y el Mundo"
       },
       {
         "name": "Lopez Doriga",
@@ -2081,10 +2151,10 @@
         "description": "Yucatan News, Politics, Economics and more..."
       },
       {
-        "name": "Times of India",
+        "name": "The Times of India",
         "url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
         "language": "en",
-        "image": "https://timesofindia.indiatimes.com/photo/507610.cms",
+        "image": "https://www.google.com/s2/favicons?domain=https://timesofindia.indiatimes.com/&sz=128",
         "description": "World News Today: Read the latest world news headlines, Current International breaking news world wide. In depth analysis and top news headlines world wide."
       },
       {
@@ -2214,6 +2284,20 @@
         "language": "en",
         "image": "https://www.google.com/s2/favicons?domain=www.gq.com&sz=128",
         "description": "The latest from www.gq.com"
+      },
+      {
+        "name": "Hola Americas",
+        "url": "https://www.hola.com/feeds/rss/am/any/any/50.xml",
+        "language": "es",
+        "image": "https://www.google.com/s2/favicons?domain=https://www.hola.com/mexico/&sz=128",
+        "description": "HOLA! Américas: Celebridades y entretenimiento, novedades sobre la realeza mundial, moda, belleza y más en America Latina, Estados Unidos"
+      },
+      {
+        "name": "Hola Mexico",
+        "url": "https://www.hola.com/feeds/rss/co/any/any/50.xml",
+        "language": "es",
+        "image": "https://www.google.com/s2/favicons?domain=https://www.hola.com/mexico/&sz=128",
+        "description": "Número 1 en actualidad y tendencias de moda, belleza y estilo de vida. Noticias diarias sobre las estrellas de cine, la música y la actualidad"
       },
       {
         "name": "Hollywood Life",
