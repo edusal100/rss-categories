@@ -1,5 +1,5 @@
 {
-  "version": "2.5.3",
+  "version": "2.5.4",
   "translations": {
     "es": {
       "Tech": "Tech",
@@ -1623,7 +1623,14 @@
         "url": "https://api.axios.com/feed/",
         "language": "en",
         "image": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.axios.com/&size=128",
-        "description": "Axios"
+        "description": "Smart, efficient news worthy of your time, attention, and trust."
+      },
+      {
+        "name": "Azteca Noticias",
+        "url": "https://www.tvazteca.com/aztecanoticias/rss-gpc-seo-noticias.rss",
+        "language": "es",
+        "image": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.tvazteca.com/aztecanoticias/&size=128",
+        "description": "Azteca Noticias, los Hechos EN VIVO con Javier Alatorre. Las noticias de México y el mundo por Fuerza Informativa Azteca."
       },
       {
         "name": "BBC",
@@ -1766,11 +1773,18 @@
         "description": "News, off-beat stories and analysis of German and international affairs."
       },
       {
+        "name": "El Comercio Peru",
+        "url": "https://elcomercio.pe/arc/outboundfeeds/rss/?outputType=xml",
+        "language": "es",
+        "image": "https://www.google.com/s2/favicons?domain=https://elcomercio.pe/&sz=128",
+        "description": "Últimas noticias, fotos, y videos de Perú y el mundo en El Comercio Perú."
+      },
+      {
         "name": "El Cronista",
         "url": "https://www.cronista.com/arc/outboundfeeds/news/",
         "language": "es",
         "image": "https://www.google.com/s2/favicons?domain=www.cronista.com&sz=128",
-        "description": "News para Agencia"
+        "description": "El Cronista es uno de los Diarios Económicos de Argentina más valorados. Es la fuente más confiable de información sobre Economía, Finanzas y Negocios."
       },
       {
         "name": "El Diario",
@@ -3380,6 +3394,13 @@
       }
     ],
     "Business": [
+      {
+        "name": "Cinco Dias",
+        "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/cincodias.elpais.com/portada",
+        "language": "es",
+        "image": "https://www.google.com/s2/favicons?domain=https://cincodias.elpais.com/&sz=128",
+        "description": "Noticias de última hora sobre economía, mercados, pymes y emprendedores, empresas, finanzas y tecnología en Cinco Días y EL PAÍS Economía"
+      },
       {
         "name": "All Business",
         "url": "https://www.allbusiness.com/feeds/feed.rss",
