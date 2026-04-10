@@ -1,5 +1,5 @@
 {
-  "version": "2.5.4",
+  "version": "2.5.5",
   "translations": {
     "es": {
       "Tech": "Tech",
@@ -1788,10 +1788,17 @@
       },
       {
         "name": "El Diario",
-        "url": "https://www.eldiario.es/rss/",
+        "url": "https://diario.mx/rss/feed.xml",
         "language": "es",
         "image": "https://www.eldiario.es/assets/img/logos/eldiario-default.h-3190b80928a7e6cf79571e28cef7bdca.png",
         "description": "elDiario.es - elDiario.es"
+      },
+      {
+        "name": "El Diario de Juarez",
+        "url": "https://www.eldiario.es/rss/",
+        "language": "es",
+        "image": "https://www.google.com/s2/favicons?domain=https://diario.mx/&sz=128",
+        "description": "Últimas noticias en tiempo real de Ciudad Juárez, Chihuahua, Mexico y el Mundo."
       },
       {
         "name": "El Diario de Yucatan",
