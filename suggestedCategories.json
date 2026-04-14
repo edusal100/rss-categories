@@ -1,5 +1,5 @@
 {
-  "version": "2.5.5",
+  "version": "2.5.6",
   "translations": {
     "es": {
       "Tech": "Tech",
@@ -1605,6 +1605,13 @@
         "description": "La nueva era del periodismo"
       },
       {
+        "name": "AP News",
+        "url": "https://apnews.com/index.rss",
+        "language": "en",
+        "image": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://apnews.com/&size=128",
+        "description": "The Associated Press is an independent global news organization dedicated to factual reporting."
+      },
+      {
         "name": "ABC News",
         "url": "http://abcnews.go.com/abcnews/internationalheadlines",
         "language": "en",
@@ -1722,6 +1729,13 @@
         "language": "en",
         "image": "https://www.google.com/s2/favicons?domain=www.dailyherald.com&sz=128",
         "description": "News from The Daily Herald"
+      },
+      {
+        "name": "Daily Mail",
+        "url": "https://www.dailymail.co.uk/articles.rss",
+        "language": "en",
+        "image": "https://www.google.com/s2/favicons?domain=https://www.dailymail.co.uk/ushome/index.html&sz=128",
+        "description": "MailOnline - get the latest breaking news, celebrity photos, viral videos, science & tech news, and top stories from MailOnline."
       },
       {
         "name": "Daily Mirror",
@@ -1990,18 +2004,25 @@
         "description": "NDTV.com provides the latest information from and in-depth coverage of India and the world. Find breaking news, India news, top stories, elections, politics, business, cricket, movies, lifestyle, heal"
       },
       {
-        "name": "News Week",
-        "url": "https://www.newsweek.com/rss",
-        "language": "en",
-        "image": "https://www.google.com/s2/favicons?domain=www.newsweek.com&sz=128",
-        "description": "Latest News"
-      },
-      {
         "name": "News Nation",
         "url": "https://www.newsnationnow.com/feed/",
         "language": "en",
         "image": "https://www.newsnationnow.com/wp-content/uploads/sites/108/2020/07/cropped-favicon-tranparent-bkg.png?w=32",
         "description": "U.S. News"
+      },
+      {
+        "name": "News One",
+        "url": "https://newsone.com/feed/",
+        "language": "en",
+        "image": "https://www.google.com/s2/favicons?domain=https://newsone.com/&sz=128",
+        "description": "Breaking news for and about Black America: politics, original stories, diverse opinions, current events and their impact on Black lives."
+      },
+      {
+        "name": "News Week",
+        "url": "https://www.newsweek.com/rss",
+        "language": "en",
+        "image": "https://www.google.com/s2/favicons?domain=www.newsweek.com&sz=128",
+        "description": "Latest News"
       },
       {
         "name": "New York Post",
@@ -2123,6 +2144,13 @@
         "description": "Latest World news news, comment and analysis from the Guardian, the world's leading liberal voice"
       },
       {
+        "name": "The Hill",
+        "url": "https://thehill.com/feed/?feed=partnerfeed-news-feed&format=rss",
+        "language": "en",
+        "image": "https://www.google.com/s2/favicons?domain=https://thehill.com/&sz=128",
+        "description": "The Hill is a top US political website, read by the White House"
+      },
+      {
         "name": "The Independent",
         "url": "https://www.independent.co.uk/news/world/rss",
         "language": "en",
@@ -2142,6 +2170,13 @@
         "language": "en",
         "image": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png",
         "description": "Israel is concerned that the war might end before it can dismantle Iran’s weapons programs, two senior Israeli officials said, and plans to ramp up its attacks."
+      },
+      {
+        "name": "The Street",
+        "url": "https://www.thestreet.com/.rss/feed/a386f542-9b65-4245-9e22-e3cfd33d7d34.xml",
+        "language": "en",
+        "image": "https://www.google.com/s2/favicons?domain=https://www.thestreet.com/&sz=128",
+        "description": "Latest Business & Market News. Stock Market Today."
       },
       {
         "name": "The Sun",
