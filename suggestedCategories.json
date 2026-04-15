@@ -1,5 +1,5 @@
 {
-  "version": "2.5.6",
+  "version": "2.5.7",
   "translations": {
     "es": {
       "Tech": "Tech",
@@ -1774,14 +1774,14 @@
       },
       {
         "name": "Drop Site",
-        "url": "https://rss.dw.com/rdf/rss-en-all",
+        "url": "https://www.dropsitenews.com/feed",
         "language": "en",
-        "image": "https://substackcdn.com/image/fetch/$s_!zpj1!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd2d87db0-af47-44ef-847e-8d9ff64e30ff_688x688.png",
+        "image": "https://www.google.com/s2/favicons?domain=https://www.dropsitenews.com/&sz=128",
         "description": "Independent news on politics and war"
       },
       {
         "name": "DW",
-        "url": "https://www.dropsitenews.com/feed",
+        "url": "https://rss.dw.com/rdf/rss-en-all",
         "language": "en",
         "image": "https://www.google.com/s2/favicons?domain=https://www.dw.com//&sz=128",
         "description": "News, off-beat stories and analysis of German and international affairs."
