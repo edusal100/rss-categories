@@ -1,5 +1,5 @@
 {
-  "version": "2.5.7",
+  "version": "2.5.8",
   "translations": {
     "es": {
       "Tech": "Tech",
@@ -53,6 +53,13 @@
         "language": "en",
         "image": "https://www.google.com/s2/favicons?domain=www.bgr.com&sz=128",
         "description": "Expert analysis of the leading stories in tech and entertainment plus reviews of the latest gadgets."
+      },
+      {
+        "name": "Boing Boing",
+        "url": "https://boingboing.net/feed/",
+        "language": "en",
+        "image": "https://www.google.com/s2/favicons?domain=https://boingboing.net/&sz=128",
+        "description": "Boing Boing is the Web's favorite site devoted to technology, entertainment, and culture."
       },
       {
         "name": "CNET",
@@ -160,11 +167,25 @@
         "description": "Tecnología, ciencia y cultura digital"
       },
       {
+        "name": "Hackaday",
+        "url": "https://hackaday.com/feed",
+        "language": "en",
+        "image": "https://www.google.com/s2/favicons?domain=https://hackaday.com/&sz=128",
+        "description": "Hackaday serves up Fresh Hacks Every Day from around the Internet. Our playful posts are the gold-standard in entertainment for engineers and engineering enthusiasts."
+      },
+      {
         "name": "Hipertextual",
         "url": "https://hipertextual.com/feed",
         "language": "es",
         "image": "https://imgs.hipertextual.com/wp-content/uploads/2022/09/cropped-favicon-2022-1-32x32.png",
         "description": "Tecnología, ciencia y cultura digital"
+      },
+      {
+        "name": "How to Geek",
+        "url": "https://www.howtogeek.com/feed",
+        "language": "en",
+        "image": "https://www.google.com/s2/favicons?domain=https://www.howtogeek.com/&sz=128",
+        "description": "We explain technology. Learn more with our articles, reviews, tips, and the best answers to your most pressing tech questions."
       },
       {
         "name": "IEEE Spectrum",
@@ -188,6 +209,13 @@
         "description": "Últimas Noticias de Los Ángeles, EEUU, y El Mundo"
       },
       {
+        "name": "Lifehacker",
+        "url": "https://lifehacker.com/feed/rss",
+        "language": "en",
+        "image": "https://www.google.com/s2/favicons?domain=https://lifehacker.com/&sz=128",
+        "description": "Lifehacker has been the world's leading guide to tech and life tips, tricks and hacks since 2005."
+      },
+      {
         "name": "Linux Journal",
         "url": "https://www.linuxjournal.com/node/feed",
         "language": "en",
@@ -207,6 +235,13 @@
         "language": "en",
         "image": "https://www.google.com/s2/favicons?domain=www.macworld.com&sz=128",
         "description": "Macworld is your best source for all things Apple. We give you the scoop on what's new, what's best and how to make the most out of the products you love."
+      },
+      {
+        "name": "Makeuseof",
+        "url": "https://www.makeuseof.com/feed/",
+        "language": "en",
+        "image": "https://www.google.com/s2/favicons?domain=https://www.makeuseof.com/&sz=128",
+        "description": "MUO is your guide to modern tech. Learn how to make use of the tech and gadgets around you, and discover cool stuff on the internet."
       },
       {
         "name": "MarkTechPost",
@@ -269,7 +304,14 @@
         "url": "https://www.pcmag.com/feeds/rss/latest",
         "language": "en",
         "image": "https://www.google.com/s2/favicons?domain=www.pcmag.com&sz=128",
-        "description": "Enable JavaScript and cookies to continue&&&&&&"
+        "description": "PCMag is your complete guide to computers, peripherals and upgrades. We test and review tech products and services, report technology news and trends"
+      },
+      {
+        "name": "PC World",
+        "url": "https://www.pcworld.com/feed",
+        "language": "en",
+        "image": "https://www.google.com/s2/favicons?domain=https://www.pcworld.com/&sz=128",
+        "description": "PCWorld helps you navigate the PC ecosystem to find the products you want and the advice you need to get the job done."
       },
       {
         "name": "ReadWrite",
@@ -304,7 +346,21 @@
         "url": "https://publishers.edisound.com/serie/1ed7ac17-2eff-6a2c-bdb4-67cf88c1ddc6/rss",
         "language": "es",
         "image": "https://media.edisound.com/medias/series/image/6f5c85294778c0d3eb0b2832889a453b96e3221a5a1ddf5b23969c6b9c01.jpg",
-        "description": "El Podcast de Silicon España un espacio para abordar las últimas tendencias, estrategias y casos de uso de la tecnología que habilita las organizaciones más innovadoras. En el Podcast de Silicon Españ"
+        "description": "El Podcast de Silicon España un espacio para abordar las últimas tendencias, estrategias y casos de uso de la tecnología que habilita las organizaciones más innovadoras. En el Podcast de Silicon España"
+      },
+      {
+        "name": "Slashdot",
+        "url": "https://rss.slashdot.org/Slashdot/slashdotMain",
+        "language": "en",
+        "image": "https://www.google.com/s2/favicons?domain=https://slashdot.org/&sz=128",
+        "description": "News for nerds, stuff that matters"
+      },
+      {
+        "name": "Techdirt",
+        "url": "https://www.techdirt.com/feed/",
+        "language": "en",
+        "image": "https://www.google.com/s2/favicons?domain=https://www.techdirt.com/&sz=128",
+        "description": "Started in 1997 by Floor64 founder Mike Masnick and then growing into a group blogging effort, the Techdirt blog relies on a proven economic framework to analyze and offer insight into news stories about changes in government policy, technology and legal issues that affect companies’ ability to innovate and grow."
       },
       {
         "name": "TechCrunch",
@@ -314,18 +370,25 @@
         "description": "Startup and Technology News"
       },
       {
+        "name": "Techmeme",
+        "url": "https://www.techmeme.com/feed.xml",
+        "language": "en",
+        "image": "https://www.google.com/s2/favicons?domain=https://www.techmeme.com/&sz=128",
+        "description": "The essential tech news of the moment. Technology's news site of record. Not for dummies."
+      },
+      {
         "name": "Techradar",
         "url": "https://www.techradar.com/feeds.xml",
         "language": "en",
         "image": "https://www.google.com/s2/favicons?domain=www.techradar.com&sz=128",
-        "description": "All the latest content from the TechRadar team"
+        "description": "All the latest content from the TechRadar team."
       },
       {
         "name": "Techspot",
         "url": "https://www.techspot.com/backend.xml",
         "language": "en",
         "image": "https://www.techspot.com/images/techspot-rss-logo-small2.png",
-        "description": "TechSpot News - All Stories"
+        "description": "TechSpot News - All Stories."
       },
       {
         "name": "The New Stack",
