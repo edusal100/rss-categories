@@ -1,5 +1,5 @@
 {
-  "version": "2.5.8",
+  "version": "2.5.9",
   "translations": {
     "es": {
       "Tech": "Tech",
@@ -931,7 +931,7 @@
         "url": "https://www.timeextension.com/feeds/latest",
         "language": "en",
         "image": "https://images.timeextension.com/site/icon/128x128.png",
-        "description": "\"I feel like I made an adventure game starring Hugh Hefner\".The award-winning designer Brenda Romero has a piece of advice for developers wishing to make great games: \"Look at whatever company you wan"
+        "description": "Time Extension brings you the latest news and features from the world of retro gaming. Giving retro and classic games more time to shine and so much more."
       },
       {
         "name": "TWIV",
@@ -1668,18 +1668,25 @@
         "description": "La nueva era del periodismo"
       },
       {
-        "name": "AP News",
-        "url": "https://apnews.com/index.rss",
-        "language": "en",
-        "image": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://apnews.com/&size=128",
-        "description": "The Associated Press is an independent global news organization dedicated to factual reporting."
-      },
-      {
         "name": "ABC News",
         "url": "http://abcnews.go.com/abcnews/internationalheadlines",
         "language": "en",
         "image": "https://s.abcnews.com/images/site/abcnews_google_rss_logo.png",
         "description": "Your trusted source for breaking news, analysis, exclusive interviews, headlines, and videos."
+      },
+      {
+        "name": "Aljazeera",
+        "url": "https://www.aljazeera.com/xml/rss/all.xml",
+        "language": "en",
+        "image": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.aljazeera.com/&size=128",
+        "description": "News, analysis from the Middle East & worldwide, multimedia & interactives, opinions, documentaries, podcasts, long reads and broadcast."
+      },
+      {
+        "name": "AP News",
+        "url": "https://apnews.com/index.rss",
+        "language": "en",
+        "image": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://apnews.com/&size=128",
+        "description": "The Associated Press is an independent global news organization dedicated to factual reporting."
       },
       {
         "name": "Aristegui Noticias",
@@ -2186,6 +2193,13 @@
         "description": "The top News headlines from The Sydney Morning Herald. For all the news, visit https://www.smh.com.au"
       },
       {
+        "name": "Time",
+        "url": "https://time.com/feed/",
+        "language": "en",
+        "image": "https://www.google.com/s2/favicons?domain=https://time.com/&sz=128",
+        "description": "Breaking news and analysis from time.com. Politics, world news, photos, video, tech reviews, health, science, and entertainment news."
+      },
+      {
         "name": "The American Prospect",
         "url": "https://prospect.org/feed/",
         "language": "en",
@@ -2214,7 +2228,7 @@
         "description": "The Hill is a top US political website, read by the White House"
       },
       {
-        "name": "The Independent",
+        "name": "Independent",
         "url": "https://www.independent.co.uk/news/world/rss",
         "language": "en",
         "image": "https://www.google.com/s2/favicons?domain=www.independent.co.uk&sz=128",
@@ -2934,7 +2948,7 @@
         "description": "Stay updated with the latest science news and discoveries. Explore articles covering scientific advancements, research breakthroughs, and more. Expand your knowledge with The Hindu Science"
       },
       {
-        "name": "The Independent Science",
+        "name": "Independent Science",
         "url": "https://www.independent.co.uk/news/science/rss",
         "language": "en",
         "image": "https://www.google.com/s2/favicons?domain=www.independent.co.uk&sz=128",
@@ -3612,6 +3626,13 @@
         "description": "Recursos, guías, herramientas y consejos para emprender, crear tu empresa o iniciar un negocio exitoso."
       },
       {
+        "name": "Quartz",
+        "url": "https://qz.com/rss",
+        "language": "en",
+        "image": "https://www.google.com/s2/favicons?domain=https://qz.com/&sz=128",
+        "description": "Quartz is a guide to the new global economy for people who are excited by change. We cover business, finance, economics, technology, lifestyle, and leadership."
+      },
+      {
         "name": "Reuters",
         "url": "https://ir.thomsonreuters.com/rss/news-releases.xml?items=15",
         "language": "en",
@@ -3638,6 +3659,20 @@
         "language": "en",
         "image": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://talkingbiznews.com/&size=128",
         "description": "A business journalism site for pens in pursuit of the bottom line"
+      },
+      {
+        "name": "The Economist",
+        "url": "https://www.economist.com/finance-and-economics/rss.xml",
+        "language": "en",
+        "image": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.economist.com/&size=128",
+        "description": "Know which way is up. Trusted daily reporting and news analysis. Make sense of politics, economics, business and technology with articles"
+      },
+      {
+        "name": "Yahoo Finance",
+        "url": "https://feeds.finance.yahoo.com/rss/2.0/headline?s=yhoo,goog&region=US&lang=en-US",
+        "language": "en",
+        "image": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://finance.yahoo.com/&size=128",
+        "description": "At Yahoo Finance, you get free stock quotes, up-to-date news, portfolio management resources, international market data, social interaction and mortgage"
       }
     ],
     "Cars": [
