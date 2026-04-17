@@ -1,5 +1,5 @@
 {
-  "version": "2.5.9",
+  "version": "2.6.0",
   "translations": {
     "es": {
       "Tech": "Tech",
@@ -2134,7 +2134,14 @@
         "url": "https://www.proceso.com.mx/rss/feed.html?r=6",
         "language": "es",
         "image": "https://www.google.com/s2/favicons?domain=www.proceso.com.mx&sz=128",
-        "description": "<div xmlns=\"http://www.w3.org/1999/xhtml\">“Este tipo de actividades son usuales dentro del marco de relaciones diplomáticas entre fuerzas armadas y se llevó a cabo con respeto a la soberanía nacional "
+        "description": "Revista Proceso"
+      },
+      {
+        "name": "Propublica",
+        "url": "https://www.propublica.org/feeds/propublica/main",
+        "language": "en",
+        "image": "https://www.google.com/s2/favicons?domain=https://www.propublica.org/&sz=128",
+        "description": "ProPublica is an independent, non-profit newsroom that produces investigative journalism in the public interest."
       },
       {
         "name": "Publimetro",
