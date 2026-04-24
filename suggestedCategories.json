@@ -1,5 +1,5 @@
 {
-  "version": "2.6.0",
+  "version": "2.6.1",
   "translations": {
     "es": {
       "Tech": "Tech",
@@ -389,6 +389,13 @@
         "language": "en",
         "image": "https://www.techspot.com/images/techspot-rss-logo-small2.png",
         "description": "TechSpot News - All Stories."
+      },
+      {
+        "name": "The Linux Experiment",
+        "url": "https://thelinuxexp.com/feed.xml",
+        "language": "en",
+        "image": "https://www.google.com/s2/favicons?domain=https://thelinuxexp.com/&sz=128",
+        "description": "I'm Nick, and I like to tinker with Linux stuff. I'll bumble through distro reviews, tutorials, and general helpful tidbits and impressions on Linux desktop."
       },
       {
         "name": "The New Stack",
