@@ -1,5 +1,5 @@
 {
-  "version": "2.6.3",
+  "version": "2.6.4",
   "translations": {
     "es": {
       "Tech": "Tech",
@@ -3002,7 +3002,7 @@
         "name": "A Cozy Kitchen",
         "url": "https://www.acozykitchen.com/feed",
         "language": "en",
-        "image": "https://www.acozykitchen.com/wp-content/uploads/2020/11/cropped-favicon-32x32.png",
+        "image": "https://www.google.com/s2/favicons?domain=https://www.acozykitchen.com/&sz=128",
         "description": "Recipe blog by Adrianna Adarme"
       },
       {
