@@ -1,5 +1,5 @@
 {
-  "version": "2.6.2",
+  "version": "2.6.3",
   "translations": {
     "es": {
       "Tech": "Tech",
@@ -3696,13 +3696,6 @@
         "language": "en",
         "image": "https://www.google.com/s2/favicons?domain=www.autoblog.com&sz=128",
         "description": "All News articles from Autoblog.com"
-      },
-      {
-        "name": "Auto Extremist",
-        "url": "https://www.autoextremist.com/current/atom.xml",
-        "language": "en",
-        "image": "https://www.google.com/s2/favicons?domain=www.autoextremist.com&sz=128",
-        "description": "Rants"
       },
       {
         "name": "Autoweek",
