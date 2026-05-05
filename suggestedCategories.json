@@ -1,5 +1,5 @@
 {
-  "version": "2.6.4",
+  "version": "2.6.6",
   "translations": {
     "es": {
       "Tech": "Tech",
@@ -72,14 +72,14 @@
         "name": "Computing",
         "url": "https://www.computing.es/feed/",
         "language": "es",
-        "image": "https://img.computing.es/wp-content/uploads/2023/06/13141328/cropped-FAVICON_C_1024x1024px-1-32x32.png",
+        "image": "https://www.google.com/s2/favicons?domain=https://www.computing.es/&sz=128",
         "description": "Actualización tecnológica esencial para empresas: info de última hora para CIO, CFO, CSO, CMO, CEO. Whitepapers, Casos prácticos, Entrevistas, Análisis y Soluciones."
       },
       {
         "name": "Computer Hoy",
         "url": "https://computerhoy.20minutos.es/rss/ultimas-noticias/",
         "language": "es",
-        "image": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://computerhoy.20minutos.es/&size=128",
+        "image": "https://www.google.com/s2/favicons?domain=https://computerhoy.20minutos.es/&sz=128",
         "description": "Últimas noticias en Computer Hoy"
       },
       {
@@ -128,7 +128,7 @@
         "name": "El Mundo",
         "url": "https://e01-elmundo.uecdn.es/rss/tecnologia.xml",
         "language": "es",
-        "image": "https://e00-elmundo.uecdn.es/imagen/canalima144.gif",
+        "image": "https://www.google.com/s2/favicons?domain=https://www.elmundo.es/&sz=128",
         "description": "Tecnología // elmundo"
       },
       {
@@ -149,7 +149,7 @@
         "name": "Geeknetic",
         "url": "https://feeds.feedburner.com/geeknetic/",
         "language": "es",
-        "image": "https://foro.geeknetic.es/images/logo-foro.png",
+        "image": "https://www.google.com/s2/favicons?domain=https://www.geeknetic.es/&sz=128",
         "description": "Revista Digital sobre hardware e informática general con noticias, artículos, reviews y descargas."
       },
       {
@@ -247,7 +247,7 @@
         "name": "MarkTechPost",
         "url": "https://www.marktechpost.com/feed/",
         "language": "en",
-        "image": "https://www.marktechpost.com/wp-content/uploads/2022/04/cropped-Favicon-512-x-512-1-1-32x32.png",
+        "image": "https://www.google.com/s2/favicons?domain=https://www.marktechpost.com/&sz=128",
         "description": "An Artificial Intelligence News Platform"
       },
       {
@@ -261,14 +261,14 @@
         "name": "MIT Technology Review",
         "url": "https://www.technologyreview.com/feed",
         "language": "en",
-        "image": "https://wp.technologyreview.com/wp-content/uploads/2024/09/cropped-TR-Logo-Block-Centered-R.png?w=32",
+        "image": "https://www.google.com/s2/favicons?domain=https://www.technologyreview.com/&sz=128",
         "description": "Listen to the session or watch below Whether it’s the race to find life on Mars, the campaign to outsmart killer asteroids, or the quest to make the moon a permanent home to astronauts, scientists’ ef"
       },
       {
         "name": "MIT Technology Espanol",
         "url": "https://technologyreview.es/feed/",
         "language": "es",
-        "image": "https://technologyreview.es/wp-content/uploads/2025/02/cropped-Favicon-MIT-Technology-Review-32x32.png",
+        "image": "https://www.google.com/s2/favicons?domain=https://www.technologyreview.com/&sz=128",
         "description": "Somos la revista sobre tecnología más antigua del mundo y la autoridad global en el futuro de la tecnología en internet."
       },
       {
@@ -282,7 +282,7 @@
         "name": "MuyLinux",
         "url": "https://www.muylinux.com/feed/",
         "language": "es",
-        "image": "https://www.muylinux.com/wp-content/uploads/2022/05/cropped-ML_FAVICON_2022-32x32.png",
+        "image": "https://www.google.com/s2/favicons?domain=https://www.muylinux.com/&sz=128",
         "description": "MuyLinux es la publicación on-line de referencia sobre Unix/Linux y Open Source, el medio en el que encontrar la mejor información sobre nuevas tecnologías."
       },
       {
@@ -317,7 +317,7 @@
         "name": "ReadWrite",
         "url": "https://readwrite.com/feed/?x=1",
         "language": "en",
-        "image": "https://readwrite.com/wp-content/uploads/2024/10/cropped-readwrite-favicon-32x32.png",
+        "image": "https://www.google.com/s2/favicons?domain=https://readwrite.com/&sz=128",
         "description": "Crypto, Gaming & Emerging Tech News"
       },
       {
@@ -366,7 +366,7 @@
         "name": "TechCrunch",
         "url": "https://techcrunch.com/feed/",
         "language": "en",
-        "image": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "image": "https://www.google.com/s2/favicons?domain=https://techcrunch.com/&sz=128",
         "description": "Startup and Technology News"
       },
       {
@@ -415,7 +415,7 @@
         "name": "The Register",
         "url": "https://www.theregister.com/headlines.atom",
         "language": "en",
-        "image": "https://www.theregister.com/Design/graphics/Reg_default/The_Register_r.png",
+        "image": "https://www.google.com/s2/favicons?domain=https://www.theregister.com/&sz=128",
         "description": "Biting the hand that feeds IT — Enterprise Technology News and Analysis"
       },
       {
@@ -443,14 +443,14 @@
         "name": "Trusted Reviews",
         "url": "https://www.trustedreviews.com/feed",
         "language": "en",
-        "image": "https://www.trustedreviews.com/wp-content/uploads/sites/7/2017/07/cropped-trusted-reviews-icon-3-32x32.png",
+        "image": "https://www.google.com/s2/favicons?domain=https://www.trustedreviews.com/&sz=128",
         "description": "Unbiased, independent advice on what tech to buy"
       },
       {
         "name": "VentureBeat",
         "url": "http://feeds.feedburner.com/venturebeat/SZYF",
         "language": "en",
-        "image": "https://www.google.com/s2/favicons?domain=feeds.feedburner.com&sz=128",
+        "image": "https://www.google.com/s2/favicons?domain=https://venturebeat.com/&sz=128",
         "description": "Transformative tech coverage that matters"
       },
       {
@@ -464,7 +464,7 @@
         "name": "Wired Espanol",
         "url": "https://es.wired.com/feed/rss",
         "language": "es",
-        "image": "https://www.google.com/s2/favicons?domain=es.wired.com&sz=128",
+        "image": "https://www.google.com/s2/favicons?domain=www.wired.com&sz=128",
         "description": "The latest from es.wired.com"
       },
       {
@@ -557,28 +557,28 @@
         "name": "Droid Life",
         "url": "https://www.droid-life.com/feed/",
         "language": "en",
-        "image": "https://www.droid-life.com/wp-content/uploads/2026/03/cropped-DL-LOGO-Square-512-32x32.png",
+        "image": "https://www.google.com/s2/favicons?domain=https://www.droid-life.com/&sz=128",
         "description": "Opinionated Android news."
       },
       {
         "name": "Fossbytes",
         "url": "https://fossbytes.com/feed/?x=1",
         "language": "en",
-        "image": "https://fossbytes.com/wp-content/uploads/2021/01/cropped-FOSSBYTES-FAVICON--32x32.png",
+        "image": "https://www.google.com/s2/favicons?domain=https://fossbytes.com/&sz=128",
         "description": "Technology Simplified"
       },
       {
         "name": "Gizmochina",
         "url": "https://www.gizmochina.com/feed/",
         "language": "en",
-        "image": "https://www.google.com/s2/favicons?domain=www.gizmochina.com&sz=128",
+        "image": "https://www.google.com/s2/favicons?domain=https://www.gizmochina.com/&sz=128",
         "description": "Latest Tech News, Product Reviews and Deals"
       },
       {
         "name": "GSMArena",
         "url": "https://www.gsmarena.com/rss-news-reviews.php3",
         "language": "en",
-        "image": "https://cdn2.gsmarena.com/w/css/logo-gsmarena-com.gif",
+        "image": "https://www.google.com/s2/favicons?domain=https://www.gsmarena.com/&sz=128",
         "description": "GSMArena.com is the ultimate resource for GSM handset information. This feed contains the latest articles (news and reviews) in chronological order."
       },
       {
@@ -592,7 +592,7 @@
         "name": "MobileSyrup",
         "url": "https://mobilesyrup.com/feed/",
         "language": "en",
-        "image": "https://production-static.mobilesyrup.com/uploads/2021/07/cropped-mobilesyrup_favicon-32x32.png",
+        "image": "https://www.google.com/s2/favicons?domain=https://mobilesyrup.com/&sz=128",
         "description": "Canada’s news source for all things tech"
       },
       {
@@ -790,21 +790,21 @@
         "name": "IGN",
         "url": "https://www.ign.com/rss/v2/articles/feed",
         "language": "en",
-        "image": "https://s3.amazonaws.com/o.assets.images.ign.com/kraken/IGN-Logo-RSS.png",
+        "image": "https://www.google.com/s2/favicons?domain=https://www.ign.com/&sz=128",
         "description": "This feed contains the latest 20 articles from IGN sorted by publishDate"
       },
       {
         "name": "IGN Latam",
         "url": "https://latam.ign.com/feed.xml",
         "language": "es",
-        "image": "https://www.google.com/s2/favicons?domain=latam.ign.com&sz=128",
+        "image": "https://www.google.com/s2/favicons?domain=https://www.ign.com/&sz=128",
         "description": "IGN Latinoamérica es el lugar para noticias de videojuegos, reviews, previews, videos, noticias y trailers de cine, televisión, comics y todo lo que amas."
       },
       {
         "name": "Instant Gaming Espanol",
         "url": "https://news.instant-gaming.com/es/rss.xml",
         "language": "es",
-        "image": "https://www.google.com/s2/favicons?domain=news.instant-gaming.com&sz=128",
+        "image": "https://www.google.com/s2/favicons?domain=https://news.instant-gaming.com/&sz=128",
         "description": "Instant Gaming News es la mejor para seguir todas las noticias sobre videojuegos en tus dispositivos favoritos, PC y consolas"
       },
       {
@@ -818,7 +818,7 @@
         "name": "My Nintendo News",
         "url": "https://mynintendonews.com/feed/",
         "language": "en",
-        "image": "https://i0.wp.com/mynintendonews.com/wp-content/uploads/2023/04/34CAvYNz_400x400.jpg?fit=32%2C32&ssl=1",
+        "image": "https://www.google.com/s2/favicons?domain=https://mynintendonews.com/&sz=128",
         "description": "Nintendo News"
       },
       {
@@ -846,28 +846,28 @@
         "name": "PCGamesN",
         "url": "https://www.pcgamesn.com/mainrss.xml",
         "language": "en",
-        "image": "https://www.pcgamesn.com/wp-content/themes/pcgamesn/dist/images/default_avatar.png",
+        "image": "https://www.google.com/s2/favicons?domain=https://www.pcgamesn.com/&sz=128",
         "description": "The latest PC games news, features, updates, guides, and hands-on reviews. Plus all the latest from our hardware experts on your gaming PC needs."
       },
       {
         "name": "PlayStation Blog",
         "url": "https://blog.playstation.com/feed/",
         "language": "en",
-        "image": "https://blog.playstation.com/tachyon/2019/03/cropped-pslogo.png?fit=32%2C32",
+        "image": "https://www.google.com/s2/favicons?domain=https://blog.playstation.com/&sz=128",
         "description": "Official PlayStation Blog for news and video updates on PlayStation, PS5, PS4, PS VR, PlayStation Plus and more."
       },
       {
         "name": "PlayStation Blog Latam",
         "url": "http://feeds.feedburner.com/PlaystationblogLatam",
         "language": "es",
-        "image": "https://blog.latam.playstation.com/tachyon/sites/3/2022/04/cropped-40307e2ff0a0b74acf68fc7d91f24ea4b8e0bb56.png?fit=32%2C32",
+        "image": "https://www.google.com/s2/favicons?domain=https://blog.playstation.com/&sz=128",
         "description": "PlayStation Blog: El Blog Oficial de PlayStation, noticias de PlayStation Network, Playstation 3, PSP y NGP"
       },
       {
         "name": "Pocket Gamer",
         "url": "https://www.pocketgamer.com/index.rss",
         "language": "en",
-        "image": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.pocketgamer.com&size=128",
+        "image": "https://www.google.com/s2/favicons?domain=https://www.pocketgamer.com/&sz=128",
         "description": "Latest site updates"
       },
       {
@@ -881,7 +881,7 @@
         "name": "PS Lifestyle",
         "url": "https://www.playstationlifestyle.net/feed/",
         "language": "en",
-        "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2023/03/cropped-favicon.png?w=32",
+        "image": "https://www.google.com/s2/favicons?domain=https://www.playstationlifestyle.net/&sz=128",
         "description": "PS5, PS4, PS Plus, and PSN News, Guides, Trophies, Reviews, and More!"
       },
       {
@@ -944,7 +944,7 @@
         "name": "TWIV",
         "url": "https://thisweekinvideogames.com/feed/",
         "language": "en",
-        "image": "https://thisweekinvideogames.com/wp-content/uploads/2024/06/cropped-512x512-1-32x32.png",
+        "image": "https://www.google.com/s2/favicons?domain=https://thisweekinvideogames.com/&sz=128",
         "description": "No ads. No AI. Just videogame coverage that matters."
       },
       {
@@ -988,7 +988,7 @@
         "name": "BBC Sports",
         "url": "https://feeds.bbci.co.uk/sport/rss.xml",
         "language": "en",
-        "image": "http://news.bbc.co.uk/sol/shared/img/sport_120x60.gif",
+        "image": "https://www.google.com/s2/favicons?domain=https://www.bbc.com/sport&sz=128",
         "description": "BBC Sport - Sport Front Page"
       },
       {
@@ -1030,7 +1030,7 @@
         "name": "CBS Sports",
         "url": "https://www.cbssports.com/rss/headlines/",
         "language": "en",
-        "image": "https://sports.cbsimg.net/fly/images/cbssports/logo-digital.png",
+        "image": "https://www.google.com/s2/favicons?domain=https://www.cbssports.com/&sz=128",
         "description": "The latest sports news from CBSSports.com"
       },
       {
@@ -1508,7 +1508,7 @@
         "name": "IGN Movies",
         "url": "https://www.ign.com/rss/v2/articles/feed?channel=movies",
         "language": "en",
-        "image": "https://s3.amazonaws.com/o.assets.images.ign.com/kraken/IGN-Logo-RSS.png",
+        "image": "https://www.google.com/s2/favicons?domain=https://www.ign.com/&sz=128",
         "description": "This feed contains the latest 20 articles from IGN sorted by publishDate for channel: (Movies)"
       },
       {
@@ -3009,7 +3009,7 @@
         "name": "A Mindful Mom",
         "url": "https://amindfullmom.com/feed/",
         "language": "en",
-        "image": "https://amindfullmom.com/wp-content/uploads/2019/05/cropped-favicon-32x32.jpg",
+        "image": "https://www.google.com/s2/favicons?domain=https://amindfullmom.com/&sz=128",
         "description": "Real Food Recipes for Everyday Families"
       },
       {
@@ -3284,7 +3284,7 @@
         "name": "Art Forum",
         "url": "https://www.artforum.com/feed/",
         "language": "en",
-        "image": "https://www.artforum.com/wp-content/uploads/2023/09/cropped-AF-Favicon-3.png?w=32",
+        "image": "https://www.google.com/s2/favicons?domain=https://www.artforum.com/&sz=128",
         "description": "Gabrielle Goliath, who was to have to have represented South Africa at the Sixty-First Venice Biennale before a government official abruptly canceled her exhibition, will instead show her work outside"
       },
       {
