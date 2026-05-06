@@ -1,5 +1,5 @@
 {
-  "version": "2.6.6",
+  "version": "2.6.7",
   "translations": {
     "es": {
       "Tech": "Tech",
@@ -2002,6 +2002,13 @@
         "language": "en",
         "image": "https://wp.harpers.org/wp-content/uploads/2021/11/cropped-android-chrome-512x512-1-32x32.png",
         "description": "Harper's Magazine"
+      },
+      {
+        "name": "Imer Noticias",
+        "url": "https://noticias.imer.mx/feed/",
+        "language": "es",
+        "image": "https://www.google.com/s2/favicons?domain=https://noticias.imer.mx/&sz=128",
+        "description": "Infobae.com News Feed"
       },
       {
         "name": "Infobae",
