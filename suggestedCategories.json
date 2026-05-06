@@ -1,5 +1,5 @@
 {
-  "version": "2.6.7",
+  "version": "2.6.8",
   "translations": {
     "es": {
       "Tech": "Tech",
@@ -177,7 +177,7 @@
         "name": "Hipertextual",
         "url": "https://hipertextual.com/feed",
         "language": "es",
-        "image": "https://imgs.hipertextual.com/wp-content/uploads/2022/09/cropped-favicon-2022-1-32x32.png",
+        "image": "https://www.google.com/s2/favicons?domain=https://hipertextual.com/&sz=128",
         "description": "Tecnología, ciencia y cultura digital"
       },
       {
@@ -2387,7 +2387,7 @@
         "name": "E! Online",
         "url": "https://www.eonline.com/syndication/feeds/rssfeeds/topstories.xml",
         "language": "en",
-        "image": "https://akns-images.eonline.com/eol_images/Entire_Site/2018223/rs_125x40-180323122205-EGoogleNews.png",
+        "image": "https://www.google.com/s2/favicons?domain=https://www.eonline.com/&sz=128",
         "description": "News from across the show-biz spectrum-TV, movies, music and celebrities"
       },
       {
@@ -2457,7 +2457,7 @@
         "name": "Hollywood Life",
         "url": "https://hollywoodlife.com/feed/",
         "language": "en",
-        "image": "https://hollywoodlife.com/wp-content/uploads/2024/06/cropped-hlicon_COLOR.png?fit=32%2C32",
+        "image": "https://www.google.com/s2/favicons?domain=https://hollywoodlife.com/&sz=128",
         "description": "Latest Hollywood Celebrity & Entertainment News"
       },
       {
