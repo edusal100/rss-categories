@@ -1,5 +1,5 @@
 {
-  "version": "2.6.8",
+  "version": "2.6.9",
   "translations": {
     "es": {
       "Tech": "Tech",
@@ -2142,6 +2142,13 @@
         "language": "en",
         "image": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.politico.com/&size=128",
         "description": "News, Analysis and Opinion from POLITICO"
+      },
+      {
+        "name": "Portavoz",
+        "url": "https://portavozchiapas.com.mx/feed/",
+        "language": "es",
+        "image": "https://www.google.com/s2/favicons?domain=https://portavozchiapas.com.mx/&sz=128",
+        "description": "El diario de todas las voces"
       },
       {
         "name": "Proceso",
