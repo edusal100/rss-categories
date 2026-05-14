@@ -1,5 +1,5 @@
 {
-  "version": "2.7.0",
+  "version": "2.7.1",
   "translations": {
     "es": {
       "Tech": "Tech",
@@ -2352,6 +2352,13 @@
         "language": "en",
         "image": "https://wtop.com/wp-content/uploads/2021/05/WtopNewsLogo_500x500-150x150.png",
         "description": "Washington's Top News"
+      }
+      {
+        "name": "Xinhua News",
+        "url": "https://www.xinhuanet.com/english/rss/chinarss.xml",
+        "language": "en",
+        "image": "https://www.google.com/s2/favicons?domain=https://www.xinhuanet.com/&sz=128",
+        "description": "Xinhua, news.cn/english，english.news.cn, chinaview，brings you headlines, photos, video and news stories from china, Asia and Pacific"
       }
     ],
     "Culture": [
