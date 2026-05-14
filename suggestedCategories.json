@@ -1,5 +1,5 @@
 {
-  "version": "2.6.9",
+  "version": "2.7.0",
   "translations": {
     "es": {
       "Tech": "Tech",
@@ -2135,6 +2135,13 @@
         "language": "en",
         "image": "https://www.google.com/s2/favicons?domain=observer.com&sz=128",
         "description": "News, data and insight about the powerful forces that shape the world."
+      },
+      {
+        "name": "Polemon",
+        "url": "https://polemon.mx/comments/feed/",
+        "language": "es",
+        "image": "https://www.google.com/s2/favicons?domain=https://polemon.mx/&sz=128",
+        "description": "Polemón es un medio de comunicación digital mexicano fundado en 2015 por el reconocido periodista Jaime Avilés"
       },
       {
         "name": "Politico",
