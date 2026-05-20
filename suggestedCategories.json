@@ -1,5 +1,5 @@
 {
-  "version": "2.7.2",
+  "version": "2.7.3",
   "translations": {
     "es": {
       "Tech": "Tech",
@@ -2198,6 +2198,13 @@
         "language": "es",
         "image": "https://www.google.com/s2/favicons?domain=www.sdpnoticias.com&sz=128",
         "description": "sdpnoticias News Feed"
+      },
+      {
+        "name": "Subjetivo",
+        "url": "https://subjetivo.mx/feed/",
+        "language": "es",
+        "image": "https://www.google.com/s2/favicons?domain=https://subjetivo.mx/&sz=128",
+        "description": "Noticias con sesgo declarado"
       },
       {
         "name": "Seattle Times",
