@@ -1,5 +1,5 @@
 {
-  "version": "2.7.3",
+  "version": "2.7.4",
   "translations": {
     "es": {
       "Tech": "Tech",
@@ -1785,6 +1785,13 @@
         "language": "es",
         "image": "https://www.clarin.com/img/logo_clarin_news.png",
         "description": "Clarin.com - Home - Lo último"
+      },
+      {
+        "name": "Codigo Libre",
+        "url": "https://codigolibre.mx/comments/feed/",
+        "language": "es",
+        "image": "https://www.google.com/s2/favicons?domain=https://codigolibre.mx/&sz=128",
+        "description": "Código Libre es un portal de noticias, análisis e información nacional e internacional generada y verificada por verdaderos periodistas"
       },
       {
         "name": "Commons Dreams",
