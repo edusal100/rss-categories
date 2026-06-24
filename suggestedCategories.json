@@ -1,5 +1,5 @@
 {
-  "version": "2.7.4",
+  "version": "2.7.5",
   "translations": {
     "es": {
       "Tech": "Tech",
@@ -3738,6 +3738,13 @@
         "language": "en",
         "image": "https://www.google.com/s2/favicons?domain=www.autoblog.com&sz=128",
         "description": "All News articles from Autoblog.com"
+      },
+      {
+        "name": "Autodinamico",
+        "url": "https://autodinamico.mx/feed/",
+        "language": "es",
+        "image": "https://www.google.com/s2/favicons?domain=https://autodinamico.mx/&sz=128",
+        "description": "La información más relevante y reciente de la industria automotriz"
       },
       {
         "name": "Autoweek",
