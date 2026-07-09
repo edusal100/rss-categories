@@ -1,5 +1,5 @@
 {
-  "version": "2.7.6",
+  "version": "2.7.7",
   "translations": {
     "es": {
       "Tech": "Tech",
@@ -2009,6 +2009,13 @@
         "language": "en",
         "image": "https://www.google.com/s2/favicons?domain=globalnews.ca&sz=128",
         "description": "Global News World -  breaking international news & current world news headlines; international money news and business news on GlobalNews.ca"
+      },
+      {
+        "name": "Grupo Informativo",
+        "url": "https://aegrupoinformativo.com/comments/feed/",
+        "language": "es",
+        "image": "https://www.google.com/s2/favicons?domain=https://aegrupoinformativo.com/&sz=128",
+        "description": "AE Grupo Informativo"
       },
       {
         "name": "Harpers",
