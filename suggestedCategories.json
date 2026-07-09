@@ -1,5 +1,5 @@
 {
-  "version": "2.7.5",
+  "version": "2.7.6",
   "translations": {
     "es": {
       "Tech": "Tech",
@@ -1869,6 +1869,13 @@
         "language": "en",
         "image": "https://www.google.com/s2/favicons?domain=https://www.dw.com//&sz=128",
         "description": "News, off-beat stories and analysis of German and international affairs."
+      },
+      {
+        "name": "Efecto Colateral",
+        "url": "https://efectocolateral.com.mx/feed/",
+        "language": "es",
+        "image": "https://www.google.com/s2/favicons?domain=https://efectocolateral.com.mx/&sz=128",
+        "description": "Una maquinaria mediática unificada que transforma la atención fugaz en influencia política y económica sostenida."
       },
       {
         "name": "El Comercio Peru",
