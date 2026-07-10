@@ -1,5 +1,5 @@
 {
-  "version": "2.7.8",
+  "version": "2.7.9",
   "translations": {
     "es": {
       "Tech": "Tech",
@@ -1689,6 +1689,13 @@
         "description": "Your trusted source for breaking news, analysis, exclusive interviews, headlines, and videos."
       },
       {
+        "name": "Agencia Publica",
+        "url": "https://apublica.org/comments/feed/",
+        "language": "pr",
+        "image": "https://www.google.com/s2/favicons?domain=https://apublica.org/&sz=128",
+        "description": "Agência de jornalismo investigativo."
+      },
+      {
         "name": "Aljazeera",
         "url": "https://www.aljazeera.com/xml/rss/all.xml",
         "language": "en",
@@ -1743,6 +1750,20 @@
         "language": "en",
         "image": "https://bdc2020.o0bc.com/wp-content/uploads/2021/05/BDC_Logo_2020_Social_WhiteBG-609c79a967eee-150x150.png",
         "description": "Boston.com"
+      },
+      {
+        "name": "Brasil de Fato",
+        "url": "https://www.brasildefato.com.br/feed/",
+        "language": "pt",
+        "image": "https://www.google.com/s2/favicons?domain=https://www.brasildefato.com.br/&sz=128",
+        "description": "Uma visao popular do brasil e do mundo."
+      },
+      {
+        "name": "BreakTroughNews",
+        "url": "https://breakthroughnews.org/feed/",
+        "language": "en",
+        "image": "https://www.google.com/s2/favicons?domain=https://breakthroughnews.org/&sz=128",
+        "description": "We are a nonprofit media and educational institution dedicated to independent, fact-based reporting and analysis on the issues shaping our world."
       },
       {
         "name": "Buenos Aires Times",
@@ -1883,6 +1904,13 @@
         "language": "es",
         "image": "https://www.google.com/s2/favicons?domain=https://efectocolateral.com.mx/&sz=128",
         "description": "Una maquinaria mediática unificada que transforma la atención fugaz en influencia política y económica sostenida."
+      },
+      {
+        "name": "El Ciudadano",
+        "url": "https://www.elciudadano.com/feed/",
+        "language": "es",
+        "image": "https://www.google.com/s2/favicons?domain=https://www.elciudadano.com/&sz=128",
+        "description": "Sociedad Periodística El Ciudadano Ltda."
       },
       {
         "name": "El Comercio Peru",
@@ -2045,12 +2073,26 @@
         "image": "https://www.google.com/s2/favicons?domain=www.infobae.com&sz=128",
         "description": "Infobae.com News Feed"
       },
+       {
+        "name": "Jacobin",
+        "url": "https://jacobinlat.com/feed/",
+        "language": "es",
+        "image": "https://www.google.com/s2/favicons?domain=https://jacobinlat.com/&sz=128",
+        "description": "Jacobin Latinoamerica"
+      },
       {
         "name": "KPBS",
         "url": "https://www.kpbs.org/index.rss",
         "language": "en",
         "image": "https://www.google.com/s2/favicons?domain=https://www.kpbs.org/&sz=128",
         "description": "PBS and NPR for San Diego, California. Get the latest news, listen online, watch the latest episodes, check our schedules, become a member."
+      },
+      {
+        "name": "La Izquierda Diario",
+        "url": "https://laizquierdadiario.mx/spip.php?page=backend_mexico",
+        "language": "es",
+        "image": "https://www.google.com/s2/favicons?domain=https://www.laizquierdadiario.mx/Mexico&sz=128",
+        "description": "Movimiento de los trabajadores socialistas."
       },
       {
         "name": "La Nacion",
@@ -2186,6 +2228,13 @@
         "description": "El diario de todas las voces"
       },
       {
+        "name": "Prensa Latina",
+        "url": "https://www.prensa-latina.cu/comments/feed/",
+        "language": "es",
+        "image": "https://www.google.com/s2/favicons?domain=https://www.prensa-latina.cu/&sz=128",
+        "description": "Agencia Informativa Latinoamericana"
+      },
+      {
         "name": "Proceso",
         "url": "https://www.proceso.com.mx/rss/feed.html?r=6",
         "language": "es",
@@ -2219,6 +2268,13 @@
         "language": "es",
         "image": "https://stats.gruporeforma.com/logo_forma_reforma.gif?grcuser=null&grcsesion=null&grcidcom=2&grcfrom=null&grcfecha=2026-03-25 02:04:37&grcidfte=1&grcidgrupo=500&grcidelem=1016&grcidcat=1&grcidsubc=672&grcidtcon=2&grcliga=https://www.reforma.com/rss/Portada.xml&grctit=RSS%20Portada&grcautornota=null&grcjver=0",
         "description": "Las últimas noticias publicadas más relevantes"
+      },
+      {
+        "name": "Resumen Latinoamericano",
+        "url": "https://www.resumenlatinoamericano.org/feed/",
+        "language": "es",
+        "image": "https://www.google.com/s2/favicons?domain=https://www.resumenlatinoamericano.org/&sz=128",
+        "description": "La otra cara de las noticias de america"
       },
       {
         "name": "SDP Noticias",
@@ -2261,6 +2317,13 @@
         "language": "en",
         "image": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.smh.com.au/&size=128",
         "description": "The top News headlines from The Sydney Morning Herald. For all the news, visit https://www.smh.com.au"
+      },
+      {
+        "name": "TeleSur",
+        "url": "https://www.telesurtv.net/feed/",
+        "language": "es",
+        "image": "https://www.google.com/s2/favicons?domain=https://www.telesurtv.net/&sz=128",
+        "description": "La Nueva Televisión del Sur."
       },
       {
         "name": "Time",
