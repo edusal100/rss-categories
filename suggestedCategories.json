@@ -1,5 +1,5 @@
 {
-  "version": "2.7.9",
+  "version": "2.8.0",
   "translations": {
     "es": {
       "Tech": "Tech",
@@ -1862,6 +1862,13 @@
         "language": "es",
         "image": "https://www.google.com/s2/favicons?domain=www.debate.com.mx&sz=128",
         "description": "Entérate al momento de las noticias más relevantes de México y el mundo."
+      },
+      {
+        "name": "Descifrando la guerra",
+        "url": "https://www.descifrandolaguerra.es/feed/",
+        "language": "es",
+        "image": "https://www.google.com/s2/favicons?domain=https://www.descifrandolaguerra.es/&sz=128",
+        "description": "Descifrando la Guerra es un portal dedicado al seguimiento y análisis de la política internacional. Hablamos sobre conflictos, disputas comerciales, elecciones, movimientos de protesta y otros acontecimientos clave."
       },
       {
         "name": "Diario Libre",
