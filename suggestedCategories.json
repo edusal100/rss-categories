@@ -1,5 +1,5 @@
 {
-  "version": "2.8.0",
+  "version": "2.8.1",
   "translations": {
     "es": {
       "Tech": "Tech",
@@ -1701,6 +1701,13 @@
         "language": "en",
         "image": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.aljazeera.com/&size=128",
         "description": "News, analysis from the Middle East & worldwide, multimedia & interactives, opinions, documentaries, podcasts, long reads and broadcast."
+      },
+      {
+        "name": "Ant/agon",
+        "url": "https://www.antagon.red/rss/",
+        "language": "es",
+        "image": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.antagon.red/&size=128",
+        "description": "Revista de critica y coyontura."
       },
       {
         "name": "AP News",
