@@ -1,5 +1,5 @@
 {
-  "version": "2.8.1",
+  "version": "2.8.2",
   "translations": {
     "es": {
       "Tech": "Tech",
@@ -2219,6 +2219,13 @@
         "language": "en",
         "image": "https://www.google.com/s2/favicons?domain=observer.com&sz=128",
         "description": "News, data and insight about the powerful forces that shape the world."
+      },
+      {
+        "name": "Perspectivas MX",
+        "url": "https://perspectivas-mx.com/feed/",
+        "language": "es",
+        "image": "https://www.google.com/s2/favicons?domain=https://perspectivas-mx.com/&sz=128",
+        "description": "Periodico con perspectiva de genero"
       },
       {
         "name": "Polemon",
