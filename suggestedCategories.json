@@ -1,5 +1,5 @@
 {
-  "version": "2.8.2",
+  "version": "2.8.3",
   "translations": {
     "es": {
       "Tech": "Tech",
@@ -2327,7 +2327,7 @@
       },
       {
         "name": "South China",
-        "url": "https://www.scmp.com/rss/91/feed",
+        "url": "https://www.scmp.com/rss/feed/",
         "language": "en",
         "image": "https://assets.i-scmp.com/static/img/icons/scmp-meta-1200x630.png",
         "description": "All the latest breaking news from Hong Kong, China and around the world"
